@@ -1,0 +1,31 @@
+$color-one: #909090;
+$color-two: #e86b49;
+
+body {
+  margin: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.blog-back {
+  color: $color-one;
+  font-size: 40px;
+}
+
+.back-arrow {
+  fill: $color-one;
+  margin-right: 35px;
+  transition: all .4s linear;
+}
+
+.blog-back:hover {
+  color: $color-two;  
+}
+
+.blog-back:hover .back-arrow {
+  fill: $color-two;
+  margin-right: 20px;
+  transform: rotate(360deg);
+}
