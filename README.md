@@ -282,6 +282,7 @@
    - [ ] Austral Coffee Bar 
    - [ ] Rummas coffee
    - [ ] La Muriel
+   - [x] Almalibre Açaí House Barcelona
 
 
 ### BUBBLE TEA & ZUMITOS
