@@ -36,6 +36,7 @@
 ### AGUACATE:
    - [ ] L’avocaterie
    - [ ] Costa Barcelona Sitges
+   - [ ] Avocados
 
 
 ## TAPAS
@@ -141,7 +142,7 @@
    - [ ] Pit Stop Pizza Barcelona
    - [ ] Pizzeria Av.Corrientes
    - [ ] Puntaromana Barcelona (Pizza de Pulp a la gallega)
-   - [ ] Pizza Market
+   - [x] Pizza Market
 
 
 ### EMPANADILLAS:
