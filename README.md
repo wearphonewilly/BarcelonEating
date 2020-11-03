@@ -11,7 +11,7 @@
    - [ ] The Oven Witch
    - [ ] Sweet Munchies Bcn
    - [x] Sweet Gaufre
-   - [ ] Cookona
+   - [x] Cookona
    - [ ] Cookies demasié
    - [ ] Sant Croi
    - [ ] Oak Berry
@@ -54,6 +54,8 @@
    - [ ] La Mestressa (Sants)
    - [ ] Acero Street Flavours
    - [ ] Melosa Hamburgueseria 
+   - [ ] Atabalats Gastrobar
+   - [ ] Cervecería Mondoré
    
 
 ## COMIDAS
@@ -86,12 +88,14 @@
 
 ### CARNE:
    - [ ] El Mirador de Can Cases
-   - [ ] Vic Brasería Bcn
    - [ ] Chevy’s Bar
    - [ ] Donde Siempre BCN
    - [ ] LomoAlto & LomoBajo
    - [ ] En Aparte
    - [ ] Taberna Tibu-Ron
+   - [ ] Vic Brasería Barcelona
+   - [ ] Escalope Armando
+   - [ ] FAT BARBIES (Costillas BBQ - Smokehouse)
 
 
 ### HAMBURGUESAS / FRANKFURT / POLLO:
@@ -128,6 +132,11 @@
    - [ ] Big Al's Barcelona Eixample (Reto hamburguesa)
    - [ ] Rooq Chicken (Pollo)
    - [ ] Wild Beef Barcelona (Hamburguesas 200g 4$)
+   - [ ] Koby Burgers
+   - [ ] El Pibe
+   - [ ] Atabalats Gastrobar
+   - [ ] Surf House Secret Spot
+
 
 ### PIZZA:
    - [ ] Chalito
@@ -143,7 +152,8 @@
    - [ ] Pizzeria Av.Corrientes
    - [ ] Puntaromana Barcelona (Pizza de Pulp a la gallega)
    - [x] Pizza Market
-
+   - [ ] Gula PIZZA Bar
+   - [ ] Can Pizza
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
@@ -171,6 +181,7 @@
    - [ ] Fast KIBUKA
    - [ ] Monster Sushi
    - [ ] Sushi He VI
+   - [ ] Sushi Not Sorry
 
  ### JAPÓN / RAMEN / ASIATICO:
    - [ ] Restaurante Japonés Mikasa
@@ -204,6 +215,11 @@
    - [ ] Hanki Restaurante Coreano
    - [ ] Oishii Ramen Street
    - [ ] Mutenroshi Ramen
+   - [ ] Pa Finolis
+   - [ ] Shanghai Stories
+   - [ ] Lucky Road Street Food (neones)
+   - [ ] Takashi Ochiai Pastisseria (Pastelería japonesa y especialidades locales)
+   - [ ] Takumi Sapporo Ramen
 
 ### Mediterranea
    - [ ] Bicnic
@@ -239,6 +255,8 @@
    - [ ] Beryti Bistro (Libanes)
    - [ ] Quiote (Cocina Mexicana/Mezcalería)
    - [ ] Taco Alto (Mexicano, sitio chulo)
+   - [ ] Fishpac (Cocina asiatica - caribeña)
+   - [ ] Hummus & Company
 
 ### VEGAN
     - [ ] Sésamo restaurante
@@ -280,16 +298,19 @@
    - [ ] Cafés El Magnífico
    - [ ] Syra Coffee
    - [ ] Selvática
-   - [ ] Austral Coffee Bar 
+   - [x] Austral Coffee Bar 
    - [ ] Rummas coffee
    - [ ] La Muriel
    - [x] Almalibre Açaí House Barcelona
+   - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
 
 
 ### BUBBLE TEA & ZUMITOS
    - [ ] Tymless Tea
    - [ ] Hammock Juice Station 
    - [ ] Yicha Bcn
+   - [ ] Zen Zoo Bubbles
+   - [ ] Pandacha
 
 
 ### COCKTAILS:
@@ -306,6 +327,8 @@
    - [ ] Hotel The Serras
    - [ ] Purobeach Barcelona
    - [ ] Hotel America Barcelona
+   - [ ] Hotel Ohla Barcelona
+   - [ ] Kimpton Vividora Hotel
 
 
 ### CERVECERÍA:
@@ -315,6 +338,10 @@
    - [ ] La Menuda - Craft Beer & Crazy Food
    - [ ] Bar Centro - Burgers & Craft Beer
    - [ ] Chivuo's
+   - [ ] CocoVail Beer Hall Barcelona
+   - [ ] Gula PIZZA Bar 
+   - [ ] Garage Beer Co (OBSCENE : TIPA 10%)
+   - [ ] Cervecería Mondoré (Elige tu tapa y buscaremos el maridaje con cerveza perfecto para ti)
 
 ### HELADOS:
    - [ ] Manna Gelats
@@ -331,3 +358,5 @@
     - [ ] Xoco Break (_xoco)
     - [ ] Sushi venezolano en bcn (sushilatino16)
     - [ ] Sugar Pastry Company
+    - [ ] Wonder Cookies
+    - [ ] Mando Huevos ⚡️🥚 by Els Pinxus
