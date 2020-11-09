@@ -296,7 +296,7 @@
    - [ ] SlowMov
    - [ ] Nomad Coffee Roaster's Home
    - [ ] Cafés El Magnífico
-   - [ ] Syra Coffee
+   - [x] Syra Coffee
    - [ ] Selvática
    - [x] Austral Coffee Bar 
    - [ ] Rummas coffee

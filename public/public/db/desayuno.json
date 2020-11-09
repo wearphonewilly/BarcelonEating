@@ -1,0 +1,43 @@
+{
+    "desayunos": {
+      "Sils Cakes American Pastry": {
+        "name": "Sils Cakes American Pastry",
+        "description": "aaa",
+        "ubicacion" : "Gracia", 
+        "tags": { "galletas": true , "pasteles": true }
+      },
+      "Bigoven": {
+        "name": "Bigoven",
+        "description": "bbb",
+        "ubicacion" : "Gracia", 
+        "tags": { "galletas": true }
+      },
+      "El Flako": {
+        "name": "El Flako",
+        "description": "ccc",
+        "ubicacion" : "Eixample", 
+        "tags": { "cereales": true}
+      }
+    },
+
+    "Tapas":{
+        "Sils Cakes American Pastry": {
+            "name": "TrikiTrac",
+            "description": "aaa",
+            "ubicacion" : "Sants", 
+            "tags": { "bravas": true }
+          },
+          "Chico Bar": {
+            "name": "Chico Bar",
+            "description": "bbb",
+            "ubicacion" : "Eixample", 
+            "tags": { "bravas": true }
+          },
+          "Tomás Sarria": {
+            "name": "Tomás Sarria",
+            "description": "ccc",
+            "ubicacion" : "Sarria", 
+            "tags": { "bravas": true}
+          }    
+    }
+  }
