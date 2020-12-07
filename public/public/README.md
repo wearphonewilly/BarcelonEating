@@ -8,8 +8,6 @@
    - [ ] El Flako (Cereales)
    - [ ] PittierBCN (merienda)
    - [ ] Tizana Juice Bar
-   - [ ] The Oven Witch
-   - [ ] Sweet Munchies Bcn
    - [x] Sweet Gaufre
    - [x] Cookona
    - [ ] Cookies demasié
@@ -100,7 +98,7 @@
 
 ### HAMBURGUESAS / FRANKFURT / POLLO:
    - [ ] Hideout Burger
-   - [ ] Santa Burg
+   - [x] Santa Burg
    - [x] Timesburg 
    - [ ] NYB - New York Burger
    - [ ] La Real Hamburguesería
@@ -132,7 +130,7 @@
    - [ ] Big Al's Barcelona Eixample (Reto hamburguesa)
    - [ ] Rooq Chicken (Pollo)
    - [ ] Wild Beef Barcelona (Hamburguesas 200g 4$)
-   - [ ] Koby Burgers
+   - [x] Koby Burgers
    - [ ] El Pibe
    - [ ] Atabalats Gastrobar
    - [ ] Surf House Secret Spot
@@ -140,7 +138,7 @@
 
 ### PIZZA:
    - [ ] Chalito
-   - [ ] Murivecchi
+   - [x] Murivecchi
    - [x] Piazze D’Italia
    - [ ] A33 bcn
    - [ ] Lartista pizza
@@ -287,7 +285,7 @@
    - [ ] Sabio Infante Brunch and coffee
    - [ ] Bow Barcelona
    - [ ] Petit Pot
-   - [ ] Bicioci Bike Cafè
+   - [x] Bicioci Bike Cafè
    - [ ] Cafè Cometa
    - [ ] Caravelle
    - [ ] CaféCosmo
@@ -300,9 +298,10 @@
    - [ ] Selvática
    - [x] Austral Coffee Bar 
    - [ ] Rummas coffee
-   - [ ] La Muriel
-   - [x] Almalibre Açaí House Barcelona
+   - [x] La Muriel
    - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
+   - [ ] Mala Llet Coffee Bar
+   - [ ] Librería Byron (Libreria con cafeteria, muy chula)
 
 
 ### BUBBLE TEA & ZUMITOS
@@ -319,6 +318,7 @@
    - [ ] Merbeyé Cocktail Bar
    - [ ] Pisa Morena
    - [ ] Alquimia
+   - [ ] The 19th hole (Planta 19 Urquinaona, se ve toda Barcelona)
 
 
 ### TERRAZAS:
@@ -351,7 +351,6 @@
    - [ ] Amorino Gelato Al Naturale
 
 
-
 ## PEDIR ONLINE
     - [ ] Mordisco Mania
     - [ ] Alfaluquis.bcn (Alfajores Argentinos)
@@ -360,3 +359,5 @@
     - [ ] Sugar Pastry Company
     - [ ] Wonder Cookies
     - [ ] Mando Huevos ⚡️🥚 by Els Pinxus
+    - [ ] The Oven Witch
+    - [ ] Sweet Munchies Bcn

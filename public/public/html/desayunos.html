@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desayunos</title>
+    <link href="../css/desayunos.css" rel="stylesheet">
+    <script src="../js/filter.js" defer></script>
+</head>
+
+<body>
+
+    <nav class="nav">
+        <div class="menu-container">
+            <!-- Menu -->
+            <ul class="menu">
+                <li class="menu-inicio">
+                    <a href="../index.html">
+                        <span>Inicio</span>
+                    </a>
+                </li>
+                <li class="menu-team">
+                    <a href="comidas.html">
+                        <span>Comidas</span>
+                    </a>
+                </li>
+                <li class="menu-rutas">
+                    <a href="tapas.html">
+                        <span>Tapas</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <h1>Desayunos</h1>
+    <button onclick="window.history.back();">Go Back</button>
+
+    <!-- Control buttons -->
+    <div id="myBtnContainer">
+        <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+        <button class="btn" onclick="filterSelection('cookies')"> Cookies</button>
+        <button class="btn" onclick="filterSelection('pasteles')"> Pasteles</button>
+        <button class="btn" onclick="filterSelection('cereales')"> Cereales</button>
+        <button class="btn" onclick="filterSelection('colors')"> Colors</button>
+    </div>
+
+    <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
+    <div class="container">
+
+        <div class="filterDiv cookies pasteles">
+            <a class="card" href="https://codetheweb.blog/2017/10/06/html-syntax/"
+               style="--bg-img: url(https://cf.bstatic.com/images/hotel/max1280x900/171/171784336.jpg)">
+                <div>
+                    <h3>Sils Cakes American Pastry</h3>
+                    <p>cookies y pasteles estilo americano</p>
+                    <a href="https://www.instagram.com/silscakes/"> Instagram</a> <br>
+                    <a href="https://goo.gl/maps/AosTBtQT8MbfSzkk9"> Mapa</a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv colors cookies">
+            <a class="card" href="https://codetheweb.blog/2017/10/09/basic-types-of-html-tags/"
+               style="--bg-img: url('https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://codetheweb.blog/assets/img/posts/basic-types-of-html-tags/cover.jpg')">
+                <div>
+                    <h3>Bigoven</h3>
+                    <p>Learn about some of the most common HTML tags…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa</a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv cereales">
+            <a class="card">
+                <div>
+                    <h3>Corn El Flako</h3>
+                    <p>Bar de cereales</p>
+                    <a href="https://www.instagram.com/elflako.bcn/" class="instagram"> Instagram</a> <br>
+                    <a href="https://goo.gl/maps/MdnjH1HNBuR5RmmT8"> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv cafe pasteles ">
+            <a class="card">
+                <div>
+                    <h3>Pittier BCN</h3>
+                    <p>Panaderia Cafeteria y Tartas</p>
+                    <a href="https://www.instagram.com/pittierbcn/" class="instagram"> Instagram</a> <br>
+                    <a href="https://g.page/pittierbcn?share"> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv acais coco yogurt">
+            <a class="card">
+                <div>
+                    <h3>Tizana Juice Bar</h3>
+                    <p>Boles Açais, boles Yogurt, Coco </p>
+                    <a href="https://www.instagram.com/tizanajuicebar/" class="instagram"> Instagram</a> <br>
+                    <a href="https://g.page/tizana-juice-bar?share"> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv creps cookies ">
+            <a class="card" href="https://codetheweb.blog/2017/10/14/links-images-about-file-paths/"
+               style="background-image: url('https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://codetheweb.blog/assets/img/posts/links-images-about-file-paths/cover.jpg');">
+                <div>
+                    <h3>Sweet Gaufre</h3>
+                    <p>Bubble Waffles</p>
+                    <a href="https://www.instagram.com/sweetgaufrebcn/" class="instagram"> Instagram</a> <br>
+                    <a href="https://goo.gl/maps/7LpndnQgBT7WZSpr8"> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv cookies">
+            <a class="card">
+                <div>
+                    <h3>Cookona</h3>
+                    <p>Cookies dulces enormes</p>
+                    <a href="https://www.instagram.com/cookona_/" class="instagram"> Instagram</a> <br>
+                    <a href="https://g.page/CookonaBarcelona?share"> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv cookies">
+            <a class="card">
+                <div>
+                    <h3>Cookies demasié</h3>
+                    <p>Cookies de muchas variedades, tanto saladas como dulces</p>
+                    <a href="https://www.instagram.com/cookies_demasie/" class="instagram"> Instagram</a> <br>
+                    <a href="https://goo.gl/maps/aBb7UEX4QhEVN3ki9" class="googleMaps"> Google Maps</a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv croissant">
+            <a class="card">
+                <div>
+                    <h3>Sant Croi</h3>
+                    <p>Pasteleria de Albert Roca con Croissants y de todo...</p>
+                    <a href="https://www.instagram.com/sant_croi/" class="instagram"> Instagram</a> <br>
+                    <a href="https://goo.gl/maps/z66CvL57erUjT1fDA" class="googleMaps"> Google Maps</a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>Oak Berry</h3>
+                    <p>Boles Açais</p>
+                    <a href="https://www.instagram.com/oakberryes/" class="instagram"> Instagram</a> <br>
+                    <a href="https://g.page/oakberrygracia?share" class="googleMaps"> Google Maps</a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv fruits">
+            <a class="card">
+                <div>
+                    <h3>Mutig Bakery</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv fruits animals">
+            <a class="card">
+                <div>
+                    <h3>L'Atelier Barcelona</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv fruits">
+            <a class="card">
+                <div>
+                    <h3>The Cream BCN</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>La Desayuneria</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>El Brunch Market</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>Chök The Chocolate Kitchen</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>Bow Barcelona</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv pasteles">
+            <a class="card">
+                <div>
+                    <h3>El Born Pasteleria</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv donuts">
+            <a class="card">
+                <div>
+                    <h3>La Donutería</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>Lukumás</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>ZIMT • Cinnamon Rolls</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>La Cala Barceloneta</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>Alsur Café Llúria - Alsur Forn</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv">
+            <a class="card">
+                <div>
+                    <h3>WaffleBarcelona</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv pasteles">
+            <a class="card">
+                <div>
+                    <h3>Pastisseria Brunells</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv animals">
+            <a class="card">
+                <div>
+                    <h3>Simple Brunch</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+
+        <div class="filterDiv croissant">
+            <a class="card">
+                <div>
+                    <h3>Manolo Bakes</h3>
+                    <p>Learn how to use links and images along with file paths…</p>
+                    <a href="instagram.com" class="instagram"> Instagram</a> <br>
+                    <a href=""> Mapa </a>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="/__/firebase/8.0.0/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="/__/firebase/8.0.0/firebase-analytics.js"></script>
+
+    <!-- Initialize Firebase -->
+    <script src="/__/firebase/init.js"></script>
+
+</body>
+
+</html>
