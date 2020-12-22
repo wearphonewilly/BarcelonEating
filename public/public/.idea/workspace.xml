@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4304c79-7766-4db2-9fee-184f4325553f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/public.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/404.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.firebase/hosting.cHVibGlj.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../.firebase/hosting.cHVibGlj.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bebidas.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/bebidas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comidas.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/comidas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/desayunos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/desayunos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desayunos.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/desayunos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desayunos2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/desayunos2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tapas.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/tapas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +65,16 @@
       <workItem from="1607071592187" duration="3800000" />
       <workItem from="1607298538379" duration="9000" />
       <workItem from="1607332760667" duration="1483000" />
-      <workItem from="1607356008778" duration="376000" />
+      <workItem from="1607356008778" duration="567000" />
     </task>
+    <task id="LOCAL-00001" summary="Modify Desayunos&#10;&#10;FIXME: Need to review .filterDiv">
+      <created>1607356487773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607356487773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

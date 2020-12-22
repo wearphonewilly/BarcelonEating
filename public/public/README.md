@@ -30,6 +30,8 @@
    - [ ] Pastisseria Brunells
    - [ ] Simple Brunch
    - [x] Manolo Bakes
+   - [x] Gelateria Da Gallo
+
 
 ### AGUACATE:
    - [ ] L’avocaterie
@@ -100,7 +102,7 @@
    - [ ] Hideout Burger
    - [x] Santa Burg
    - [x] Timesburg 
-   - [ ] NYB - New York Burger
+   - [x] NYB - New York Burger
    - [ ] La Real Hamburguesería
    - [ ] 08 Burgers
    - [ ] Punto y Coma
@@ -229,8 +231,9 @@
    - [ ] Restaurant B-ONE Palau del Mar
    - [ ] Auto Rosellon
    - [ ] Gut restaurant (Gluten Free)
-   - [ ] Mordisco (pedir bravas de churros, llevar a mar?)
+   - [x] Mordisco
    - [ ] La Venta Restaurante
+   - [ ] El Jardí (Terraza bonita)
 
 ### Internacional 
    - [ ] La Caleta de Sants (Latinoamericano)
@@ -302,6 +305,7 @@
    - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
    - [ ] Mala Llet Coffee Bar
    - [ ] Librería Byron (Libreria con cafeteria, muy chula)
+   - [ ] Pudding Coffee Shop Barcelona (Inspirada Harry Potter)
 
 
 ### BUBBLE TEA & ZUMITOS
@@ -319,6 +323,7 @@
    - [ ] Pisa Morena
    - [ ] Alquimia
    - [ ] The 19th hole (Planta 19 Urquinaona, se ve toda Barcelona)
+   - [ ] Bobby's Free
 
 
 ### TERRAZAS:
@@ -349,6 +354,7 @@
    - [ ] Selvática
    - [ ] The Loco Polo
    - [ ] Amorino Gelato Al Naturale
+   - [x] Gelateria Da Gallo
 
 
 ## PEDIR ONLINE
