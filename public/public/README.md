@@ -31,6 +31,8 @@
    - [ ] Simple Brunch
    - [x] Manolo Bakes
    - [x] Gelateria Da Gallo
+   - [ ] Petit Pastis
+   - [ ] La donuteria
 
 
 ### AGUACATE:
@@ -96,6 +98,7 @@
    - [ ] Vic Brasería Barcelona
    - [ ] Escalope Armando
    - [ ] FAT BARBIES (Costillas BBQ - Smokehouse)
+   - [ ] AsadoBcn
 
 
 ### HAMBURGUESAS / FRANKFURT / POLLO:
@@ -154,6 +157,7 @@
    - [x] Pizza Market
    - [ ] Gula PIZZA Bar
    - [ ] Can Pizza
+   - [ ] The Spot Barcelona
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
@@ -220,6 +224,9 @@
    - [ ] Lucky Road Street Food (neones)
    - [ ] Takashi Ochiai Pastisseria (Pastelería japonesa y especialidades locales)
    - [ ] Takumi Sapporo Ramen
+   - [ ] Bouzu Barcelona
+   - [ ] Parco (Niguiris de pez mantequilla, saquitos de postre)
+   - [ ] Robata
 
 ### Mediterranea
    - [ ] Bicnic
@@ -234,6 +241,8 @@
    - [x] Mordisco
    - [ ] La Venta Restaurante
    - [ ] El Jardí (Terraza bonita)
+   - [ ] Ginette (pulpo, boniato con burrata, croquetas)
+   - [ ] Cal Boter (Calçots)
 
 ### Internacional 
    - [ ] La Caleta de Sants (Latinoamericano)
@@ -258,6 +267,8 @@
    - [ ] Taco Alto (Mexicano, sitio chulo)
    - [ ] Fishpac (Cocina asiatica - caribeña)
    - [ ] Hummus & Company
+   - [ ] La Taqueria BCN
+   - [ ] FOC (patacones de atún, ceviche y entraña)
 
 ### VEGAN
     - [ ] Sésamo restaurante
@@ -277,7 +288,7 @@
    - [ ] Molika Cafe Eixample
    - [ ] SKYE Coffee Co.
    - [x] Crois Croissant Gourmet
-   - [ ] Hidden Café Bcn
+   - [x] Hidden Café Bcn
    - [ ] Espai Joliu
    - [ ] Súper coffee & food store
    - [ ] Orval Barcelona
@@ -306,7 +317,7 @@
    - [ ] Mala Llet Coffee Bar
    - [ ] Librería Byron (Libreria con cafeteria, muy chula)
    - [ ] Pudding Coffee Shop Barcelona (Inspirada Harry Potter)
-
+   - [x] Roast Club Cafe
 
 ### BUBBLE TEA & ZUMITOS
    - [ ] Tymless Tea
@@ -328,16 +339,25 @@
 
 ### TERRAZAS:
    - [ ] Hotel Brummell
+   - [x] Occidental 414 Diagonal
    - [ ] Ayre Hotel Rosellón
    - [ ] Hotel The Serras
    - [ ] Purobeach Barcelona
    - [ ] Hotel America Barcelona
    - [ ] Hotel Ohla Barcelona
    - [ ] Kimpton Vividora Hotel
-
+   - [ ] The Pulitzer Terrace at Hotel Pulitzer
+   - [ ] Ohla Chillout Terrace at Ohla Barcelona
+   - [ ] La Terraza del Claris at Claris Hotel 
+   - [ ] Terraza Colón at Colón Hotel 
+   - [ ] Yurbban Trafalgar Rooftop
+   - [ ] La Dolce Vitae at Majestic Hotel
+   - [ ] Sky Bar at Grand Hotel Central
+   - [ ] La Isabela at Hotel 1898
+   - [ ] La Terraza at Villa Emilia
 
 ### CERVECERÍA:
-   - [ ] Super Sol
+   - [x] Super Sol
    - [ ] BierCaB
    - [ ] Bar Torpedo
    - [ ] La Menuda - Craft Beer & Crazy Food
