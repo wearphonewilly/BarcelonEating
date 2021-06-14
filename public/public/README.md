@@ -31,7 +31,7 @@
    - [ ] Simple Brunch
    - [x] Manolo Bakes
    - [x] Gelateria Da Gallo
-   - [ ] Petit Pastis
+   - [x] Petit Pastis
    - [ ] La donuteria
    - [ ] B Sandwiches
    - [ ] Billy Brunch
@@ -106,7 +106,6 @@
    - [ ] Vic Brasería Barcelona
    - [ ] Escalope Armando
    - [x] FAT BARBIES (Costillas BBQ - Smokehouse)
-   - [x] AsadoBcn
 
 
 ### HAMBURGUESAS / FRANKFURT / POLLO:
@@ -153,7 +152,8 @@
    - [ ] Machaka Burger
    - [ ] ATABALATS Gastrobar (Burgers Gourmet)
    - [ ] BonaBurger
-
+   - [ ] BRO Barcelona
+   - [x] AsadoBcn
 
 ### PIZZA:
    - [ ] Chalito
@@ -188,12 +188,16 @@
    - [ ] Casa Díaz Bcn
    - [ ] Hot Boat (pan & queso)
    - [ ] BYKYNY Bcn (Aparte bocadillo jamón)
+   - [ ] El Rusc (Gracia)
+   - [ ] Patito Feo (Bocadillo + cerveza)
+   - [ ] Bullicio 
 
 ### POKEBOWLS:
    - [ ] D’Street Poke & Bowls
    - [ ] Lato Café
    - [ ] Restaurante ASAP
    - [ ] Poke Si
+   - [ ] Bohl
 
 ### SUSHI:
    - [x] Restaurante Luri
@@ -274,11 +278,20 @@
    - [ ] Fismuler
    - [ ] Restaurante Salero
    - [ ] Tasta Gràcia (Gastronomia Made In Gràcia)
-   - [ ] Denassus
+   - [x] Denassus
    - [ ] La Cova Fumada
    - [ ] Bistrot Levantes
    - [ ] Restaurante Antunez
    - [ ] El Mirador de Can Cases
+   - [ ] Borobar
+   - [ ] Cacho (Brunch con fiesta findes)
+   - [ ] Baldomero
+   - [ ] Alba Granados Restaurant
+   - [ ] Restaurante Salero
+   - [ ] Bar Mono
+   - [ ] Carbo Begur Restaurant (Begur)
+   - [ ] Santa Fe Lobster Roll Bar
+   - [ ] Benzina
 
 ### Internacional 
    - [ ] La Caleta de Sants (Latinoamericano)
@@ -308,11 +321,16 @@
    - [ ] FOC (patacones de atún, ceviche y entraña)
    - [ ] MAJO'S FOOD (Arepa de pulpo Fusión italo-colombiana)
    - [ ] Street Tacos
+   - [ ] Warike Project
+   - [ ] Maro Azul
 
 ### VEGETARIANO
     - [x] Fat Veggies
     - [ ] Sésamo restaurante
     - [ ] Quinoa Barcelona
+    - [x] Flax & Kale
+    - [ ] La Suegra del Jardinero
+    - [ ] The Green Spot
 
 
 ## BEBIDAS
@@ -361,6 +379,9 @@
    - [x] Roast Club Cafe
    - [ ] Café Fosc
    - [ ] Casa Taos
+   - [ ] People Love Coffee
+   - [ ] Bonsai Coffee (web meh)
+
 
 
 ### BUBBLE TEA & ZUMITOS
@@ -369,6 +390,7 @@
    - [ ] Yicha Bcn
    - [ ] Zen Zoo Bubbles
    - [ ] Pandacha
+   - [x] Q TEA
 
 
 ### COCKTAILS:
@@ -401,6 +423,9 @@
    - [ ] La Isabela at Hotel 1898
    - [ ] La Terraza at Villa Emilia
    - [ ] Soho House Barcelona
+   - [ ] Sir Victor Hotel
+   - [ ] Alaire Terrace Bar
+   - [ ] The Corner Hotel (terraza + jazz abajo)
 
 ### CERVECERÍA:
    - [x] Super Sol
@@ -415,6 +440,7 @@
    - [ ] Cervecería Mondoré (Elige tu tapa y buscaremos el maridaje con cerveza perfecto para ti)
    - [ ] Conesa Beer Barcelona
    - [ ] HOPPINESS Craft Beer Bar
+   - [ ] La Texil
 
 ### HELADOS:
    - [ ] Manna Gelats
@@ -423,6 +449,7 @@
    - [ ] The Loco Polo
    - [ ] Amorino Gelato Al Naturale
    - [x] Gelateria Da Gallo
+   - [ ] Anita Gelato Barcelona
 
 
 ## PEDIR ONLINE
@@ -435,3 +462,4 @@
    - [x] Mando Huevos ⚡️🥚 by Els Pinxus
    - [ ] The Oven Witch
    - [ ] Sweet Munchies Bcn
+   - [ ] Al Grano (Paellas)
