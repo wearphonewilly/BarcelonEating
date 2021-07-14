@@ -32,14 +32,18 @@
    - [x] Manolo Bakes
    - [x] Gelateria Da Gallo
    - [x] Petit Pastis
-   - [ ] La donuteria
    - [ ] B Sandwiches
-   - [ ] Billy Brunch
+   - [ ] Billy Brunch & Garden
    - [ ] La Cantonada (Croissant Lotus)
    - [ ] Lilo Coffee
    - [x] Petit Pastis
    - [x] JonCake
    - [ ] EspressoMafia
+   - [ ] La bikineria
+   - [ ] Pastelería Hofmann
+   - [ ] Cereals Addict Café
+   - [ ] EatMyTrip (Brunch)
+   - [ ] El Arbol (Brunch)
 
 
 ### AGUACATE:
@@ -65,6 +69,10 @@
    - [ ] Atabalats Gastrobar
    - [ ] Cervecería Mondoré
    - [ ] Carbo Begur Restaurant (Begur)
+   - [ ] Sant Antoni Glorios
+   - [ ] El Mamón
+   - [ ] Casa Diaz (Tequeños + Bravas)
+   - [ ] La esquinica
 
 ## COMIDAS
 
@@ -85,9 +93,13 @@
    - [ ] La esquinica (Tapas)
    - [ ] Tibu-Ron Beach Club 
    - [ ] Reñé • RestoBar (Modernista)
-   - [ ] Tapas 2254
-   - [ ] D
+   - [ ] Tapas 2254 https://www.tiktok.com/@caketina_/video/6979215152176549126?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814
+   - [ ] Lokal
 
+
+### Paellas
+   - [ ] Julietas
+   - [x] Can Fisher
 
 ### TARTAR:
    - [ ] Bar Cañete 
@@ -106,6 +118,7 @@
    - [ ] Vic Brasería Barcelona
    - [ ] Escalope Armando
    - [x] FAT BARBIES (Costillas BBQ - Smokehouse)
+   - [ ] Can Xurrades
 
 
 ### HAMBURGUESAS / FRANKFURT / POLLO:
@@ -118,7 +131,7 @@
    - [ ] Punto y Coma
    - [ ] Lara Grill
    - [ ] Surf House Barcelona
-   - [ ] El Brunch Market
+   - [ ] Brunch Market
    - [ ] Chico Bar
    - [ ] La Porca BCN
    - [ ] The Dog is hot
@@ -127,6 +140,7 @@
    - [ ] Melosa Hamburgueseria
    - [ ] La Trocadero
    - [ ] Pisa Morena
+   - [ ] Ruta 6
    - [ ] Clorofilabar
    - [ ] Almalibre Açaí House Barcelona (Veganas)
    - [ ] DooBop (Pollo)
@@ -154,6 +168,12 @@
    - [ ] BonaBurger
    - [ ] BRO Barcelona
    - [x] AsadoBcn
+   - [ ] Clubhaus (tiene dj)
+
+### PASTA
+   - [ ] Macchina (Pasta rapida)
+   - [ ] Bella Italia
+
 
 ### PIZZA:
    - [ ] Chalito
@@ -175,6 +195,8 @@
    - [ ] The Haissala’s Pizza
    - [x] Pizza Markets
    - [x] Passione Napolitana
+   - [ ] Don Kilo (Calzone de chocolate)
+   - [ ] Spaccanapoli
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
@@ -198,6 +220,8 @@
    - [ ] Restaurante ASAP
    - [ ] Poke Si
    - [ ] Bohl
+   - [x] Nua Smart Restaurant
+
 
 ### SUSHI:
    - [x] Restaurante Luri
@@ -208,6 +232,13 @@
    - [ ] Monster Sushi
    - [ ] Sushi He VI
    - [ ] Sushi Not Sorry
+   - [ ] Koyo
+   - [ ] Sushi Time
+   - [ ] Un Bocado
+   - [ ] Restaurante Maguro (Pides pantalla)
+   - [ ] Restaurante Tami
+   - [ ] Mambo Sushi
+
 
  ### JAPÓN / RAMEN / ASIATICO:
    - [ ] Restaurante Japonés Mikasa
@@ -216,11 +247,13 @@
    - [ ] Spicy VOLX (Taberna Oriental MUY CHULA NEON)
    - [ ] Ukai Eixample
    - [ ] Ramen Bcn
+   - [ ] Carlota Akaneya (Barbacoa Coreana)
    - [ ] Dr. Zhang, dumplings de Barcelona
    - [ ] Lady Dumpling
    - [ ] Telemaki
+   - [ ] Nomo
    - [ ] Hawker 45
-   - [ ] Mambo Sushi
+   - [ ] Koh-ndal
    - [ ] Kiu Nam Barcelona (Vietnamita)
    - [ ] All Day Wok
    - [x] Xino Mandarino
@@ -229,12 +262,14 @@
    - [ ] Fukuya Restaurante Japonés
    - [ ] Melo-Jia (Pato Pekines)
    - [ ] Shanghai
+   - [ ] Bangkok Cafe
    - [ ] Out of China
    - [ ] Kao Dim Sum
    - [ ] Restaurante chino China city
    - [ ] Teikit
    - [ ] Omu BCN
    - [x] La Vietnamita
+   - [ ] Parco
    - [ ] Tuk Tuk Asian Street Food
    - [ ] Grasshopper Ramen Bar
    - [ ] Asagumo
@@ -255,6 +290,8 @@
    - [ ] Ramen Shifu
    - [ ] Hanki (Japones terraza muy bueno)
    - [ ] Crepería Xian Hui Jie (Crepes Chinas (Jianbing))
+   - [ ] Ichiban
+   - [ ] Kitsuné
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -292,8 +329,13 @@
    - [ ] Carbo Begur Restaurant (Begur)
    - [ ] Santa Fe Lobster Roll Bar
    - [ ] Benzina
+   - [ ] Baldomero
+   - [ ] Feroz
+   - [ ] El Mamón
+   - [ ] Tierra (música en directo)
+   - [ ] Les Files Cafe
 
-### Internacional 
+### Internacional
    - [ ] La Caleta de Sants (Latinoamericano)
    - [ ] Toma Ya Street Food (Peruano)
    - [ ] The Fish & Chips Shop
@@ -317,20 +359,27 @@
    - [ ] Taco Alto (Mexicano, sitio chulo)
    - [ ] Fishpac (Cocina asiatica - caribeña)
    - [ ] Hummus & Company
-   - [ ] La Taqueria BCN
+   - [x] La Taqueria BCN
    - [ ] FOC (patacones de atún, ceviche y entraña)
    - [ ] MAJO'S FOOD (Arepa de pulpo Fusión italo-colombiana)
    - [ ] Street Tacos
    - [ ] Warike Project
    - [ ] Maro Azul
+   - [ ] Burritos
+   - [ ] Addis Abeba (Cocina etiope)
+   - [ ] Foc
+   - [ ] Ginette
 
 ### VEGETARIANO
     - [x] Fat Veggies
     - [ ] Sésamo restaurante
     - [ ] Quinoa Barcelona
+    - [ ] Honest Greens
     - [x] Flax & Kale
     - [ ] La Suegra del Jardinero
     - [ ] The Green Spot
+    - [ ] Vegan Junk Food
+    - [ ] Te Quiero Verde
 
 
 ## BEBIDAS
@@ -381,6 +430,10 @@
    - [ ] Casa Taos
    - [ ] People Love Coffee
    - [ ] Bonsai Coffee (web meh)
+   - [ ] Oma bistro
+   - [ ] Cremat 11
+   - [ ] Bristol
+   - [ ] Federal Cafe
 
 
 
@@ -391,6 +444,8 @@
    - [ ] Zen Zoo Bubbles
    - [ ] Pandacha
    - [x] Q TEA
+   - [ ] Chinese Tofu Magician
+   - [ ] Bubbolitas
 
 
 ### COCKTAILS:
@@ -401,10 +456,21 @@
    - [ ] Alquimia
    - [ ] The 19th hole (Planta 19 Urquinaona, se ve toda Barcelona)
    - [ ] Bobby's Free
+   - [ ] DUX
+   - [ ] Beriut 37
+   - [ ] Paradiso cocktails espectaculares (Sitio oculto pastrami)
+   - [ ] Particular Gastrobar https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814 
+
+### BARES TOMAR ALGO
+   - [ ] Bar Central Raval (terraza chula)
+   - [ ] Snack 55
+   - [ ] Tot 1 Euro Bar
+   - [ ] Mescladis del Pou
 
 
 ### TERRAZAS:
    - [ ] Hotel Brummell
+   - [ ] Hotel Condes
    - [x] Occidental 414 Diagonal
    - [ ] Ayre Hotel Rosellón
    - [ ] Hotel The Serras
@@ -423,24 +489,34 @@
    - [ ] La Isabela at Hotel 1898
    - [ ] La Terraza at Villa Emilia
    - [ ] Soho House Barcelona
-   - [ ] Sir Victor Hotel
+   - [ ] The Rooftop at Sir Victor Hotel
    - [ ] Alaire Terrace Bar
    - [ ] The Corner Hotel (terraza + jazz abajo)
+   - [ ] 1881 per Segardi
+   - [ ] The Wetdeck en el W Hotel
+   - [ ] Iberostar Sky Bar
+   - [ ] Cap Sa Sal (Begur)
+   - [ ] Casa Museu Ametller
+   - [ ] H10 Casa Mimosa 
+   - [ ] Go Beach Club
+   - [ ] Velissima
+   - [ ] Bus Terraza
 
 ### CERVECERÍA:
    - [x] Super Sol
    - [ ] BierCaB
    - [ ] Bar Torpedo
    - [ ] La Menuda - Craft Beer & Crazy Food
-   - [ ] Bar Centro - Burgers & Craft Beer
+   - [x] Bar Centro - Burgers & Craft Beer
    - [ ] Chivuo's
    - [ ] CocoVail Beer Hall Barcelona
    - [ ] Gula PIZZA Bar 
-   - [ ] Garage Beer Co (OBSCENE : TIPA 10%)
+   - [x] Garage Beer Co (OBSCENE : TIPA 10%)
    - [ ] Cervecería Mondoré (Elige tu tapa y buscaremos el maridaje con cerveza perfecto para ti)
    - [ ] Conesa Beer Barcelona
    - [ ] HOPPINESS Craft Beer Bar
    - [ ] La Texil
+   - [ ] Ruta 6
 
 ### HELADOS:
    - [ ] Manna Gelats
@@ -449,7 +525,8 @@
    - [ ] The Loco Polo
    - [ ] Amorino Gelato Al Naturale
    - [x] Gelateria Da Gallo
-   - [ ] Anita Gelato Barcelona
+   - [x] Anita Gelato Barcelona
+   - [ ] Rocambolesc
 
 
 ## PEDIR ONLINE
