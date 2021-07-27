@@ -569,6 +569,94 @@
                 "Bubble Tea": true
             },
             "ubicacion": "XXX"
+        },
+        "Orient Express Cocktail Bar": {
+            "description": "Te trae los cocktails en un tren",
+            "name": "Orient Express Cocktail Bar",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "El Jardinet d’Aribau": {
+            "description": "aaa",
+            "name": "El Jardinet d’Aribau",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Merbeyé Cocktail Bar": {
+            "description": "aaa",
+            "name": "Merbeyé Cocktail Bar",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Pisa Morena": {
+            "description": "aaa",
+            "name": "Pisa Morena",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Alquimia": {
+            "description": "aaa",
+            "name": "Alquimia",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "The 19th hole": {
+            "description": "Planta 19 Urquinaona, se ve toda Barcelona",
+            "name": "The 19th hole",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bobby's Free": {
+            "description": "aaa",
+            "name": "Bobby's Free",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "DUX": {
+            "description": "aaa",
+            "name": "DUX",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Beriut 37": {
+            "description": "aaa",
+            "name": "Beriut 37",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Paradiso": {
+            "description": "Sitio oculto pastrami",
+            "name": "Paradiso",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Particular Gastrobar": {
+            "description": "https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814",
+            "name": "Particular Gastrobar",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
         }
     },
     "Comidas": "a",
