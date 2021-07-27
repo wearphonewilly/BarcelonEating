@@ -1,0 +1,186 @@
+{
+  "Bebidas" : "a",
+  "Comidas" : "a",
+  "Desayunos" : {
+    "Sils Cakes American Pastry" : {
+      "description" : "bbb",
+      "name" : "Sils Cakes American Pastry",
+      "tags" : {
+        "galletas" : true,
+        "pasteles" : true
+      },
+      "ubicacion" : "Gracia"
+    },
+    "El Flako" : {
+      "description" : "aaa",
+      "name" : "El Flako",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "PittierBCN" : {
+      "description" : "a",
+      "name" : "PittierBCN",
+      "tags" : {
+        "bravas" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Tizana Juice Bar" : {
+      "description" : "aaa",
+      "name" : "Tizana Juice Bar",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Sweet Gaufre" : {
+      "description" : "aaa",
+      "name" : "Sweet Gaufre",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Cookona" : {
+      "description" : "aaa",
+      "name" : "Cookona",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Cookies demasié" : {
+      "description" : "aaa",
+      "name" : "Cookies demasié",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Sant Croi" : {
+      "description" : "aaa",
+      "name" : "Sant Croi",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Oak Berry" : {
+      "description" : "aaa",
+      "name" : "Oak Berry",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Mutig bakery" : {
+      "description" : "aaa",
+      "name" : "Mutig bakery",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "L’Atelier Barcelona" : {
+      "description" : "aaa",
+      "name" : "L’Atelier Barcelona",
+      "tags" : {
+        "cereales" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "The Cream BCN" : {
+      "description" : "aaa",
+      "name" : "The Cream BCN",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "La Desayuneria" : {
+      "description" : "aaa",
+      "name" : "La Desayuneria",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "El Brunch Market" : {
+      "description" : "aaa",
+      "name" : "El Brunch Market",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Chök The Chocolate Kitchen" : {
+      "description" : "aaa",
+      "name" : "Chök The Chocolate Kitchen",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Bow Barcelona" : {
+      "description" : "aaa",
+      "name" : "Bow Barcelona",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "El Born Pasteleria" : {
+      "description" : "aaa",
+      "name" : "El Born Pasteleria",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "La Donutería" : {
+      "description" : "aaa",
+      "name" : "La Donutería",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    },
+    "Lukumás" : {
+      "description" : "aaa",
+      "name" : "Lukumás",
+      "tags" : {
+        "waggle buffle" : true
+      },
+      "ubicacion" : "XXX"
+    }
+  },
+  "Tapas" : {
+    "Chico Bar" : {
+      "description" : "bbb",
+      "name" : "Chico Bar",
+      "tags" : {
+        "bravas" : true
+      },
+      "ubicacion" : "Eixample"
+    },
+    "Sils Cakes American Pastry" : {
+      "description" : "aaa",
+      "name" : "TrikiTrac",
+      "tags" : {
+        "bravas" : true
+      },
+      "ubicacion" : "Sants"
+    },
+    "Tomás Sarria" : {
+      "description" : "Bar clásico, especializado en patatas fritas al estilo tradicional con salsa picante, donde se sirven tapas y cerveza artesanal.",
+      "name" : "Tomás Sarria",
+      "tags" : {
+        "bravas" : true
+      },
+      "ubicacion" : "Sarria"
+    }
+  },
+  "Terrazas" : "a"
+}

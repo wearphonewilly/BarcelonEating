@@ -3,15 +3,15 @@
 ## DESAYUNOS
 
 ### GALLETAS / PASTEL / CEREALES / CROISSANTS / DONUTS:
-   - [x] Sils Cakes American Pastry (Galletas, pasteles)
+   - [x] Sils Cakes American Pastry (Galletas, pasteles) €€ - €€€
    - [ ] Bigoven (galletas)
    - [ ] El Flako (Cereales)
    - [ ] PittierBCN (merienda)
    - [ ] Tizana Juice Bar
-   - [x] Sweet Gaufre
-   - [x] Cookona
-   - [x] Cookies demasié
-   - [ ] Sant Croi
+   - [x] Sweet Gaufre €
+   - [x] Cookona €€ - €€€
+   - [x] Cookies demasié €
+   - [ ] Sant Croi €€ - €€€
    - [ ] Oak Berry
    - [ ] Mutig bakery
    - [ ] L’Atelier Barcelona
@@ -44,6 +44,11 @@
    - [ ] Cereals Addict Café
    - [ ] EatMyTrip (Brunch)
    - [ ] El Arbol (Brunch)
+   - [ ] Gabby's (Brunch)
+   - [ ] Little Fern (Brunch)
+   - [ ] Eixampeling Brunch Café & Bar (Brunch)
+   - [ ] EqvilibrivmCafe (Brunch)
+   - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
 
 
 ### AGUACATE:
@@ -59,7 +64,6 @@
    - [ ] Chico Bar
    - [x] Tomás Sarria
    - [ ] Cadaqués Restaurant
-   - [ ] Melosa
    - [ ] Mitte Restaurant
    - [ ] Alquimia
    - [ ] Casa Diaz BCN
@@ -83,6 +87,7 @@
    - [ ] Happy Rock BCN
    - [ ] Pez Tortilla
    - [x] Croqueteca Glorias - Tapería & Coctelería
+   - [ ] Cata By Catacroquet - Born
    - [ ] Bar Malasang (Tapas)
    - [ ] Granja Petitbo
    - [ ] Café Berlín Barcelona (Más cosas)
@@ -93,7 +98,7 @@
    - [ ] La esquinica (Tapas)
    - [ ] Tibu-Ron Beach Club 
    - [ ] Reñé • RestoBar (Modernista)
-   - [ ] Tapas 2254 https://www.tiktok.com/@caketina_/video/6979215152176549126?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814
+   - [ ] Tapas 2254 https://www.tiktok.com/@caketina_/video/6979215152176549126?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814 + tartar roll
    - [ ] Lokal
 
 
@@ -148,7 +153,7 @@
    - [ ] Pescadea (hamburguesas de pescado)
    - [ ] La Parrilla Gourmet
    - [ ] QBurger
-   - [ ] Debutis (Butifarras)
+   - [x] Debutis (Butifarras)
    - [ ] Acero Street Flavors
    - [ ] The Ranch Smokehouse (bomba de hamburguesa)
    - [ ] Altaburg (hamburguesa con donut)
@@ -161,6 +166,7 @@
    - [ ] Atabalats Gastrobar
    - [ ] Surf House Secret Spot
    - [ ] Gringa
+   - [ ] Foc i Oli
    - [ ] Piel de Gallina (Pollo)
    - [ ] The Egg Lab Street
    - [ ] Machaka Burger
@@ -173,6 +179,7 @@
 ### PASTA
    - [ ] Macchina (Pasta rapida)
    - [ ] Bella Italia
+   - [ ] Le Cucine Mandarosso
 
 
 ### PIZZA:
@@ -197,6 +204,7 @@
    - [x] Passione Napolitana
    - [ ] Don Kilo (Calzone de chocolate)
    - [ ] Spaccanapoli
+   - [ ] NAP Neapolitan Authentic Pizzas
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
@@ -221,6 +229,7 @@
    - [ ] Poke Si
    - [ ] Bohl
    - [x] Nua Smart Restaurant
+   - [ ] Señora Piña
 
 
 ### SUSHI:
@@ -231,13 +240,15 @@
    - [ ] Fast KIBUKA
    - [ ] Monster Sushi
    - [ ] Sushi He VI
-   - [ ] Sushi Not Sorry
+   - [ ] Sushi Not Sorry (Sushi croquetas)
    - [ ] Koyo
    - [ ] Sushi Time
    - [ ] Un Bocado
    - [ ] Restaurante Maguro (Pides pantalla)
    - [ ] Restaurante Tami
    - [ ] Mambo Sushi
+   - [ ] U35 Sushi
+   - [ ] Kibuka (Kibuka Llull)
 
 
  ### JAPÓN / RAMEN / ASIATICO:
@@ -255,7 +266,9 @@
    - [ ] Hawker 45
    - [ ] Koh-ndal
    - [ ] Kiu Nam Barcelona (Vietnamita)
+   - [ ] Món Việt Barcelona
    - [ ] All Day Wok
+   - [ ] L'Ós Panda (Especialidad Fideos Mi Xian)
    - [x] Xino Mandarino
    - [ ] Kasa Ramen
    - [ ] Ramen-ya Hiro
@@ -263,6 +276,7 @@
    - [ ] Melo-Jia (Pato Pekines)
    - [ ] Shanghai
    - [ ] Bangkok Cafe
+   - [ ] Xoxo Barcelona
    - [ ] Out of China
    - [ ] Kao Dim Sum
    - [ ] Restaurante chino China city
@@ -292,10 +306,12 @@
    - [ ] Crepería Xian Hui Jie (Crepes Chinas (Jianbing))
    - [ ] Ichiban
    - [ ] Kitsuné
+   - [ ] Ramen Kagura
 
 ### HOTPOTS
    - [ ] Sabor Sichua
    - [ ] Spicy Soul Hot Pot
+   - [ ] HotPot Yuanlaosi
 
 ### Mediterranea
    - [ ] Bicnic
@@ -323,6 +339,7 @@
    - [ ] Borobar
    - [ ] Cacho (Brunch con fiesta findes)
    - [ ] Baldomero
+   - [ ] Bodega La Peninsular (La Bomba)
    - [ ] Alba Granados Restaurant
    - [ ] Restaurante Salero
    - [ ] Bar Mono
@@ -332,8 +349,9 @@
    - [ ] Baldomero
    - [ ] Feroz
    - [ ] El Mamón
-   - [ ] Tierra (música en directo)
+   - [x] Tierra (música en directo)
    - [ ] Les Files Cafe
+   - [ ] CheChe Restaurant (cono de ensaladilla rusa de ventresca con caviar)
 
 ### Internacional
    - [ ] La Caleta de Sants (Latinoamericano)
@@ -349,8 +367,9 @@
    - [ ] Gonzalez and Co
    - [ ] Baby jalebi (PUNJABI STREET FOOD)
    - [ ] Leche de Tige (Perú)
+   - [ ] Araki Internacional
    - [ ] Mechita Sour - Resto Bar Bcn (Perú)
-   - [ ] TheQuickGreek (Griego)
+   - [x] TheQuickGreek (Griego)
    - [ ] Tio Papelón (Venezolano)
    - [ ] El Maracucho Grill House (Venezolano)
    - [ ] Masala'73 Curry Bar (Indio)
@@ -380,6 +399,7 @@
     - [ ] The Green Spot
     - [ ] Vegan Junk Food
     - [ ] Te Quiero Verde
+    - [ ] La Papa Barcelona
 
 
 ## BEBIDAS
@@ -407,13 +427,19 @@
    - [ ] Sabio Infante Brunch and coffee
    - [ ] Bow Barcelona
    - [ ] Petit Pot
+   - [ ] Hygge Coffee Bcn (Gracia)
+   - [ ] Heladeria Barcelona
    - [x] Bicioci Bike Cafè
    - [ ] Cafè Cometa
+   - [ ] PERLA COFFEE KIOSK
    - [ ] Caravelle
    - [ ] CaféCosmo
+   - [ ] Ombú Bcn
    - [ ] Black Remedy
+   - [ ] Es Bien Coffee
    - [ ] Onna Coffee
    - [ ] SlowMov
+   - [x] Robot House Barcelona
    - [ ] Nomad Coffee Roaster's Home
    - [ ] Cafés El Magnífico
    - [x] Syra Coffee
@@ -421,12 +447,12 @@
    - [x] Austral Coffee Bar 
    - [ ] Rummas coffee
    - [x] La Muriel
-   - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
    - [ ] Mala Llet Coffee Bar
    - [ ] Librería Byron (Libreria con cafeteria, muy chula)
    - [ ] Pudding Coffee Shop Barcelona (Inspirada Harry Potter)
    - [x] Roast Club Cafe
    - [ ] Café Fosc
+   - [ ] La Papa Barcelona
    - [ ] Casa Taos
    - [ ] People Love Coffee
    - [ ] Bonsai Coffee (web meh)
@@ -434,6 +460,13 @@
    - [ ] Cremat 11
    - [ ] Bristol
    - [ ] Federal Cafe
+   - [ ] Suis Gracia
+   - [ ] Little Fern
+   - [ ] PuroCafé (Born)
+   - [ ] Sweet Lima
+   - [ ] La Texil
+   - [ ] La Malcriada
+   - [ ] Duval Buns & Coffee
 
 
 
@@ -501,6 +534,7 @@
    - [ ] Go Beach Club
    - [ ] Velissima
    - [ ] Bus Terraza
+   - [ ] Cotton House
 
 ### CERVECERÍA:
    - [x] Super Sol
@@ -517,6 +551,8 @@
    - [ ] HOPPINESS Craft Beer Bar
    - [ ] La Texil
    - [ ] Ruta 6
+   - [ ] BlackLab Brewhouse & Kitchen
+   - [ ] Tripping Animals Brewing®️
 
 ### HELADOS:
    - [ ] Manna Gelats
@@ -527,6 +563,7 @@
    - [x] Gelateria Da Gallo
    - [x] Anita Gelato Barcelona
    - [ ] Rocambolesc
+   - [ ] Paral·lelo
 
 
 ## PEDIR ONLINE
@@ -540,3 +577,11 @@
    - [ ] The Oven Witch
    - [ ] Sweet Munchies Bcn
    - [ ] Al Grano (Paellas)
+   - [ ] Patapollo restaurants
+   - [ ] The Paella Club (Haces tu la paella)
+   - [ ] Macao Home Sushi (Hacer sushi en casa)
+
+
+## COSTA BRAVA
+   - [ ] Nonnapaquita
+   - [ ] Cal Tuset Peratallada (Magdalenas)

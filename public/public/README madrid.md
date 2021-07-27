@@ -20,6 +20,8 @@
 - [ ] Picalagartos (terraza copas por Gran Via)
 - [ ] Inclan brutal bar
 - [ ] Cheesecake Avenue 
+- [ ] Amargo Place To Be
+- [ ] Naked & Sated
 
 ## HELADOS
 - [ ] N2LAB (Helados de nitrogeno)
