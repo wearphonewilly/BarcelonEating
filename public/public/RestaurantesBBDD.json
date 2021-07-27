@@ -2,1037 +2,1039 @@
     "Bebidas": [{
             "description": "aaa",
             "name": "On y Va Barcelona",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Camelia Art Cafe",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bykate bcn",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Casa Bonay",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Cava cakery",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Morrow Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Satan’s Coffee Corner",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Brunchef",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Molika Cafe Eixample",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Crois Croissant Gourmet",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hidden Cafe Bcn",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Espai Joliu",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Super coffee & food store",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Orval Barcelona",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Frenesi Cafe",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Somewhere Aribau",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Departure Coffee Co.",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Coffee Casa",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "SKYE Coffee Co.",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Sabio Infante Brunch and coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bow Barcelona",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Petit Pot",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hygge Coffee Bcn",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "Gracia"
         },
         {
             "description": "aaa",
             "name": "Heladeria Barcelona",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bicioci Bike Cafè",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "Gracia"
         },
         {
             "description": "aaa",
             "name": "Cafè Cometa",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "PERLA COFFEE KIOSK",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Lilo Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Caravelle",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "CafeCosmo",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Ombu Bcn",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Black Remedy",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Es Bien Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Onna Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "SlowMov",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Robot House Barcelona",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Nomad Coffee Roaster's Home",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Cafes El Magnifico",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Syra Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Selvatica",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Austral Coffee Bar",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Rummas coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Muriel",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Mala Llet Coffee Bar",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Libreria Byron",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Pudding Coffee Shop Barcelona",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Roast Club Cafe",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Café Fosc",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Papa Barcelona",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Casa Taos",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "People Love Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bonsai Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Oma bistro",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Cremat 11",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bristol",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Federal Cafe",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Suis Gracia",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Little Fern",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "PuroCafe",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "Born"
         },
         {
             "description": "aaa",
             "name": "Sweet Lima",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Texil",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Malcriada",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Duval Buns & Coffee",
-            "tags": {
+            "tags": [{
                 "cafe": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Tymless Tea",
-            "tags": {
+            "tags": [{
                 "Bubble Tea": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hammock Juice Station",
-            "tags": {
+            "tags": [{
                 "Zumos": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Yicha Bcn",
-            "tags": {
+            "tags": [{
                 "Bubble Tea": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Zen Zoo Bubbles",
-            "tags": {
+            "tags": [{
                 "Bubble Tea": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Pandacha",
-            "tags": {
+            "tags": [{
                 "Bubble Tea": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Q TEA",
-            "tags": {
+            "tags": [{
                 "Bubble Tea": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Chinese Tofu Magician",
-            "tags": {
+            "tags": [{
                 "Bubble Tea": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bubbolitas",
-            "tags": {
+            "tags": [{
                 "Bubble Tea": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "Te trae los cocktails en un tren",
             "name": "Orient Express Cocktail Bar",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "El Jardinet d’Aribau",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Merbeyé Cocktail Bar",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Pisa Morena",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Alquimia",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "Planta 19 Urquinaona, se ve toda Barcelona",
             "name": "The 19th hole",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bobby's Free",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "DUX",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Beriut 37",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "Sitio oculto pastrami",
             "name": "Paradiso",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814",
             "name": "Particular Gastrobar",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bar Central Raval",
-            "tags": {
-                "bar": true
-            },
+            "tags": [{
+                "Bar": true
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Snack 55",
-            "tags": {
-                "bar": true
-            },
+            "tags": [{
+                "Bar": true
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Tot 1 Euro Bar",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Mescladis del Pou",
-            "tags": {
+            "tags": [{
                 "Cocktails": true
-            },
+            }],
             "ubicacion": "XXX"
         }
     ],
     "Comidas": ["a"],
-    "Desayunos": [
-        {
+    "Desayunos": [{
             "description": "bbb",
             "name": "Sils Cakes American Pastry",
-            "tags": {
-                "galletas": true,
-                "pasteles": true
-            },
+            "tags": [{
+                    "galletas": true
+                },
+                {
+                    "pasteles": true
+                }
+            ],
             "ubicacion": "Gracia"
         },
         {
             "description": "aaa",
             "name": "El Flako",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "a",
             "name": "PittierBCN",
-            "tags": {
-                "bravas": true
-            },
+            "tags": [{
+                "cereales": true
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Tizana Juice Bar",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Sweet Gaufre",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Cookona",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Cookies demasie",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Sant Croi",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Oak Berry",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Mutig bakery",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "L’Atelier Barcelona",
-            "tags": {
+            "tags": [{
                 "cereales": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "The Cream BCN",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Desayuneria",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "El Brunch Market",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Chök The Chocolate Kitchen",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bow Barcelona",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "El Born Pasteleria",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Donuteria",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Lukumas",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "ZIMT • Cinnamon Rolls",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Cala Barceloneta",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Alsur Cafe Lluria - Alsur Forn",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "WaffleBarcelona",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Pastisseria Brunells",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Manolo Bakes",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Petit Pastis",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "B Sandwiches",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Cantonada",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Gelateria Da Gallo",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "JonCake",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "EspressoMafia",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La bikineria",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Pasteleria Hofmann",
-            "tags": {
+            "tags": [{
                 "waggle buffle": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "bbb",
             "name": "Billy Brunch & Garden",
-            "tags": {
-                "bravas": true
-            },
+            "tags": [{
+                "brunch": true
+            }],
             "ubicacion": "Eixample"
         },
         {
             "description": "aaa",
             "name": "Cereals Addict Cafe",
-            "tags": {
-                "bravas": true
-            },
+            "tags": [{
+                "brunch": true
+            }],
             "ubicacion": "Sants"
         },
         {
             "description": "aaa",
             "name": "EatMyTrip",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "Sarria"
         },
         {
             "description": "aaa",
             "name": "El Arbol",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Gabby's",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Little Fern",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Eixampeling Brunch Café & Bar",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "EqvilibrivmCafe",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Simple Brunch",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Es Bien Brunch",
-            "tags": {
+            "tags": [{
                 "brunch": true
-            },
+            }],
             "ubicacion": "XXX"
         }
     ],
@@ -1041,418 +1043,514 @@
         {
             "description": "bbb",
             "name": "Chico Bar",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "Eixample"
         },
         {
             "description": "aaa",
             "name": "TrikiTrac",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "Sants"
         },
         {
             "description": "Bar clasico, especializado en patatas fritas al estilo tradicional con salsa picante, donde se sirven tapas y cerveza artesanal.",
             "name": "Tomas Sarria",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "Sarria"
         },
         {
             "description": "aaa",
             "name": "Cadaqués Restaurant",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Mitte Restaurant",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Alquimia",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Casa Diaz BCN",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bar Del Pla",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "Born"
         },
         {
             "description": "aaa",
             "name": "La Mestressa",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "Sants"
         },
         {
             "description": "aaa",
             "name": "Melosa Hamburgueseria",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Atabalats Gastrobar",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Cervecería Mondoré",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Carbo Begur Restaurant",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "Begur"
         },
         {
             "description": "aaa",
             "name": "Sant Antoni Glorios",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "El Mamón",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La esquinica",
-            "tags": {
+            "tags": [{
                 "bravas": true
-            },
+            }],
             "ubicacion": "XXX"
         }
     ],
     "Terrazas": [{
             "description": "aaa",
             "name": "Hotel Brummell",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hotel Condes",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Occidental 414 Diagonal",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Ayre Hotel Rosellón",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hotel The Serras",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": " Purobeach Barcelona",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hotel America Barcelona",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hotel Ohla Barcelona",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Hotel Casa Bonay",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Kimpton Vividora Hotel",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "The Pulitzer Terrace at Hotel Pulitzer",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Ohla Chillout Terrace at Ohla Barcelona",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Terraza Colón at Colón Hotel",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Yurbban Trafalgar Rooftop",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Dolce Vitae at Majestic Hotel",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Sky Bar at Grand Hotel Central",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Isabela at Hotel 1898",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "La Terraza at Villa Emilia",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Soho House Barcelona",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "The Rooftop at Sir Victor Hotel",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Alaire Terrace Bar",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "The Corner Hotel ",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "1881 per Segardi",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "The Wetdeck en el W Hotel",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Iberostar Sky Bar",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Cap Sa Sal",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "Begur"
         },
         {
             "description": "aaa",
             "name": "Casa Museu Ametller",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "H10 Casa Mimosa",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Go Beach Club",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Velissima",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Bus Terraza",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         },
         {
             "description": "aaa",
             "name": "Cotton House",
-            "tags": {
-                "hoteles": true,
-                "terrazas": true
-            },
+            "tags": [{
+                    "hoteles": true
+                },
+                {
+                    "terrazas": true
+                }
+            ],
             "ubicacion": "XXX"
         }
     ]
