@@ -67,7 +67,7 @@
    - [ ] Cadaqués Restaurant
    - [ ] Mitte Restaurant
    - [ ] Alquimia
-   - [ ] Casa Diaz BCN
+   - [ ] Casa Diaz (Tequeños + Bravas)
    - [ ] Bar Del Pla (Born)
    - [ ] La Mestressa (Sants)
    - [ ] Melosa Hamburgueseria 
@@ -76,7 +76,6 @@
    - [ ] Carbo Begur Restaurant (Begur)
    - [ ] Sant Antoni Glorios
    - [ ] El Mamón
-   - [ ] Casa Diaz (Tequeños + Bravas)
    - [ ] La esquinica
 
 ## COMIDAS

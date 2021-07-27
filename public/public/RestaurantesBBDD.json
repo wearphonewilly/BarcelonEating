@@ -1,6 +1,5 @@
 {
-    "Bebidas": {
-        "On y Va Barcelona": {
+    "Bebidas": [{
             "description": "aaa",
             "name": "On y Va Barcelona",
             "tags": {
@@ -8,7 +7,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Camelia Art Cafe": {
+        {
             "description": "aaa",
             "name": "Camelia Art Cafe",
             "tags": {
@@ -16,7 +15,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bykate bcn": {
+        {
             "description": "aaa",
             "name": "Bykate bcn",
             "tags": {
@@ -24,7 +23,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Casa Bonay": {
+        {
             "description": "aaa",
             "name": "Casa Bonay",
             "tags": {
@@ -32,7 +31,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Cava cakery": {
+        {
             "description": "aaa",
             "name": "La Cava cakery",
             "tags": {
@@ -40,7 +39,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Morrow Coffee": {
+        {
             "description": "aaa",
             "name": "Morrow Coffee",
             "tags": {
@@ -48,7 +47,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Satans Coffee Corner": {
+        {
             "description": "aaa",
             "name": "Satan’s Coffee Corner",
             "tags": {
@@ -56,7 +55,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Brunchef": {
+        {
             "description": "aaa",
             "name": "Brunchef",
             "tags": {
@@ -64,7 +63,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Molika Cafe Eixample": {
+        {
             "description": "aaa",
             "name": "Molika Cafe Eixample",
             "tags": {
@@ -72,7 +71,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Crois Croissant Gourmet": {
+        {
             "description": "aaa",
             "name": "Crois Croissant Gourmet",
             "tags": {
@@ -80,7 +79,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hidden Cafe Bcn": {
+        {
             "description": "aaa",
             "name": "Hidden Cafe Bcn",
             "tags": {
@@ -88,7 +87,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Espai Joliu": {
+        {
             "description": "aaa",
             "name": "Espai Joliu",
             "tags": {
@@ -96,7 +95,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Super coffee & food store": {
+        {
             "description": "aaa",
             "name": "Super coffee & food store",
             "tags": {
@@ -104,7 +103,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Orval Barcelona": {
+        {
             "description": "aaa",
             "name": "Orval Barcelona",
             "tags": {
@@ -112,7 +111,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Frenesi Cafe": {
+        {
             "description": "aaa",
             "name": "Frenesi Cafe",
             "tags": {
@@ -120,7 +119,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Somewhere Aribau": {
+        {
             "description": "aaa",
             "name": "Somewhere Aribau",
             "tags": {
@@ -128,7 +127,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Departure Coffee Co": {
+        {
             "description": "aaa",
             "name": "Departure Coffee Co.",
             "tags": {
@@ -136,7 +135,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Coffee Casa": {
+        {
             "description": "aaa",
             "name": "Coffee Casa",
             "tags": {
@@ -144,7 +143,7 @@
             },
             "ubicacion": "XXX"
         },
-        "SKYE Coffee Co": {
+        {
             "description": "aaa",
             "name": "SKYE Coffee Co.",
             "tags": {
@@ -152,8 +151,7 @@
             },
             "ubicacion": "XXX"
         },
-
-        "Sabio Infante Brunch and coffee": {
+        {
             "description": "aaa",
             "name": "Sabio Infante Brunch and coffee",
             "tags": {
@@ -161,7 +159,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bow Barcelona": {
+        {
             "description": "aaa",
             "name": "Bow Barcelona",
             "tags": {
@@ -169,7 +167,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Petit Pot": {
+        {
             "description": "aaa",
             "name": "Petit Pot",
             "tags": {
@@ -177,7 +175,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hygge Coffee Bcn": {
+        {
             "description": "aaa",
             "name": "Hygge Coffee Bcn",
             "tags": {
@@ -185,7 +183,7 @@
             },
             "ubicacion": "Gracia"
         },
-        "Heladeria Barcelona": {
+        {
             "description": "aaa",
             "name": "Heladeria Barcelona",
             "tags": {
@@ -193,7 +191,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bicioci Bike Cafè": {
+        {
             "description": "aaa",
             "name": "Bicioci Bike Cafè",
             "tags": {
@@ -201,7 +199,7 @@
             },
             "ubicacion": "Gracia"
         },
-        "Cafe Cometa": {
+        {
             "description": "aaa",
             "name": "Cafè Cometa",
             "tags": {
@@ -209,7 +207,7 @@
             },
             "ubicacion": "XXX"
         },
-        "PERLA COFFEE KIOSK": {
+        {
             "description": "aaa",
             "name": "PERLA COFFEE KIOSK",
             "tags": {
@@ -217,7 +215,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Lilo Coffee": {
+        {
             "description": "aaa",
             "name": "Lilo Coffee",
             "tags": {
@@ -225,7 +223,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Caravelle": {
+        {
             "description": "aaa",
             "name": "Caravelle",
             "tags": {
@@ -233,7 +231,7 @@
             },
             "ubicacion": "XXX"
         },
-        "CafeCosmo": {
+        {
             "description": "aaa",
             "name": "CafeCosmo",
             "tags": {
@@ -241,8 +239,7 @@
             },
             "ubicacion": "XXX"
         },
-
-        "Ombu Bcn": {
+        {
             "description": "aaa",
             "name": "Ombu Bcn",
             "tags": {
@@ -250,7 +247,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Black Remedy": {
+        {
             "description": "aaa",
             "name": "Black Remedy",
             "tags": {
@@ -258,7 +255,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Es Bien Coffee": {
+        {
             "description": "aaa",
             "name": "Es Bien Coffee",
             "tags": {
@@ -266,7 +263,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Onna Coffee": {
+        {
             "description": "aaa",
             "name": "Onna Coffee",
             "tags": {
@@ -274,7 +271,7 @@
             },
             "ubicacion": "XXX"
         },
-        "SlowMov": {
+        {
             "description": "aaa",
             "name": "SlowMov",
             "tags": {
@@ -282,7 +279,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Robot House Barcelona": {
+        {
             "description": "aaa",
             "name": "Robot House Barcelona",
             "tags": {
@@ -290,7 +287,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Nomad Coffee Roaster's Home": {
+        {
             "description": "aaa",
             "name": "Nomad Coffee Roaster's Home",
             "tags": {
@@ -298,7 +295,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Cafes El Magnifico": {
+        {
             "description": "aaa",
             "name": "Cafes El Magnifico",
             "tags": {
@@ -306,7 +303,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Syra Coffee": {
+        {
             "description": "aaa",
             "name": "Syra Coffee",
             "tags": {
@@ -314,7 +311,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Selvatica": {
+        {
             "description": "aaa",
             "name": "Selvatica",
             "tags": {
@@ -322,7 +319,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Austral Coffee Bar": {
+        {
             "description": "aaa",
             "name": "Austral Coffee Bar",
             "tags": {
@@ -330,7 +327,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Rummas coffee": {
+        {
             "description": "aaa",
             "name": "Rummas coffee",
             "tags": {
@@ -338,7 +335,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Muriel": {
+        {
             "description": "aaa",
             "name": "La Muriel",
             "tags": {
@@ -346,7 +343,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Mala Llet Coffee Bar": {
+        {
             "description": "aaa",
             "name": "Mala Llet Coffee Bar",
             "tags": {
@@ -354,7 +351,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Libreria Byron": {
+        {
             "description": "aaa",
             "name": "Libreria Byron",
             "tags": {
@@ -362,7 +359,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Pudding Coffee Shop Barcelona": {
+        {
             "description": "aaa",
             "name": "Pudding Coffee Shop Barcelona",
             "tags": {
@@ -370,7 +367,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Roast Club Cafe": {
+        {
             "description": "aaa",
             "name": "Roast Club Cafe",
             "tags": {
@@ -378,7 +375,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Café Fosc": {
+        {
             "description": "aaa",
             "name": "Café Fosc",
             "tags": {
@@ -386,7 +383,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Papa Barcelona": {
+        {
             "description": "aaa",
             "name": "La Papa Barcelona",
             "tags": {
@@ -394,7 +391,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Casa Taos": {
+        {
             "description": "aaa",
             "name": "Casa Taos",
             "tags": {
@@ -402,7 +399,7 @@
             },
             "ubicacion": "XXX"
         },
-        "People Love Coffee": {
+        {
             "description": "aaa",
             "name": "People Love Coffee",
             "tags": {
@@ -410,7 +407,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bonsai Coffee": {
+        {
             "description": "aaa",
             "name": "Bonsai Coffee",
             "tags": {
@@ -418,7 +415,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Oma bistro": {
+        {
             "description": "aaa",
             "name": "Oma bistro",
             "tags": {
@@ -426,7 +423,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Cremat 11": {
+        {
             "description": "aaa",
             "name": "Cremat 11",
             "tags": {
@@ -434,7 +431,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bristol": {
+        {
             "description": "aaa",
             "name": "Bristol",
             "tags": {
@@ -442,7 +439,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Federal Cafe": {
+        {
             "description": "aaa",
             "name": "Federal Cafe",
             "tags": {
@@ -450,7 +447,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Suis Gracia": {
+        {
             "description": "aaa",
             "name": "Suis Gracia",
             "tags": {
@@ -458,7 +455,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Little Fern": {
+        {
             "description": "aaa",
             "name": "Little Fern",
             "tags": {
@@ -466,7 +463,7 @@
             },
             "ubicacion": "XXX"
         },
-        "PuroCafe": {
+        {
             "description": "aaa",
             "name": "PuroCafe",
             "tags": {
@@ -474,7 +471,7 @@
             },
             "ubicacion": "Born"
         },
-        "Sweet Lima": {
+        {
             "description": "aaa",
             "name": "Sweet Lima",
             "tags": {
@@ -482,7 +479,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Texil": {
+        {
             "description": "aaa",
             "name": "La Texil",
             "tags": {
@@ -490,7 +487,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Malcriada": {
+        {
             "description": "aaa",
             "name": "La Malcriada",
             "tags": {
@@ -498,7 +495,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Duval Buns & Coffee": {
+        {
             "description": "aaa",
             "name": "Duval Buns & Coffee",
             "tags": {
@@ -506,7 +503,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Tymless Tea": {
+        {
             "description": "aaa",
             "name": "Tymless Tea",
             "tags": {
@@ -514,7 +511,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hammock Juice Station": {
+        {
             "description": "aaa",
             "name": "Hammock Juice Station",
             "tags": {
@@ -522,7 +519,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Yicha Bcn": {
+        {
             "description": "aaa",
             "name": "Yicha Bcn",
             "tags": {
@@ -530,7 +527,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Zen Zoo Bubbles": {
+        {
             "description": "aaa",
             "name": "Zen Zoo Bubbles",
             "tags": {
@@ -538,7 +535,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Pandacha": {
+        {
             "description": "aaa",
             "name": "Pandacha",
             "tags": {
@@ -546,7 +543,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Q TEA": {
+        {
             "description": "aaa",
             "name": "Q TEA",
             "tags": {
@@ -554,7 +551,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Chinese Tofu Magician": {
+        {
             "description": "aaa",
             "name": "Chinese Tofu Magician",
             "tags": {
@@ -562,7 +559,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bubbolitas": {
+        {
             "description": "aaa",
             "name": "Bubbolitas",
             "tags": {
@@ -570,7 +567,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Orient Express Cocktail Bar": {
+        {
             "description": "Te trae los cocktails en un tren",
             "name": "Orient Express Cocktail Bar",
             "tags": {
@@ -578,7 +575,7 @@
             },
             "ubicacion": "XXX"
         },
-        "El Jardinet d’Aribau": {
+        {
             "description": "aaa",
             "name": "El Jardinet d’Aribau",
             "tags": {
@@ -586,7 +583,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Merbeyé Cocktail Bar": {
+        {
             "description": "aaa",
             "name": "Merbeyé Cocktail Bar",
             "tags": {
@@ -594,7 +591,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Pisa Morena": {
+        {
             "description": "aaa",
             "name": "Pisa Morena",
             "tags": {
@@ -602,7 +599,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Alquimia": {
+        {
             "description": "aaa",
             "name": "Alquimia",
             "tags": {
@@ -610,7 +607,7 @@
             },
             "ubicacion": "XXX"
         },
-        "The 19th hole": {
+        {
             "description": "Planta 19 Urquinaona, se ve toda Barcelona",
             "name": "The 19th hole",
             "tags": {
@@ -618,7 +615,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bobby's Free": {
+        {
             "description": "aaa",
             "name": "Bobby's Free",
             "tags": {
@@ -626,7 +623,7 @@
             },
             "ubicacion": "XXX"
         },
-        "DUX": {
+        {
             "description": "aaa",
             "name": "DUX",
             "tags": {
@@ -634,7 +631,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Beriut 37": {
+        {
             "description": "aaa",
             "name": "Beriut 37",
             "tags": {
@@ -642,7 +639,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Paradiso": {
+        {
             "description": "Sitio oculto pastrami",
             "name": "Paradiso",
             "tags": {
@@ -650,7 +647,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Particular Gastrobar": {
+        {
             "description": "https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814",
             "name": "Particular Gastrobar",
             "tags": {
@@ -658,7 +655,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bar Central Raval": {
+        {
             "description": "aaa",
             "name": "Bar Central Raval",
             "tags": {
@@ -666,7 +663,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Snack 55": {
+        {
             "description": "aaa",
             "name": "Snack 55",
             "tags": {
@@ -674,7 +671,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Tot 1 Euro Bar": {
+        {
             "description": "aaa",
             "name": "Tot 1 Euro Bar",
             "tags": {
@@ -682,7 +679,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Mescladis del Pou": {
+        {
             "description": "aaa",
             "name": "Mescladis del Pou",
             "tags": {
@@ -690,10 +687,10 @@
             },
             "ubicacion": "XXX"
         }
-    },
-    "Comidas": "a",
-    "Desayunos": {
-        "Sils Cakes American Pastry": {
+    ],
+    "Comidas": ["a"],
+    "Desayunos": [
+        {
             "description": "bbb",
             "name": "Sils Cakes American Pastry",
             "tags": {
@@ -702,7 +699,7 @@
             },
             "ubicacion": "Gracia"
         },
-        "El Flako": {
+        {
             "description": "aaa",
             "name": "El Flako",
             "tags": {
@@ -710,7 +707,7 @@
             },
             "ubicacion": "XXX"
         },
-        "PittierBCN": {
+        {
             "description": "a",
             "name": "PittierBCN",
             "tags": {
@@ -718,7 +715,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Tizana Juice Bar": {
+        {
             "description": "aaa",
             "name": "Tizana Juice Bar",
             "tags": {
@@ -726,7 +723,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Sweet Gaufre": {
+        {
             "description": "aaa",
             "name": "Sweet Gaufre",
             "tags": {
@@ -734,7 +731,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Cookona": {
+        {
             "description": "aaa",
             "name": "Cookona",
             "tags": {
@@ -742,7 +739,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Cookies demasie": {
+        {
             "description": "aaa",
             "name": "Cookies demasie",
             "tags": {
@@ -750,7 +747,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Sant Croi": {
+        {
             "description": "aaa",
             "name": "Sant Croi",
             "tags": {
@@ -758,7 +755,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Oak Berry": {
+        {
             "description": "aaa",
             "name": "Oak Berry",
             "tags": {
@@ -766,7 +763,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Mutig bakery": {
+        {
             "description": "aaa",
             "name": "Mutig bakery",
             "tags": {
@@ -774,7 +771,7 @@
             },
             "ubicacion": "XXX"
         },
-        "L’Atelier Barcelona": {
+        {
             "description": "aaa",
             "name": "L’Atelier Barcelona",
             "tags": {
@@ -782,7 +779,7 @@
             },
             "ubicacion": "XXX"
         },
-        "The Cream BCN": {
+        {
             "description": "aaa",
             "name": "The Cream BCN",
             "tags": {
@@ -790,7 +787,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Desayuneria": {
+        {
             "description": "aaa",
             "name": "La Desayuneria",
             "tags": {
@@ -798,7 +795,7 @@
             },
             "ubicacion": "XXX"
         },
-        "El Brunch Market": {
+        {
             "description": "aaa",
             "name": "El Brunch Market",
             "tags": {
@@ -806,7 +803,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Chök The Chocolate Kitchen": {
+        {
             "description": "aaa",
             "name": "Chök The Chocolate Kitchen",
             "tags": {
@@ -814,7 +811,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bow Barcelona": {
+        {
             "description": "aaa",
             "name": "Bow Barcelona",
             "tags": {
@@ -822,7 +819,7 @@
             },
             "ubicacion": "XXX"
         },
-        "El Born Pasteleria": {
+        {
             "description": "aaa",
             "name": "El Born Pasteleria",
             "tags": {
@@ -830,7 +827,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Donuteria": {
+        {
             "description": "aaa",
             "name": "La Donuteria",
             "tags": {
@@ -838,7 +835,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Lukumas": {
+        {
             "description": "aaa",
             "name": "Lukumas",
             "tags": {
@@ -846,7 +843,7 @@
             },
             "ubicacion": "XXX"
         },
-        "ZIMT • Cinnamon Rolls": {
+        {
             "description": "aaa",
             "name": "ZIMT • Cinnamon Rolls",
             "tags": {
@@ -854,7 +851,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Cala Barceloneta": {
+        {
             "description": "aaa",
             "name": "La Cala Barceloneta",
             "tags": {
@@ -862,7 +859,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Alsur Cafe Lluria - Alsur Forn": {
+        {
             "description": "aaa",
             "name": "Alsur Cafe Lluria - Alsur Forn",
             "tags": {
@@ -870,7 +867,7 @@
             },
             "ubicacion": "XXX"
         },
-        "WaffleBarcelona": {
+        {
             "description": "aaa",
             "name": "WaffleBarcelona",
             "tags": {
@@ -878,7 +875,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Pastisseria Brunells": {
+        {
             "description": "aaa",
             "name": "Pastisseria Brunells",
             "tags": {
@@ -886,7 +883,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Manolo Bakes": {
+        {
             "description": "aaa",
             "name": "Manolo Bakes",
             "tags": {
@@ -894,7 +891,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Petit Pastis": {
+        {
             "description": "aaa",
             "name": "Petit Pastis",
             "tags": {
@@ -902,7 +899,7 @@
             },
             "ubicacion": "XXX"
         },
-        "B Sandwiches": {
+        {
             "description": "aaa",
             "name": "B Sandwiches",
             "tags": {
@@ -910,7 +907,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Cantonada": {
+        {
             "description": "aaa",
             "name": "La Cantonada",
             "tags": {
@@ -918,7 +915,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Gelateria Da Gallo": {
+        {
             "description": "aaa",
             "name": "Gelateria Da Gallo",
             "tags": {
@@ -926,7 +923,7 @@
             },
             "ubicacion": "XXX"
         },
-        "JonCake": {
+        {
             "description": "aaa",
             "name": "JonCake",
             "tags": {
@@ -934,7 +931,7 @@
             },
             "ubicacion": "XXX"
         },
-        "EspressoMafia": {
+        {
             "description": "aaa",
             "name": "EspressoMafia",
             "tags": {
@@ -942,7 +939,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La bikineria": {
+        {
             "description": "aaa",
             "name": "La bikineria",
             "tags": {
@@ -950,7 +947,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Pasteleria Hofmann": {
+        {
             "description": "aaa",
             "name": "Pasteleria Hofmann",
             "tags": {
@@ -958,7 +955,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Billy Brunch & Garden": {
+        {
             "description": "bbb",
             "name": "Billy Brunch & Garden",
             "tags": {
@@ -966,7 +963,7 @@
             },
             "ubicacion": "Eixample"
         },
-        "Cereals Addict Cafe": {
+        {
             "description": "aaa",
             "name": "Cereals Addict Cafe",
             "tags": {
@@ -974,7 +971,7 @@
             },
             "ubicacion": "Sants"
         },
-        "EatMyTrip": {
+        {
             "description": "aaa",
             "name": "EatMyTrip",
             "tags": {
@@ -982,7 +979,7 @@
             },
             "ubicacion": "Sarria"
         },
-        "El Arbol": {
+        {
             "description": "aaa",
             "name": "El Arbol",
             "tags": {
@@ -990,7 +987,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Gabby's": {
+        {
             "description": "aaa",
             "name": "Gabby's",
             "tags": {
@@ -998,7 +995,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Little Fern": {
+        {
             "description": "aaa",
             "name": "Little Fern",
             "tags": {
@@ -1006,7 +1003,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Eixampeling Brunch Café & Bar": {
+        {
             "description": "aaa",
             "name": "Eixampeling Brunch Café & Bar",
             "tags": {
@@ -1014,7 +1011,7 @@
             },
             "ubicacion": "XXX"
         },
-        "EqvilibrivmCafe": {
+        {
             "description": "aaa",
             "name": "EqvilibrivmCafe",
             "tags": {
@@ -1022,7 +1019,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Simple Brunch": {
+        {
             "description": "aaa",
             "name": "Simple Brunch",
             "tags": {
@@ -1030,7 +1027,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Es Bien brunch": {
+        {
             "description": "aaa",
             "name": "Es Bien Brunch",
             "tags": {
@@ -1038,9 +1035,10 @@
             },
             "ubicacion": "XXX"
         }
-    },
-    "Tapas": {
-        "Chico Bar": {
+    ],
+    "Tapas": [
+
+        {
             "description": "bbb",
             "name": "Chico Bar",
             "tags": {
@@ -1048,7 +1046,7 @@
             },
             "ubicacion": "Eixample"
         },
-        "Sils Cakes American Pastry": {
+        {
             "description": "aaa",
             "name": "TrikiTrac",
             "tags": {
@@ -1056,17 +1054,120 @@
             },
             "ubicacion": "Sants"
         },
-        "Tomas Sarria": {
+        {
             "description": "Bar clasico, especializado en patatas fritas al estilo tradicional con salsa picante, donde se sirven tapas y cerveza artesanal.",
             "name": "Tomas Sarria",
             "tags": {
                 "bravas": true
             },
             "ubicacion": "Sarria"
+        },
+        {
+            "description": "aaa",
+            "name": "Cadaqués Restaurant",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Mitte Restaurant",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Alquimia",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Casa Diaz BCN",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bar Del Pla",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Born"
+        },
+        {
+            "description": "aaa",
+            "name": "La Mestressa",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Sants"
+        },
+        {
+            "description": "aaa",
+            "name": "Melosa Hamburgueseria",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Atabalats Gastrobar",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Cervecería Mondoré",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Carbo Begur Restaurant",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Begur"
+        },
+        {
+            "description": "aaa",
+            "name": "Sant Antoni Glorios",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "El Mamón",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "La esquinica",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
         }
-    },
-    "Terrazas": {
-        "Hotel Brummell": {
+    ],
+    "Terrazas": [{
             "description": "aaa",
             "name": "Hotel Brummell",
             "tags": {
@@ -1075,7 +1176,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hotel Condes": {
+        {
             "description": "aaa",
             "name": "Hotel Condes",
             "tags": {
@@ -1084,7 +1185,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Occidental 414 Diagonal": {
+        {
             "description": "aaa",
             "name": "Occidental 414 Diagonal",
             "tags": {
@@ -1093,7 +1194,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Ayre Hotel Rosellón": {
+        {
             "description": "aaa",
             "name": "Ayre Hotel Rosellón",
             "tags": {
@@ -1102,7 +1203,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hotel The Serras": {
+        {
             "description": "aaa",
             "name": "Hotel The Serras",
             "tags": {
@@ -1111,7 +1212,7 @@
             },
             "ubicacion": "XXX"
         },
-        " Purobeach Barcelona": {
+        {
             "description": "aaa",
             "name": " Purobeach Barcelona",
             "tags": {
@@ -1120,7 +1221,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hotel America Barcelona": {
+        {
             "description": "aaa",
             "name": "Hotel America Barcelona",
             "tags": {
@@ -1129,7 +1230,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hotel Ohla Barcelona": {
+        {
             "description": "aaa",
             "name": "Hotel Ohla Barcelona",
             "tags": {
@@ -1138,7 +1239,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Hotel Casa Bonay": {
+        {
             "description": "aaa",
             "name": "Hotel Casa Bonay",
             "tags": {
@@ -1147,7 +1248,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Kimpton Vividora Hotel": {
+        {
             "description": "aaa",
             "name": "Kimpton Vividora Hotel",
             "tags": {
@@ -1156,7 +1257,7 @@
             },
             "ubicacion": "XXX"
         },
-        "The Pulitzer Terrace at Hotel Pulitzer": {
+        {
             "description": "aaa",
             "name": "The Pulitzer Terrace at Hotel Pulitzer",
             "tags": {
@@ -1165,7 +1266,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Ohla Chillout Terrace at Ohla Barcelona": {
+        {
             "description": "aaa",
             "name": "Ohla Chillout Terrace at Ohla Barcelona",
             "tags": {
@@ -1174,7 +1275,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Terraza Colón at Colón Hotel": {
+        {
             "description": "aaa",
             "name": "Terraza Colón at Colón Hotel",
             "tags": {
@@ -1183,7 +1284,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Yurbban Trafalgar Rooftop": {
+        {
             "description": "aaa",
             "name": "Yurbban Trafalgar Rooftop",
             "tags": {
@@ -1192,7 +1293,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Dolce Vitae at Majestic Hotel": {
+        {
             "description": "aaa",
             "name": "La Dolce Vitae at Majestic Hotel",
             "tags": {
@@ -1201,7 +1302,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Sky Bar at Grand Hotel Central": {
+        {
             "description": "aaa",
             "name": "Sky Bar at Grand Hotel Central",
             "tags": {
@@ -1210,7 +1311,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Isabela at Hotel 1898": {
+        {
             "description": "aaa",
             "name": "La Isabela at Hotel 1898",
             "tags": {
@@ -1219,7 +1320,7 @@
             },
             "ubicacion": "XXX"
         },
-        "La Terraza at Villa Emilia": {
+        {
             "description": "aaa",
             "name": "La Terraza at Villa Emilia",
             "tags": {
@@ -1228,7 +1329,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Soho House Barcelona": {
+        {
             "description": "aaa",
             "name": "Soho House Barcelona",
             "tags": {
@@ -1237,7 +1338,7 @@
             },
             "ubicacion": "XXX"
         },
-        "The Rooftop at Sir Victor Hotel": {
+        {
             "description": "aaa",
             "name": "The Rooftop at Sir Victor Hotel",
             "tags": {
@@ -1246,7 +1347,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Alaire Terrace Bar": {
+        {
             "description": "aaa",
             "name": "Alaire Terrace Bar",
             "tags": {
@@ -1255,7 +1356,7 @@
             },
             "ubicacion": "XXX"
         },
-        "The Corner Hotel ": {
+        {
             "description": "aaa",
             "name": "The Corner Hotel ",
             "tags": {
@@ -1264,7 +1365,7 @@
             },
             "ubicacion": "XXX"
         },
-        "1881 per Segardi": {
+        {
             "description": "aaa",
             "name": "1881 per Segardi",
             "tags": {
@@ -1273,7 +1374,7 @@
             },
             "ubicacion": "XXX"
         },
-        "The Wetdeck en el W Hotel": {
+        {
             "description": "aaa",
             "name": "The Wetdeck en el W Hotel",
             "tags": {
@@ -1282,7 +1383,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Iberostar Sky Bar": {
+        {
             "description": "aaa",
             "name": "Iberostar Sky Bar",
             "tags": {
@@ -1291,7 +1392,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Cap Sa Sal": {
+        {
             "description": "aaa",
             "name": "Cap Sa Sal",
             "tags": {
@@ -1300,7 +1401,7 @@
             },
             "ubicacion": "Begur"
         },
-        "Casa Museu Ametller": {
+        {
             "description": "aaa",
             "name": "Casa Museu Ametller",
             "tags": {
@@ -1309,7 +1410,7 @@
             },
             "ubicacion": "XXX"
         },
-        "H10 Casa Mimosa": {
+        {
             "description": "aaa",
             "name": "H10 Casa Mimosa",
             "tags": {
@@ -1318,7 +1419,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Go Beach Club": {
+        {
             "description": "aaa",
             "name": "Go Beach Club",
             "tags": {
@@ -1327,7 +1428,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Velissima": {
+        {
             "description": "aaa",
             "name": "Velissima",
             "tags": {
@@ -1336,7 +1437,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Bus Terraza": {
+        {
             "description": "aaa",
             "name": "Bus Terraza",
             "tags": {
@@ -1345,7 +1446,7 @@
             },
             "ubicacion": "XXX"
         },
-        "Cotton House": {
+        {
             "description": "aaa",
             "name": "Cotton House",
             "tags": {
@@ -1354,5 +1455,5 @@
             },
             "ubicacion": "XXX"
         }
-    }
+    ]
 }
