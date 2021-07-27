@@ -505,6 +505,70 @@
                 "cafe": true
             },
             "ubicacion": "XXX"
+        },
+        "Tymless Tea": {
+            "description": "aaa",
+            "name": "Tymless Tea",
+            "tags": {
+                "Bubble Tea": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hammock Juice Station": {
+            "description": "aaa",
+            "name": "Hammock Juice Station",
+            "tags": {
+                "Zumos": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Yicha Bcn": {
+            "description": "aaa",
+            "name": "Yicha Bcn",
+            "tags": {
+                "Bubble Tea": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Zen Zoo Bubbles": {
+            "description": "aaa",
+            "name": "Zen Zoo Bubbles",
+            "tags": {
+                "Bubble Tea": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Pandacha": {
+            "description": "aaa",
+            "name": "Pandacha",
+            "tags": {
+                "Bubble Tea": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Q TEA": {
+            "description": "aaa",
+            "name": "Q TEA",
+            "tags": {
+                "Bubble Tea": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Chinese Tofu Magician": {
+            "description": "aaa",
+            "name": "Chinese Tofu Magician",
+            "tags": {
+                "Bubble Tea": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bubbolitas": {
+            "description": "aaa",
+            "name": "Bubbolitas",
+            "tags": {
+                "Bubble Tea": true
+            },
+            "ubicacion": "XXX"
         }
     },
     "Comidas": "a",
