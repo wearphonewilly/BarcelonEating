@@ -657,6 +657,38 @@
                 "Cocktails": true
             },
             "ubicacion": "XXX"
+        },
+        "Bar Central Raval": {
+            "description": "aaa",
+            "name": "Bar Central Raval",
+            "tags": {
+                "bar": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Snack 55": {
+            "description": "aaa",
+            "name": "Snack 55",
+            "tags": {
+                "bar": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Particular Gastrobar": {
+            "description": "aaa",
+            "name": "Tot 1 Euro Bar",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Mescladis del Pou": {
+            "description": "aaa",
+            "name": "Mescladis del Pou",
+            "tags": {
+                "Cocktails": true
+            },
+            "ubicacion": "XXX"
         }
     },
     "Comidas": "a",
@@ -1033,5 +1065,294 @@
             "ubicacion": "Sarria"
         }
     },
-    "Terrazas": "a"
+    "Terrazas": {
+        "Hotel Brummell": {
+            "description": "aaa",
+            "name": "Hotel Brummell",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hotel Condes": {
+            "description": "aaa",
+            "name": "Hotel Condes",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Occidental 414 Diagonal": {
+            "description": "aaa",
+            "name": "Occidental 414 Diagonal",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Ayre Hotel Rosellón": {
+            "description": "aaa",
+            "name": "Ayre Hotel Rosellón",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hotel The Serras": {
+            "description": "aaa",
+            "name": "Hotel The Serras",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        " Purobeach Barcelona": {
+            "description": "aaa",
+            "name": " Purobeach Barcelona",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hotel America Barcelona": {
+            "description": "aaa",
+            "name": "Hotel America Barcelona",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hotel Ohla Barcelona": {
+            "description": "aaa",
+            "name": "Hotel Ohla Barcelona",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hotel Casa Bonay": {
+            "description": "aaa",
+            "name": "Hotel Casa Bonay",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Kimpton Vividora Hotel": {
+            "description": "aaa",
+            "name": "Kimpton Vividora Hotel",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "The Pulitzer Terrace at Hotel Pulitzer": {
+            "description": "aaa",
+            "name": "The Pulitzer Terrace at Hotel Pulitzer",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Ohla Chillout Terrace at Ohla Barcelona": {
+            "description": "aaa",
+            "name": "Ohla Chillout Terrace at Ohla Barcelona",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Terraza Colón at Colón Hotel": {
+            "description": "aaa",
+            "name": "Terraza Colón at Colón Hotel",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Yurbban Trafalgar Rooftop": {
+            "description": "aaa",
+            "name": "Yurbban Trafalgar Rooftop",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Dolce Vitae at Majestic Hotel": {
+            "description": "aaa",
+            "name": "La Dolce Vitae at Majestic Hotel",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Sky Bar at Grand Hotel Central": {
+            "description": "aaa",
+            "name": "Sky Bar at Grand Hotel Central",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Isabela at Hotel 1898": {
+            "description": "aaa",
+            "name": "La Isabela at Hotel 1898",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Terraza at Villa Emilia": {
+            "description": "aaa",
+            "name": "La Terraza at Villa Emilia",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Soho House Barcelona": {
+            "description": "aaa",
+            "name": "Soho House Barcelona",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "The Rooftop at Sir Victor Hotel": {
+            "description": "aaa",
+            "name": "The Rooftop at Sir Victor Hotel",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Alaire Terrace Bar": {
+            "description": "aaa",
+            "name": "Alaire Terrace Bar",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "The Corner Hotel ": {
+            "description": "aaa",
+            "name": "The Corner Hotel ",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "1881 per Segardi": {
+            "description": "aaa",
+            "name": "1881 per Segardi",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "The Wetdeck en el W Hotel": {
+            "description": "aaa",
+            "name": "The Wetdeck en el W Hotel",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Iberostar Sky Bar": {
+            "description": "aaa",
+            "name": "Iberostar Sky Bar",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Cap Sa Sal": {
+            "description": "aaa",
+            "name": "Cap Sa Sal",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "Begur"
+        },
+        "Casa Museu Ametller": {
+            "description": "aaa",
+            "name": "Casa Museu Ametller",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "H10 Casa Mimosa": {
+            "description": "aaa",
+            "name": "H10 Casa Mimosa",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Go Beach Club": {
+            "description": "aaa",
+            "name": "Go Beach Club",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Velissima": {
+            "description": "aaa",
+            "name": "Velissima",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bus Terraza": {
+            "description": "aaa",
+            "name": "Bus Terraza",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Cotton House": {
+            "description": "aaa",
+            "name": "Cotton House",
+            "tags": {
+                "hoteles": true,
+                "terrazas": true
+            },
+            "ubicacion": "XXX"
+        }
+    }
 }
