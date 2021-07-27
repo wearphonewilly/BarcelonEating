@@ -1,186 +1,885 @@
 {
-  "Bebidas" : "a",
-  "Comidas" : "a",
-  "Desayunos" : {
-    "Sils Cakes American Pastry" : {
-      "description" : "bbb",
-      "name" : "Sils Cakes American Pastry",
-      "tags" : {
-        "galletas" : true,
-        "pasteles" : true
-      },
-      "ubicacion" : "Gracia"
+    "Bebidas": {
+        "On y Va Barcelona": {
+            "description": "aaa",
+            "name": "On y Va Barcelona",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Camelia Art Cafe": {
+            "description": "aaa",
+            "name": "Camelia Art Cafe",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bykate bcn": {
+            "description": "aaa",
+            "name": "Bykate bcn",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Casa Bonay": {
+            "description": "aaa",
+            "name": "Casa Bonay",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Cava cakery": {
+            "description": "aaa",
+            "name": "La Cava cakery",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Morrow Coffee": {
+            "description": "aaa",
+            "name": "Morrow Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Satans Coffee Corner": {
+            "description": "aaa",
+            "name": "Satan’s Coffee Corner",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Brunchef": {
+            "description": "aaa",
+            "name": "Brunchef",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Molika Cafe Eixample": {
+            "description": "aaa",
+            "name": "Molika Cafe Eixample",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Crois Croissant Gourmet": {
+            "description": "aaa",
+            "name": "Crois Croissant Gourmet",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hidden Cafe Bcn": {
+            "description": "aaa",
+            "name": "Hidden Cafe Bcn",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Espai Joliu": {
+            "description": "aaa",
+            "name": "Espai Joliu",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Super coffee & food store": {
+            "description": "aaa",
+            "name": "Super coffee & food store",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Orval Barcelona": {
+            "description": "aaa",
+            "name": "Orval Barcelona",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Frenesi Cafe": {
+            "description": "aaa",
+            "name": "Frenesi Cafe",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Somewhere Aribau": {
+            "description": "aaa",
+            "name": "Somewhere Aribau",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Departure Coffee Co": {
+            "description": "aaa",
+            "name": "Departure Coffee Co.",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Coffee Casa": {
+            "description": "aaa",
+            "name": "Coffee Casa",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "SKYE Coffee Co": {
+            "description": "aaa",
+            "name": "SKYE Coffee Co.",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+
+        "Sabio Infante Brunch and coffee": {
+            "description": "aaa",
+            "name": "Sabio Infante Brunch and coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bow Barcelona": {
+            "description": "aaa",
+            "name": "Bow Barcelona",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Petit Pot": {
+            "description": "aaa",
+            "name": "Petit Pot",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Hygge Coffee Bcn": {
+            "description": "aaa",
+            "name": "Hygge Coffee Bcn",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "Gracia"
+        },
+        "Heladeria Barcelona": {
+            "description": "aaa",
+            "name": "Heladeria Barcelona",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bicioci Bike Cafè": {
+            "description": "aaa",
+            "name": "Bicioci Bike Cafè",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "Gracia"
+        },
+        "Cafe Cometa": {
+            "description": "aaa",
+            "name": "Cafè Cometa",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "PERLA COFFEE KIOSK": {
+            "description": "aaa",
+            "name": "PERLA COFFEE KIOSK",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Lilo Coffee": {
+            "description": "aaa",
+            "name": "Lilo Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Caravelle": {
+            "description": "aaa",
+            "name": "Caravelle",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "CafeCosmo": {
+            "description": "aaa",
+            "name": "CafeCosmo",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+
+        "Ombu Bcn": {
+            "description": "aaa",
+            "name": "Ombu Bcn",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Black Remedy": {
+            "description": "aaa",
+            "name": "Black Remedy",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Es Bien Coffee": {
+            "description": "aaa",
+            "name": "Es Bien Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Onna Coffee": {
+            "description": "aaa",
+            "name": "Onna Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "SlowMov": {
+            "description": "aaa",
+            "name": "SlowMov",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Robot House Barcelona": {
+            "description": "aaa",
+            "name": "Robot House Barcelona",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Nomad Coffee Roaster's Home": {
+            "description": "aaa",
+            "name": "Nomad Coffee Roaster's Home",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Cafes El Magnifico": {
+            "description": "aaa",
+            "name": "Cafes El Magnifico",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Syra Coffee": {
+            "description": "aaa",
+            "name": "Syra Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Selvatica": {
+            "description": "aaa",
+            "name": "Selvatica",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Austral Coffee Bar": {
+            "description": "aaa",
+            "name": "Austral Coffee Bar",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Rummas coffee": {
+            "description": "aaa",
+            "name": "Rummas coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Muriel": {
+            "description": "aaa",
+            "name": "La Muriel",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Mala Llet Coffee Bar": {
+            "description": "aaa",
+            "name": "Mala Llet Coffee Bar",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Libreria Byron": {
+            "description": "aaa",
+            "name": "Libreria Byron",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Pudding Coffee Shop Barcelona": {
+            "description": "aaa",
+            "name": "Pudding Coffee Shop Barcelona",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Roast Club Cafe": {
+            "description": "aaa",
+            "name": "Roast Club Cafe",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Café Fosc": {
+            "description": "aaa",
+            "name": "Café Fosc",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Papa Barcelona": {
+            "description": "aaa",
+            "name": "La Papa Barcelona",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Casa Taos": {
+            "description": "aaa",
+            "name": "Casa Taos",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "People Love Coffee": {
+            "description": "aaa",
+            "name": "People Love Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bonsai Coffee": {
+            "description": "aaa",
+            "name": "Bonsai Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Oma bistro": {
+            "description": "aaa",
+            "name": "Oma bistro",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Cremat 11": {
+            "description": "aaa",
+            "name": "Cremat 11",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bristol": {
+            "description": "aaa",
+            "name": "Bristol",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Federal Cafe": {
+            "description": "aaa",
+            "name": "Federal Cafe",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Suis Gracia": {
+            "description": "aaa",
+            "name": "Suis Gracia",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Little Fern": {
+            "description": "aaa",
+            "name": "Little Fern",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "PuroCafe": {
+            "description": "aaa",
+            "name": "PuroCafe",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "Born"
+        },
+        "Sweet Lima": {
+            "description": "aaa",
+            "name": "Sweet Lima",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Texil": {
+            "description": "aaa",
+            "name": "La Texil",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Malcriada": {
+            "description": "aaa",
+            "name": "La Malcriada",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Duval Buns & Coffee": {
+            "description": "aaa",
+            "name": "Duval Buns & Coffee",
+            "tags": {
+                "cafe": true
+            },
+            "ubicacion": "XXX"
+        }
     },
-    "El Flako" : {
-      "description" : "aaa",
-      "name" : "El Flako",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
+    "Comidas": "a",
+    "Desayunos": {
+        "Sils Cakes American Pastry": {
+            "description": "bbb",
+            "name": "Sils Cakes American Pastry",
+            "tags": {
+                "galletas": true,
+                "pasteles": true
+            },
+            "ubicacion": "Gracia"
+        },
+        "El Flako": {
+            "description": "aaa",
+            "name": "El Flako",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "PittierBCN": {
+            "description": "a",
+            "name": "PittierBCN",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Tizana Juice Bar": {
+            "description": "aaa",
+            "name": "Tizana Juice Bar",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Sweet Gaufre": {
+            "description": "aaa",
+            "name": "Sweet Gaufre",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Cookona": {
+            "description": "aaa",
+            "name": "Cookona",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Cookies demasie": {
+            "description": "aaa",
+            "name": "Cookies demasie",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Sant Croi": {
+            "description": "aaa",
+            "name": "Sant Croi",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Oak Berry": {
+            "description": "aaa",
+            "name": "Oak Berry",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Mutig bakery": {
+            "description": "aaa",
+            "name": "Mutig bakery",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "L’Atelier Barcelona": {
+            "description": "aaa",
+            "name": "L’Atelier Barcelona",
+            "tags": {
+                "cereales": true
+            },
+            "ubicacion": "XXX"
+        },
+        "The Cream BCN": {
+            "description": "aaa",
+            "name": "The Cream BCN",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Desayuneria": {
+            "description": "aaa",
+            "name": "La Desayuneria",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "El Brunch Market": {
+            "description": "aaa",
+            "name": "El Brunch Market",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Chök The Chocolate Kitchen": {
+            "description": "aaa",
+            "name": "Chök The Chocolate Kitchen",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Bow Barcelona": {
+            "description": "aaa",
+            "name": "Bow Barcelona",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "El Born Pasteleria": {
+            "description": "aaa",
+            "name": "El Born Pasteleria",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Donuteria": {
+            "description": "aaa",
+            "name": "La Donuteria",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Lukumas": {
+            "description": "aaa",
+            "name": "Lukumas",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "ZIMT • Cinnamon Rolls": {
+            "description": "aaa",
+            "name": "ZIMT • Cinnamon Rolls",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Cala Barceloneta": {
+            "description": "aaa",
+            "name": "La Cala Barceloneta",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Alsur Cafe Lluria - Alsur Forn": {
+            "description": "aaa",
+            "name": "Alsur Cafe Lluria - Alsur Forn",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "WaffleBarcelona": {
+            "description": "aaa",
+            "name": "WaffleBarcelona",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Pastisseria Brunells": {
+            "description": "aaa",
+            "name": "Pastisseria Brunells",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Manolo Bakes": {
+            "description": "aaa",
+            "name": "Manolo Bakes",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Petit Pastis": {
+            "description": "aaa",
+            "name": "Petit Pastis",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "B Sandwiches": {
+            "description": "aaa",
+            "name": "B Sandwiches",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La Cantonada": {
+            "description": "aaa",
+            "name": "La Cantonada",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Gelateria Da Gallo": {
+            "description": "aaa",
+            "name": "Gelateria Da Gallo",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "JonCake": {
+            "description": "aaa",
+            "name": "JonCake",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "EspressoMafia": {
+            "description": "aaa",
+            "name": "EspressoMafia",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "La bikineria": {
+            "description": "aaa",
+            "name": "La bikineria",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Pasteleria Hofmann": {
+            "description": "aaa",
+            "name": "Pasteleria Hofmann",
+            "tags": {
+                "waggle buffle": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Billy Brunch & Garden": {
+            "description": "bbb",
+            "name": "Billy Brunch & Garden",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Eixample"
+        },
+        "Cereals Addict Cafe": {
+            "description": "aaa",
+            "name": "Cereals Addict Cafe",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Sants"
+        },
+        "EatMyTrip": {
+            "description": "aaa",
+            "name": "EatMyTrip",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "Sarria"
+        },
+        "El Arbol": {
+            "description": "aaa",
+            "name": "El Arbol",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Gabby's": {
+            "description": "aaa",
+            "name": "Gabby's",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Little Fern": {
+            "description": "aaa",
+            "name": "Little Fern",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Eixampeling Brunch Café & Bar": {
+            "description": "aaa",
+            "name": "Eixampeling Brunch Café & Bar",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "XXX"
+        },
+        "EqvilibrivmCafe": {
+            "description": "aaa",
+            "name": "EqvilibrivmCafe",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Simple Brunch": {
+            "description": "aaa",
+            "name": "Simple Brunch",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "XXX"
+        },
+        "Es Bien brunch": {
+            "description": "aaa",
+            "name": "Es Bien Brunch",
+            "tags": {
+                "brunch": true
+            },
+            "ubicacion": "XXX"
+        }
     },
-    "PittierBCN" : {
-      "description" : "a",
-      "name" : "PittierBCN",
-      "tags" : {
-        "bravas" : true
-      },
-      "ubicacion" : "XXX"
+    "Tapas": {
+        "Chico Bar": {
+            "description": "bbb",
+            "name": "Chico Bar",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Eixample"
+        },
+        "Sils Cakes American Pastry": {
+            "description": "aaa",
+            "name": "TrikiTrac",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Sants"
+        },
+        "Tomas Sarria": {
+            "description": "Bar clasico, especializado en patatas fritas al estilo tradicional con salsa picante, donde se sirven tapas y cerveza artesanal.",
+            "name": "Tomas Sarria",
+            "tags": {
+                "bravas": true
+            },
+            "ubicacion": "Sarria"
+        }
     },
-    "Tizana Juice Bar" : {
-      "description" : "aaa",
-      "name" : "Tizana Juice Bar",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Sweet Gaufre" : {
-      "description" : "aaa",
-      "name" : "Sweet Gaufre",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Cookona" : {
-      "description" : "aaa",
-      "name" : "Cookona",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Cookies demasié" : {
-      "description" : "aaa",
-      "name" : "Cookies demasié",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Sant Croi" : {
-      "description" : "aaa",
-      "name" : "Sant Croi",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Oak Berry" : {
-      "description" : "aaa",
-      "name" : "Oak Berry",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Mutig bakery" : {
-      "description" : "aaa",
-      "name" : "Mutig bakery",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "L’Atelier Barcelona" : {
-      "description" : "aaa",
-      "name" : "L’Atelier Barcelona",
-      "tags" : {
-        "cereales" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "The Cream BCN" : {
-      "description" : "aaa",
-      "name" : "The Cream BCN",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "La Desayuneria" : {
-      "description" : "aaa",
-      "name" : "La Desayuneria",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "El Brunch Market" : {
-      "description" : "aaa",
-      "name" : "El Brunch Market",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Chök The Chocolate Kitchen" : {
-      "description" : "aaa",
-      "name" : "Chök The Chocolate Kitchen",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Bow Barcelona" : {
-      "description" : "aaa",
-      "name" : "Bow Barcelona",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "El Born Pasteleria" : {
-      "description" : "aaa",
-      "name" : "El Born Pasteleria",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "La Donutería" : {
-      "description" : "aaa",
-      "name" : "La Donutería",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    },
-    "Lukumás" : {
-      "description" : "aaa",
-      "name" : "Lukumás",
-      "tags" : {
-        "waggle buffle" : true
-      },
-      "ubicacion" : "XXX"
-    }
-  },
-  "Tapas" : {
-    "Chico Bar" : {
-      "description" : "bbb",
-      "name" : "Chico Bar",
-      "tags" : {
-        "bravas" : true
-      },
-      "ubicacion" : "Eixample"
-    },
-    "Sils Cakes American Pastry" : {
-      "description" : "aaa",
-      "name" : "TrikiTrac",
-      "tags" : {
-        "bravas" : true
-      },
-      "ubicacion" : "Sants"
-    },
-    "Tomás Sarria" : {
-      "description" : "Bar clásico, especializado en patatas fritas al estilo tradicional con salsa picante, donde se sirven tapas y cerveza artesanal.",
-      "name" : "Tomás Sarria",
-      "tags" : {
-        "bravas" : true
-      },
-      "ubicacion" : "Sarria"
-    }
-  },
-  "Terrazas" : "a"
+    "Terrazas": "a"
 }

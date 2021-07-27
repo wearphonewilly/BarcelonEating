@@ -28,26 +28,27 @@
    - [ ] Alsur Café Llúria - Alsur Forn
    - [ ] WaffleBarcelona
    - [x] Pastisseria Brunells
-   - [ ] Simple Brunch
    - [x] Manolo Bakes
    - [x] Gelateria Da Gallo
    - [x] Petit Pastis
    - [ ] B Sandwiches
-   - [ ] Billy Brunch & Garden
    - [ ] La Cantonada (Croissant Lotus)
-   - [ ] Lilo Coffee
    - [x] Petit Pastis
    - [x] JonCake
    - [ ] EspressoMafia
    - [ ] La bikineria
    - [ ] Pastelería Hofmann
+
+### BRUNCH
+   - [ ] Billy Brunch & Garden
    - [ ] Cereals Addict Café
-   - [ ] EatMyTrip (Brunch)
-   - [ ] El Arbol (Brunch)
-   - [ ] Gabby's (Brunch)
-   - [ ] Little Fern (Brunch)
-   - [ ] Eixampeling Brunch Café & Bar (Brunch)
-   - [ ] EqvilibrivmCafe (Brunch)
+   - [ ] EatMyTrip
+   - [ ] El Arbol 
+   - [ ] Gabby's
+   - [ ] Little Fern
+   - [ ] Eixampeling Brunch Café & Bar 
+   - [ ] EqvilibrivmCafe
+   - [ ] Simple Brunch
    - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
 
 
@@ -432,6 +433,7 @@
    - [x] Bicioci Bike Cafè
    - [ ] Cafè Cometa
    - [ ] PERLA COFFEE KIOSK
+   - [ ] Lilo Coffee
    - [ ] Caravelle
    - [ ] CaféCosmo
    - [ ] Ombú Bcn
