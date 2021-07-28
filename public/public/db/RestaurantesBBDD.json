@@ -5,7 +5,8 @@
             "tags": [{
                 "cafe": true
             }],
-            "ubicacion": "XXX"
+            "location": "XXX",
+            "type": "b"
         },
         {
             "description": "aaa",
@@ -57,14 +58,6 @@
         },
         {
             "description": "aaa",
-            "name": "Brunchef",
-            "tags": [{
-                "cafe": true
-            }],
-            "ubicacion": "XXX"
-        },
-        {
-            "description": "aaa",
             "name": "Molika Cafe Eixample",
             "tags": [{
                 "cafe": true
@@ -105,23 +98,7 @@
         },
         {
             "description": "aaa",
-            "name": "Orval Barcelona",
-            "tags": [{
-                "cafe": true
-            }],
-            "ubicacion": "XXX"
-        },
-        {
-            "description": "aaa",
             "name": "Frenesi Cafe",
-            "tags": [{
-                "cafe": true
-            }],
-            "ubicacion": "XXX"
-        },
-        {
-            "description": "aaa",
-            "name": "Somewhere Aribau",
             "tags": [{
                 "cafe": true
             }],

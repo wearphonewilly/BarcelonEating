@@ -1,0 +1,31 @@
+[debug] [2021-07-28T22:07:11.812Z] ----------------------------------------------------------------------
+[debug] [2021-07-28T22:07:11.814Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2021-07-28T22:07:11.814Z] CLI Version:   9.10.0
+[debug] [2021-07-28T22:07:11.814Z] Platform:      darwin
+[debug] [2021-07-28T22:07:11.815Z] Node Version:  v14.15.4
+[debug] [2021-07-28T22:07:11.822Z] Time:          Thu Jul 29 2021 00:07:11 GMT+0200 (hora de verano de Europa central)
+[debug] [2021-07-28T22:07:11.822Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-28T22:07:11.831Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-07-28T22:07:11.831Z] > authorizing via signed-in user (barceloneating@gmail.com)
+[debug] [2021-07-28T22:07:11.831Z] [iam] checking project barceloneating-8fd92 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-07-28T22:07:11.834Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/barceloneating-8fd92:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2021-07-28T22:07:12.594Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Wed, 28 Jul 2021 22:07:12 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=628","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-07-28T22:07:12.596Z] > refreshing access token with scopes: []
+[debug] [2021-07-28T22:07:12.596Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-07-28T22:07:12.718Z] <<< HTTP RESPONSE 200 {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","date":"Wed, 28 Jul 2021 22:07:12 GMT","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-07-28T22:07:12.805Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/barceloneating-8fd92 [none]
+[debug] [2021-07-28T22:07:13.040Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/barceloneating-8fd92 200
+[debug] [2021-07-28T22:07:13.040Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/barceloneating-8fd92 {"projectId":"barceloneating-8fd92","projectNumber":"806283854235","displayName":"BarcelonEating","name":"projects/barceloneating-8fd92","resources":{"hostingSite":"barceloneating-8fd92","realtimeDatabaseInstance":"barceloneating-8fd92","storageBucket":"barceloneating-8fd92.appspot.com","locationId":"europe-west"},"state":"ACTIVE"}
+[info] 
+[info] === Deploying to 'barceloneating-8fd92'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2021-07-28T22:07:13.043Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2021-07-28T22:07:13.043Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-07-28T22:07:13.177Z] <<< HTTP RESPONSE 200 {"expires":"Mon, 01 Jan 1990 00:00:00 GMT","date":"Wed, 28 Jul 2021 22:07:13 GMT","cache-control":"no-cache, no-store, max-age=0, must-revalidate","pragma":"no-cache","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-07-28T22:07:13.253Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/barceloneating/versions  
+ {"config":{},"labels":{"deployment-tool":"cli-firebase"}}

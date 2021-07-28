@@ -1,0 +1,12 @@
+div.inputLocations{
+    font-size: 24px;
+    width: 800px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+button#submitButton{
+    float: right;
+    height: 60px;
+    width: 90px;
+}
