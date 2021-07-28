@@ -1,70 +1,92 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-	<meta charset="utf-8"/>
+    <meta charset="utf-8" />
     <script type="text/javascript" src="../js/functions.js"></script>
-	<link rel="stylesheet" href="../css/styleInsert.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/styleInsert.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 </head>
 
 <body>
-	
-	<div id="content"></div>
 
-	<script>
-		window.addEventListener("load", loadEvents);
-	</script>
+    <div id="content"></div>
+
+    <script>
+        window.addEventListener("load", loadEvents);
+    </script>
 
 
-	<div class="inputLocations">
-		<form action="javascript:void(0);" method="POST">
-			<div class="mb-3">
-				<label for="exampleInputEmail1" class="form-label">Name: </label>
-				<input class="form-control" id="locationName">
-			</div>
-			<div class="mb-3">
-				<label for="exampleInputEmail1" class="form-label">Location: </label>
-				<input class="form-control" id="locationLocation">
-			</div>
-			<div class="mb-3">
-				<label for="exampleInputEmail1" class="form-label">Tags: </label>
-				<input class="form-control" id="locationTags">
-			</div>
-			<div class="mb-3">
-				<label for="exampleInputEmail1" class="form-label">Type: </label>
-				<input class="form-control" id="locationType">
-			</div>
-			<div class="mb-3">
-				<label for="exampleInputEmail1" class="form-label">Description: </label>
-				<input class="form-control" id="locationDescription">
-			</div>
-			<button type="submit" id="submitButton" class="btn btn-primary">Submit</button>
-		</form>
-	</div>
+    <div class="inputLocations">
+        <form action="javascript:void(0);" method="POST">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Name: </label>
+                <input class="form-control" id="locationName">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Location: </label>
+                <input class="form-control" id="locationLocation">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Tags: </label>
+                <!-- <input class="form-control" id="locationTags"> -->
+                <select name="cars" id="locationTags" multiple>
+                    <option value="cereals">cereals</option>
+                    <option value="cookies">cookies</option>
+                    <option value="coffee">coffee</option>
+                    <option value="juice">juice</option>
+                    <option value="cocktails">cocktails</option>
+                    <option value="icecream">icecream</option>
+                    <option value="muffins">muffins</option>
+                    <option value="pancakes">pancakes</option>
+                    <option value="brunch">brunch</option>
+                    <option value="bar">bar</option>
+                    <option value="wagglebuffle">wagglebuffle</option>
+                    <option value="crepe">crepe</option>
+                    <option value="bubbletea">bubbletea</option>
+                    <option value="croissants">croissants</option>
+                    <option value="cakes">cakes</option>
+                    <option value="empanadas">empanadas</option>
+                    <option value="tequeños">tequeños</option>
+                    <option value="açais">açais</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Type: </label>
+                <input class="form-control" id="locationType">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Description: </label>
+                <input class="form-control" id="locationDescription">
+            </div>
+            <button type="submit" id="submitButton" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
 
-	<!-- The core Firebase JS SDK is always required and must be listed first -->
-	<script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-app.js"></script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-app.js"></script>
 
-	<!-- TODO: Add SDKs for Firebase products that you want to use
+    <!-- TODO: Add SDKs for Firebase products that you want to use
 		https://firebase.google.com/docs/web/setup#available-libraries -->
-	<script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-analytics.js"></script>
 
-	<script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-firestore.js"></script>
 
-	<script>
-		// Initialize Firebase
-		firebase.initializeApp({
-        	apiKey: "AIzaSyBR3y0o9-hIF7dbb9uyTeolcy_0VQQ_xuI",
-			authDomain: "barceloneating-8fd92.firebaseapp.com",
-			databaseURL: "https://barceloneating-8fd92.firebaseio.com",
-			projectId: "barceloneating-8fd92",
-			storageBucket: "barceloneating-8fd92.appspot.com",
-			messagingSenderId: "806283854235",
-			appId: "1:806283854235:web:9726f7a14e82deed3b613e",
-			measurementId: "G-W3GNRTV6W7"
-    	});
-    	firebase.analytics();
-	</script>
+    <script>
+        // Initialize Firebase
+        firebase.initializeApp({
+            apiKey: "AIzaSyBR3y0o9-hIF7dbb9uyTeolcy_0VQQ_xuI",
+            authDomain: "barceloneating-8fd92.firebaseapp.com",
+            databaseURL: "https://barceloneating-8fd92.firebaseio.com",
+            projectId: "barceloneating-8fd92",
+            storageBucket: "barceloneating-8fd92.appspot.com",
+            messagingSenderId: "806283854235",
+            appId: "1:806283854235:web:9726f7a14e82deed3b613e",
+            measurementId: "G-W3GNRTV6W7"
+        });
+        firebase.analytics();
+    </script>
 
 </body>
 
