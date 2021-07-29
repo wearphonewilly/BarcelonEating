@@ -3,6 +3,18 @@ function loadEvents() {
     db = firebase.firestore();
 
     document.getElementById("submitButton").addEventListener("click", addLocation);
+    //document.getElementById("recalculate").addEventListener("click", recalculateTags);
+}
+
+function recalculateTags(){
+    db.collection("Locales").get().then((querySnapshot) => {
+        querySnapshot.forEach((doc) => {
+            let tags = doc.data().tags;
+            let arrayTags = tags.split(",");
+
+            db.collection("Locales").doc(doc.id).update({tags: arrayTags});
+        });
+    });
 }
 
 function processLocations() {
@@ -41,7 +53,7 @@ function addLocation() {
     let locationName = document.getElementById("locationName").value;
     let locationDescription = document.getElementById("locationDescription").value;
     let locationLocation = document.getElementById("locationLocation").value;
-    let locationTags = document.getElementById("locationTags").value;
+    let locationTags = getSelectValues(document.getElementById("locationTags"));
     let locationType = document.getElementById("locationType").value;
 
     if (locationName != "" && locationLocation != "" && locationTags != "" && locationType != "") {
@@ -63,3 +75,18 @@ function addLocation() {
     }
 
 }
+
+function getSelectValues(select) {
+    var result = [];
+    var options = select && select.options;
+    var opt;
+  
+    for (var i=0, iLen=options.length; i<iLen; i++) {
+      opt = options[i];
+  
+      if (opt.selected) {
+        result.push(opt.value || opt.text);
+      }
+    }
+    return result;
+  }
