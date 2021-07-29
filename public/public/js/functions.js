@@ -3,6 +3,7 @@ function loadEvents() {
     db = firebase.firestore();
 
     document.getElementById("submitButton").addEventListener("click", addLocation);
+    document.getElementById("searchButton").addEventListener("click", searchLocation);
     //document.getElementById("recalculate").addEventListener("click", recalculateTags);
 }
 
@@ -48,6 +49,28 @@ function processLocations() {
     }
 }
 
+function searchLocation() {
+
+    var name = document.getElementById("locationName").value.toUpperCase();
+    var flag = false;
+
+    db.collection("Locales").get().then((querySnapshot) => {
+        querySnapshot.forEach((doc) => {
+            let localName = doc.data().name;
+
+            localName = localName.toUpperCase();
+            
+            if(localName.localeCompare(name) == 0){
+                console.log(doc.id);
+                flag = true;
+            }
+
+        });
+    });
+
+    return flag;
+}
+
 function addLocation() {
 
     let locationName = document.getElementById("locationName").value;
@@ -56,20 +79,23 @@ function addLocation() {
     let locationTags = getSelectValues(document.getElementById("locationTags"));
     let locationType = document.getElementById("locationType").value;
 
-    if (locationName != "" && locationLocation != "" && locationTags != "" && locationType != "") {
+    if (!searchLocation() && locationName != "" && locationLocation != "" && locationTags != "" && locationType != "") {
+        
         db.collection("Locales").add({
-                name: locationName,
-                description: locationDescription,
-                location: locationLocation,
-                tags: locationTags,
-                type: locationType
-            })
-            .then((docRef) => {
-                console.log("Document written with ID: ", docRef.id);
-            })
-            .catch((error) => {
-                console.error("Error adding document: ", error);
-            });
+            name: locationName,
+            description: locationDescription,
+            location: locationLocation,
+            tags: locationTags,
+            type: locationType
+        })
+        .then((docRef) => {
+            console.log("Document written with ID: ", docRef.id);
+        })
+        .catch((error) => {
+            console.error("Error adding document: ", error);
+        });
+        
+        
     } else {
         alert("Invalid inputs");
     }
@@ -89,4 +115,6 @@ function getSelectValues(select) {
       }
     }
     return result;
-  }
+}
+
+

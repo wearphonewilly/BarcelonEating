@@ -21,15 +21,15 @@
     <div class="inputLocations">
         <form action="javascript:void(0);" method="POST">
             <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Name: </label>
+                <label class="form-label">Name: </label>
                 <input class="form-control" id="locationName" autocomplete="off">
             </div>
             <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Location: </label>
+                <label class="form-label">Location: </label>
                 <input class="form-control" id="locationLocation" autocomplete="off">
             </div>
             <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Tags: </label>
+                <label class="form-label">Tags: </label>
                 <!-- <input class="form-control" id="locationTags"> -->
                 <select name="tags" id="locationTags" multiple="multiple">
                     <option value="açais">açais</option>
@@ -55,19 +55,20 @@
                 </select>
             </div>
             <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Type: </label>
+                <label class="form-label">Type: </label>
                 <input class="form-control" id="locationType" autocomplete="off">
-                <label for="exampleInputEmail1" class="form-label">drinks, bakery</label>
+                <label class="form-label">drinks, bakery</label>
             </div>
             <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Description: </label>
+                <label class="form-label">Description: </label>
                 <input class="form-control" id="locationDescription" autocomplete="off">
             </div>
             <button type="submit" id="submitButton" class="btn btn-primary">Submit</button>
         </form>
     </div>
 
-    <!-- <button id="recalculate">Recalculate</button> -->
+    <!-- <button class="btn btn-primary" id="recalculate">Recalculate</button> -->
+    <!-- <button class="btn btn-primary" id="searchButton">Search</button> -->
 
     <!-- The core Firebase JS SDK is always required and must be listed first -->
     <script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-app.js"></script>
