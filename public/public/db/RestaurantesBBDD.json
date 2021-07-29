@@ -880,14 +880,6 @@
         },
         {
             "description": "aaa",
-            "name": "B Sandwiches",
-            "tags": [{
-                "waggle buffle": true
-            }],
-            "ubicacion": "XXX"
-        },
-        {
-            "description": "aaa",
             "name": "La Cantonada",
             "tags": [{
                 "waggle buffle": true

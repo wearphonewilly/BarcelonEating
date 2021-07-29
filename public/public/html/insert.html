@@ -22,43 +22,46 @@
         <form action="javascript:void(0);" method="POST">
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Name: </label>
-                <input class="form-control" id="locationName">
+                <input class="form-control" id="locationName" autocomplete="off">
             </div>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Location: </label>
-                <input class="form-control" id="locationLocation">
+                <input class="form-control" id="locationLocation" autocomplete="off">
             </div>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Tags: </label>
                 <!-- <input class="form-control" id="locationTags"> -->
                 <select name="tags" id="locationTags" multiple="multiple">
-                    <option value="cereals">cereals</option>
-                    <option value="cookies">cookies</option>
-                    <option value="coffee">coffee</option>
-                    <option value="juice">juice</option>
-                    <option value="cocktails">cocktails</option>
-                    <option value="icecream">icecream</option>
-                    <option value="muffins">muffins</option>
-                    <option value="pancakes">pancakes</option>
+                    <option value="açais">açais</option>
                     <option value="brunch">brunch</option>
                     <option value="bar">bar</option>
-                    <option value="wagglebuffle">wagglebuffle</option>
-                    <option value="crepe">crepe</option>
                     <option value="bubbletea">bubbletea</option>
-                    <option value="croissants">croissants</option>
                     <option value="cakes">cakes</option>
+                    <option value="cereals">cereals</option>
+                    <option value="cookies">cookies</option>
+                    <option value="croissants">croissants</option>
+                    <option value="coffee">coffee</option>
+                    <option value="cocktails">cocktails</option>
+                    <option value="crepe">crepe</option>
+                    <option value="cinnamonrolls">cinnamonrolls</option>
+                    <option value="donuts">donuts</option>
                     <option value="empanadas">empanadas</option>
+                    <option value="icecream">icecream</option>
+                    <option value="juice">juice</option>
+                    <option value="muffins">muffins</option>
+                    <option value="pancakes">pancakes</option>
                     <option value="tequeños">tequeños</option>
-                    <option value="açais">açais</option>
+                    <option value="wagglebuffle">wagglebuffle</option>
                 </select>
             </div>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Type: </label>
-                <input class="form-control" id="locationType">
+                <input class="form-control" id="locationType" autocomplete="off">
+                <label for="exampleInputEmail1" class="form-label">drinks, bakery</label>
             </div>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Description: </label>
-                <input class="form-control" id="locationDescription">
+                <input class="form-control" id="locationDescription" autocomplete="off">
             </div>
             <button type="submit" id="submitButton" class="btn btn-primary">Submit</button>
         </form>
