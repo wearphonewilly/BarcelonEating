@@ -65,7 +65,6 @@
    - [ ] Chico Bar
    - [x] Tomás Sarria
    - [ ] Cadaqués Restaurant
-   - [ ] Mitte Restaurant
    - [ ] Alquimia
    - [ ] Casa Diaz (Tequeños + Bravas)
    - [ ] Bar Del Pla (Born)
