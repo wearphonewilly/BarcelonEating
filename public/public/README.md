@@ -81,21 +81,18 @@
 
 ### CROQUETAS & TAPAS & TORTILLAS:
    - [x] Croq & Roll
-   - [ ] Croquetagram
    - [ ] TekeFingers
    - [ ] Happy Rock BCN
    - [ ] Pez Tortilla
    - [x] Croqueteca Glorias - Tapería & Coctelería
    - [ ] Cata By Catacroquet - Born
    - [ ] Bar Malasang (Tapas)
-   - [ ] Granja Petitbo
+   - [x] Granja Petitbo
    - [ ] Café Berlín Barcelona (Más cosas)
    - [ ] Flash Flash (Tortilla)
    - [ ] Mantequerias Pirenaicas (Tortilla y Croquetas)
    - [ ] Les Truites
    - [ ] La bodegueta de Sant Andreu (bona pinta pero si se puede el resto)
-   - [ ] La esquinica (Tapas)
-   - [ ] Tibu-Ron Beach Club 
    - [ ] Reñé • RestoBar (Modernista)
    - [ ] Tapas 2254 https://www.tiktok.com/@caketina_/video/6979215152176549126?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814 + tartar roll
    - [ ] Lokal
@@ -109,7 +106,6 @@
    - [ ] Bar Cañete 
    - [ ] Coroto
    - [ ] Mimo’s Born
-   - [ ] Araki Internacional (HotDog en tartar)
 
 
 ### CARNE:
@@ -131,27 +127,20 @@
    - [x] Timesburg 
    - [x] NYB - New York Burger
    - [ ] La Real Hamburguesería
-   - [ ] 08 Burgers
    - [ ] Punto y Coma
    - [ ] Lara Grill
    - [ ] Surf House Barcelona
-   - [ ] Brunch Market
    - [ ] Chico Bar
    - [ ] La Porca BCN
    - [ ] The Dog is hot
    - [x] Oval
    - [ ] Inka Burg
    - [ ] Melosa Hamburgueseria
-   - [ ] La Trocadero
    - [ ] Pisa Morena
    - [ ] Ruta 6
    - [ ] Clorofilabar
-   - [ ] Almalibre Açaí House Barcelona (Veganas)
-   - [ ] DooBop (Pollo)
    - [x] Bar Centro - Burgers & Craft Beer
    - [ ] Pescadea (hamburguesas de pescado)
-   - [ ] La Parrilla Gourmet
-   - [ ] QBurger
    - [x] Debutis (Butifarras)
    - [ ] Acero Street Flavors
    - [ ] The Ranch Smokehouse (bomba de hamburguesa)
@@ -169,10 +158,9 @@
    - [ ] Piel de Gallina (Pollo)
    - [ ] The Egg Lab Street
    - [ ] Machaka Burger
-   - [ ] ATABALATS Gastrobar (Burgers Gourmet)
    - [ ] BonaBurger
    - [ ] BRO Barcelona
-   - [x] AsadoBcn
+   - [x] Asado Hamburguesas
    - [ ] Clubhaus (tiene dj)
 
 ### PASTA
@@ -393,12 +381,14 @@
     - [ ] Sésamo restaurante
     - [ ] Quinoa Barcelona
     - [ ] Honest Greens
+    - [ ] La Trocadero
     - [x] Flax & Kale
     - [ ] La Suegra del Jardinero
     - [ ] The Green Spot
     - [ ] Vegan Junk Food
     - [ ] Te Quiero Verde
     - [ ] La Papa Barcelona
+    - [ ] Almalibre Açaí House Barcelona (Veganas)
 
 
 ## BEBIDAS
@@ -521,6 +511,7 @@
    - [ ] Sky Bar at Grand Hotel Central
    - [ ] La Isabela at Hotel 1898
    - [ ] La Terraza at Villa Emilia
+   - [ ] Tibu-Ron Beach Club 
    - [ ] Soho House Barcelona
    - [ ] The Rooftop at Sir Victor Hotel
    - [ ] Alaire Terrace Bar
