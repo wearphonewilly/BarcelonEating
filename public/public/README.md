@@ -67,7 +67,6 @@
    - [ ] Cadaqués Restaurant
    - [ ] Alquimia
    - [ ] Casa Diaz (Tequeños + Bravas)
-   - [ ] Bar Del Pla (Born)
    - [ ] La Mestressa (Sants)
    - [ ] Melosa Hamburgueseria 
    - [ ] Atabalats Gastrobar
@@ -173,30 +172,25 @@
    - [ ] Chalito
    - [x] Murivecchi
    - [x] Piazze D’Italia
-   - [ ] A33 bcn
-   - [ ] Lartista pizza
+   - [ ] Pizzeria Napoletana A33
    - [ ] Les Dues Sicílies (Pizzas Enormes)
    - [ ] Parking Pizza - Parking Pita
-   - [ ] Da Me pizzas
+   - [ ] Craft Pizza
    - [ ] Pizzeria Da Nanni Barcelona
    - [ ] Pit Stop Pizza Barcelona
-   - [ ] Pizzeria Av.Corrientes
    - [ ] Puntaromana Barcelona (Pizza de Pulp a la gallega)
-   - [x] Pizza Market
    - [ ] Gula PIZZA Bar
    - [ ] Can Pizza
-   - [ ] The Spot Barcelona
    - [ ] The Haissala’s Pizza
    - [x] Pizza Markets
    - [x] Passione Napolitana
    - [ ] Don Kilo (Calzone de chocolate)
-   - [ ] Spaccanapoli
-   - [ ] NAP Neapolitan Authentic Pizzas
+   - [ ] Sartoria Panatieri - Pizzería en Eixample
+   - [ ] La balmesina
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
-   - [ ] Teddy’s Barcelona
-   - [ ] Tio Bigotes
+   - [x] Tio Bigotes
    - [ ] La Perversa (Arepas)
    - [ ] Casa Diaz BCN (Arepas)
    - [ ] Sagàs Pagesos i Cuiners (Bocadillos)
@@ -205,42 +199,32 @@
    - [ ] Casa Díaz Bcn
    - [ ] Hot Boat (pan & queso)
    - [ ] BYKYNY Bcn (Aparte bocadillo jamón)
-   - [ ] El Rusc (Gracia)
    - [ ] Patito Feo (Bocadillo + cerveza)
    - [ ] Bullicio 
 
 ### POKEBOWLS:
    - [ ] D’Street Poke & Bowls
    - [ ] Lato Café
-   - [ ] Restaurante ASAP
    - [ ] Poke Si
    - [ ] Bohl
    - [x] Nua Smart Restaurant
-   - [ ] Señora Piña
 
 
 ### SUSHI:
    - [x] Restaurante Luri
-   - [ ] Restaurante Luris
    - [ ] Mambo Sushi (Pedir ATIN LOVER. ATÚN CARAMELIZADO CON HOJITAS DE MENTA, TARTAR DE SALMÓN Y FRESAS)
    - [ ] La Uramakeria
    - [ ] Fast KIBUKA
    - [ ] Monster Sushi
-   - [ ] Sushi He VI
-   - [ ] Sushi Not Sorry (Sushi croquetas)
    - [ ] Koyo
    - [ ] Sushi Time
    - [ ] Un Bocado
    - [ ] Restaurante Maguro (Pides pantalla)
-   - [ ] Restaurante Tami
-   - [ ] Mambo Sushi
-   - [ ] U35 Sushi
    - [ ] Kibuka (Kibuka Llull)
 
 
  ### JAPÓN / RAMEN / ASIATICO:
-   - [ ] Restaurante Japonés Mikasa
-   - [ ] Boa - Bao (Sitio chulo)
+   - [ ] Boa - Bao
    - [ ] Spicy Soul Hot Pot
    - [ ] Spicy VOLX (Taberna Oriental MUY CHULA NEON)
    - [ ] Ukai Eixample
@@ -284,6 +268,7 @@
    - [ ] Lucky Road Street Food (neones)
    - [ ] Takashi Ochiai Pastisseria (Pastelería japonesa y especialidades locales)
    - [ ] Takumi Sapporo Ramen
+   - [ ] Takumi Ramen Barcelona
    - [ ] Bouzu Barcelona
    - [ ] Parco (Niguiris de pez mantequilla, saquitos de postre)
    - [ ] Robata
