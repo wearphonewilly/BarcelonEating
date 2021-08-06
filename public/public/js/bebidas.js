@@ -1,33 +1,53 @@
 function loadLocations() {
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.overrideMimeType("application/json");
-    xmlhttp.open("GET", "../db/RestaurantesBBDD.json", true);
-    xmlhttp.onreadystatechange = processLocations;
-    xmlhttp.send(null);
+
+    db = firebase.firestore();
+    processLocations();
 }
 
 function processLocations() {
-    if ((this.readyState == 4) && (this.status == 200)) {
-        var locations = JSON.parse(this.responseText);
-        console.log(locations);
 
-        for (let i = 0; i < locations.Bebidas.length; i++) {
+    db.collection("Locales").get().then((querySnapshot) => {
+        querySnapshot.forEach((doc) => {
 
-            var bebidaObj = document.createElement("div");
+            if(doc.data().type === "drinks"){
+                let bebida = document.createElement("div");
+                bebida.setAttribute("id", doc.id);
+                bebida.setAttribute("class", "card col-xl-3 ml-3 mb-1 mt-2");
+                document.getElementById("content").appendChild(bebida);
+    
+                let bebidaBodyObj = document.createElement("div");
+                bebidaBodyObj.setAttribute("class", "card-body");
+                bebida.appendChild(bebidaBodyObj);
+    
+                let nameBebida = document.createElement("h5");
+                nameBebida.setAttribute("class", "card-title");
+                nameBebida.innerHTML = doc.data().name;
+                bebidaBodyObj.appendChild(nameBebida);
+    
+                let descBebida = document.createElement("p");
+                descBebida.setAttribute("class", "card-text");
+                descBebida.innerHTML = doc.data().description;
+                bebidaBodyObj.appendChild(descBebida);
 
-            document.getElementById("content").appendChild(bebidaObj);
+                let locationBebida = document.createElement("p");
+                locationBebida.setAttribute("class", "card-text");
+                locationBebida.innerHTML = "Dirección: " + doc.data().location;
+                bebidaBodyObj.appendChild(locationBebida);
 
+                let tags = doc.data().tags;
+                let tagsBebida = document.createElement("div");
+                tagsBebida.setAttribute("class", "card-text");
+                for (let i = 0; i < tags.length; i++) {
+                    let tag = document.createElement("h8");
+                    tag.innerHTML = "<i>" + tags[i] + " </i>";
+                    tag.setAttribute("class", "border border-secondary ml-1 px-2 rounded-top bg-secondary text-light");
+                    tagsBebida.appendChild(tag);
+                }
 
-            /*var nameBebida = document.createElement("h1");
-            nameBebida.innerHTML = locations.Bebidas[i].name;
-            bebidaObj.appendChild(nameBebida);*/
+                bebidaBodyObj.appendChild(tagsBebida);
 
-            /*var descBebida = document.createElement("h4");
-            /*descBebida.innerHTML = locations.Bebidas[i].description;
-            bebidaObj.appendChild(descBebida);*/
+            }
+        });
+    });
 
-            document.getElementById("content").innerHTML += "  <div class=\"row\"> <div class=\"col s12 \"> <div class=\"card light-blue darken-3\"> <div class=\"card-content white-text\"> <span class=\"card-title\">" +locations.Bebidas[i].name +"</span> <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. </p></div> </div> </div> </div> ";
-
-        }
-    }
 }

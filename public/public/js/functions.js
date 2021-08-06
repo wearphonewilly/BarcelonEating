@@ -3,7 +3,7 @@ function loadEvents() {
     db = firebase.firestore();
 
     document.getElementById("submitButton").addEventListener("click", addLocation);
-    document.getElementById("searchButton").addEventListener("click", searchLocation);
+    //document.getElementById("searchButton").addEventListener("click", searchLocation);
     //document.getElementById("recalculate").addEventListener("click", recalculateTags);
 }
 
@@ -51,8 +51,8 @@ function processLocations() {
 
 function searchLocation() {
 
-    var name = document.getElementById("locationName").value.toUpperCase();
-    var flag = false;
+    let name = document.getElementById("locationName").value.toUpperCase();
+    let flag = false;
 
     db.collection("Locales").get().then((querySnapshot) => {
         querySnapshot.forEach((doc) => {
@@ -103,11 +103,11 @@ function addLocation() {
 }
 
 function getSelectValues(select) {
-    var result = [];
-    var options = select && select.options;
-    var opt;
+    let result = [];
+    let options = select && select.options;
+    let opt;
   
-    for (var i=0, iLen=options.length; i<iLen; i++) {
+    for (let i=0, iLen=options.length; i<iLen; i++) {
       opt = options[i];
   
       if (opt.selected) {
