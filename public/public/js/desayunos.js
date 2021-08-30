@@ -52,7 +52,7 @@ function processLocations() {
 function loadLocations() {
     var xmlhttp = new XMLHttpRequest();
     xmlhttp.overrideMimeType("application/json");
-    xmlhttp.open("GET", "../db/RestaurantesBBDD.json", true);
+    xmlhttp.open("GET", "../db/BebidasBBDD.json", true);
     xmlhttp.onreadystatechange = processLocations;
     xmlhttp.send(null);
 }
@@ -68,7 +68,6 @@ function processLocations() {
 
             document.getElementById("content").appendChild(bebidaObj);
 
-
             /*var nameBebida = document.createElement("h1");
             nameBebida.innerHTML = locations.Bebidas[i].name;
             bebidaObj.appendChild(nameBebida);*/
@@ -77,7 +76,37 @@ function processLocations() {
             /*descBebida.innerHTML = locations.Bebidas[i].description;
             bebidaObj.appendChild(descBebida);*/
 
-            document.getElementById("content").innerHTML += "  <div class=\"row\"> <div class=\"col s12 \"> <div class=\"card light-blue darken-3\"> <div class=\"card-content white-text\"> <span class=\"card-title\">" +locations.Bebidas[i].name +"</span> <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. </p></div> </div> </div> </div> ";
+            // console.log(locations.Desayunos[i].name);
+            console.log(locations.Bebidas[i].name);
+
+            let nameDesayunos = locations.Bebidas[i].name;
+            let locationDesayunos = locations.Bebidas[i].location;
+            let descriptionDesayunos = locations.Bebidas[i].description;
+            let tagsDesayunos = locations.Bebidas[i].tags[0];
+            let tagDesayunos = JSON.stringify(tagsDesayunos);
+            
+            let comida = document.createElement("div");
+            comida.setAttribute("class", tagDesayunos + " card col-xl-3 ml-3 mb-1 mt-2 ");
+            document.getElementById("content").appendChild(comida);
+
+            let comidaBodyObj = document.createElement("div");
+            comidaBodyObj.setAttribute("class", "card-body");
+            comida.appendChild(comidaBodyObj);
+
+            let nameComida = document.createElement("h5");
+            nameComida.setAttribute("class", "card-title");
+            nameComida.innerHTML = nameDesayunos;
+            comidaBodyObj.appendChild(nameComida);
+
+            let descComida = document.createElement("p");
+            descComida.setAttribute("class", "card-text");
+            descComida.innerHTML = descriptionDesayunos;
+            comidaBodyObj.appendChild(descComida);
+
+            let locationComida = document.createElement("p");
+            locationComida.setAttribute("class", "card-text");
+            locationComida.innerHTML = "Dirección: " + locationDesayunos;
+            comidaBodyObj.appendChild(locationComida);
         }
     }
 }

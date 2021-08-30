@@ -1,0 +1,668 @@
+{
+    "Bebidas": [{
+            "description": "aaa",
+            "name": "On y Va Barcelona",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX",
+            "type": "b"
+        },
+        {
+            "description": "aaa",
+            "name": "Camelia Art Cafe",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bykate bcn",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Casa Bonay",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "La Cava cakery",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Morrow Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Satan’s Coffee Corner",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Molika Cafe Eixample",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Crois Croissant Gourmet",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Hidden Cafe Bcn",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Espai Joliu",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Super coffee & food store",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Frenesi Cafe",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Departure Coffee Co.",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Coffee Casa",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "SKYE Coffee Co.",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Sabio Infante Brunch and coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bow Barcelona",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Petit Pot",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Hygge Coffee Bcn",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "Gracia"
+        },
+        {
+            "description": "aaa",
+            "name": "Heladeria Barcelona",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bicioci Bike Cafè",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "Gracia"
+        },
+        {
+            "description": "aaa",
+            "name": "Cafè Cometa",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "PERLA COFFEE KIOSK",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Lilo Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Caravelle",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "CafeCosmo",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Ombu Bcn",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Black Remedy",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Es Bien Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Onna Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "SlowMov",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Robot House Barcelona",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Nomad Coffee Roaster's Home",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Cafes El Magnifico",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Syra Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Selvatica",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Austral Coffee Bar",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Rummas coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "La Muriel",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Mala Llet Coffee Bar",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Libreria Byron",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Pudding Coffee Shop Barcelona",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "Avinguda Diagonal, 515, 08029 Barcelona"
+        },
+        {
+            "description": "aaa",
+            "name": "Roast Club Cafe",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Café Fosc",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "La Papa Barcelona",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Casa Taos",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "People Love Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bonsai Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Oma bistro",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Cremat 11",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bristol",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Federal Cafe",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Suis Gracia",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Little Fern",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "PuroCafe",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "Born"
+        },
+        {
+            "description": "aaa",
+            "name": "Sweet Lima",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "La Texil",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "La Malcriada",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Duval Buns & Coffee",
+            "tags": [{
+                "cafe": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Tymless Tea",
+            "tags": [{
+                "Bubble Tea": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Hammock Juice Station",
+            "tags": [{
+                "zumo": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Yicha Bcn",
+            "tags": [{
+                "Bubble Tea": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Zen Zoo Bubbles",
+            "tags": [{
+                "Bubble Tea": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Pandacha",
+            "tags": [{
+                "Bubble Tea": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Q TEA",
+            "tags": [{
+                "Bubble Tea": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Chinese Tofu Magician",
+            "tags": [{
+                "Bubble Tea": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bubbolitas",
+            "tags": [{
+                "Bubble Tea": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "Te trae los cocktails en un tren",
+            "name": "Orient Express Cocktail Bar",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "El Jardinet d’Aribau",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Merbeyé Cocktail Bar",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Pisa Morena",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Alquimia",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "Planta 19 Urquinaona, se ve toda Barcelona",
+            "name": "The 19th hole",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bobby's Free",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "DUX",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Beriut 37",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "Sitio oculto pastrami",
+            "name": "Paradiso",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814",
+            "name": "Particular Gastrobar",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Bar Central Raval",
+            "tags": [{
+                "Bar": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Snack 55",
+            "tags": [{
+                "Bar": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Tot 1 Euro Bar",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        },
+        {
+            "description": "aaa",
+            "name": "Mescladis del Pou",
+            "tags": [{
+                "Cocktails": true
+            }],
+            "location": "XXX"
+        }
+    ]
+}
