@@ -174,7 +174,7 @@
    - [x] Piazze D’Italia
    - [ ] Pizzeria Napoletana A33
    - [ ] Les Dues Sicílies (Pizzas Enormes)
-   - [ ] Parking Pizza - Parking Pita
+   - [x] Parking Pizza - Parking Pita
    - [ ] Craft Pizza
    - [ ] Pizzeria Da Nanni Barcelona
    - [ ] Pit Stop Pizza Barcelona
@@ -185,7 +185,7 @@
    - [x] Pizza Markets
    - [x] Passione Napolitana
    - [ ] Don Kilo (Calzone de chocolate)
-   - [ ] Sartoria Panatieri - Pizzería en Eixample
+   - [x] Sartoria Panatieri - Pizzería en Eixample
    - [ ] La balmesina
 
 ### EMPANADILLAS:
@@ -230,7 +230,7 @@
    - [ ] Ukai Eixample
    - [ ] Ramen Bcn
    - [ ] Carlota Akaneya (Barbacoa Coreana)
-   - [ ] Dr. Zhang, dumplings de Barcelona
+   - [x] Dr. Zhang, dumplings de Barcelona
    - [ ] Lady Dumpling
    - [ ] Telemaki
    - [ ] Nomo
@@ -362,18 +362,18 @@
    - [ ] Ginette
 
 ### VEGETARIANO
-    - [x] Fat Veggies
-    - [ ] Sésamo restaurante
-    - [ ] Quinoa Barcelona
-    - [ ] Honest Greens
-    - [ ] La Trocadero
-    - [x] Flax & Kale
-    - [ ] La Suegra del Jardinero
-    - [ ] The Green Spot
-    - [ ] Vegan Junk Food
-    - [ ] Te Quiero Verde
-    - [ ] La Papa Barcelona
-    - [ ] Almalibre Açaí House Barcelona (Veganas)
+   - [x] Fat Veggies
+   - [ ] Sésamo restaurante
+   - [ ] Quinoa Barcelona
+   - [ ] Honest Greens
+   - [ ] La Trocadero
+   - [x] Flax & Kale
+   - [ ] La Suegra del Jardinero
+   - [ ] The Green Spot
+   - [ ] Vegan Junk Food
+   - [ ] Te Quiero Verde
+   - [ ] La Papa Barcelona
+   - [ ] Almalibre Açaí House Barcelona (Veganas)
 
 
 ## BEBIDAS
@@ -391,7 +391,7 @@
    - [ ] SKYE Coffee Co.
    - [x] Crois Croissant Gourmet
    - [x] Hidden Café Bcn
-   - [ ] Espai Joliu
+   - [x] Espai Joliu
    - [ ] Súper coffee & food store
    - [ ] Orval Barcelona
    - [ ] Frenesí Café
@@ -539,7 +539,7 @@
    - [x] Gelateria Da Gallo
    - [x] Anita Gelato Barcelona
    - [ ] Rocambolesc
-   - [ ] Paral·lelo
+   - [x] Paral·lelo Gelateria
 
 
 ## PEDIR ONLINE
