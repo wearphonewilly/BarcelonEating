@@ -84,9 +84,11 @@ function processLocations() {
             let descriptionDesayunos = locations.Bebidas[i].description;
             let tagsDesayunos = locations.Bebidas[i].tags[0];
             let tagDesayunos = JSON.stringify(tagsDesayunos);
+            tagDesayunos.replace(' " ', " ");
+            let tag = tagsDesayunos.tag;
             
             let comida = document.createElement("div");
-            comida.setAttribute("class", tagDesayunos + " card col-xl-3 ml-3 mb-1 mt-2 ");
+            comida.setAttribute("class", tag + " filterDiv card col-xl-3 ml-3 mb-1 mt-2 ");
             document.getElementById("content").appendChild(comida);
 
             let comidaBodyObj = document.createElement("div");
