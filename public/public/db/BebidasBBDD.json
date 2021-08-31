@@ -492,7 +492,7 @@
             "description": "aaa",
             "name": "Hammock Juice Station",
             "tags": [{
-                "zumo": true
+                "tag": "Zumo"
             }],
             "location": "XXX"
         },

@@ -50,7 +50,7 @@ function processLocations() {
     });
 }*/
 function loadLocations() {
-    var xmlhttp = new XMLHttpRequest();
+    let xmlhttp = new XMLHttpRequest();
     xmlhttp.overrideMimeType("application/json");
     xmlhttp.open("GET", "../db/BebidasBBDD.json", true);
     xmlhttp.onreadystatechange = processLocations;
@@ -59,20 +59,20 @@ function loadLocations() {
 
 function processLocations() {
     if ((this.readyState == 4) && (this.status == 200)) {
-        var locations = JSON.parse(this.responseText);
+        let locations = JSON.parse(this.responseText);
         console.log(locations);
 
         for (let i = 0; i < locations.Bebidas.length; i++) {
 
-            var bebidaObj = document.createElement("div");
+            /*let bebidaObj = document.createElement("div");
 
             document.getElementById("content").appendChild(bebidaObj);
 
-            /*var nameBebida = document.createElement("h1");
+            let nameBebida = document.createElement("h1");
             nameBebida.innerHTML = locations.Bebidas[i].name;
             bebidaObj.appendChild(nameBebida);*/
 
-            /*var descBebida = document.createElement("h4");
+            /*let descBebida = document.createElement("h4");
             /*descBebida.innerHTML = locations.Bebidas[i].description;
             bebidaObj.appendChild(descBebida);*/
 
@@ -88,7 +88,7 @@ function processLocations() {
             let tag = tagsDesayunos.tag;
             
             let comida = document.createElement("div");
-            comida.setAttribute("class", tag + " filterDiv card col-xl-3 ml-3 mb-1 mt-2 ");
+            comida.setAttribute("class", tag + " card filterDiv col-xl-3 ml-3 mb-1 mt-2 show ");
             document.getElementById("content").appendChild(comida);
 
             let comidaBodyObj = document.createElement("div");
