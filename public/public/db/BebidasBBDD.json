@@ -5,8 +5,7 @@
             "tags": [{
                 "tag": "cafe"
             }],
-            "location": "XXX",
-            "type": "b"
+            "location": "Carrer de la Ciutat de Balaguer, 45, 08022 Barcelona"
         },
         {
             "description": "aaa",
@@ -14,31 +13,31 @@
             "tags": [{
                 "tag": "cafe"
             }],
-            "location": "XXX"
+            "location": "Carrer de Padilla, 264, 08025 Barcelona"
         },
         {
             "description": "aaa",
-            "name": "Bykate bcn",
+            "name": "ByKate",
             "tags": [{
                 "tag": "cafe"
             }],
-            "location": "XXX"
+            "location": "Carrer de Còrsega, 379, 08037 Barcelona"
         },
         {
             "description": "aaa",
-            "name": "Casa Bonay",
+            "name": "Satan's Casa Bonay",
             "tags": [{
                 "tag": "cafe"
             }],
-            "location": "XXX"
+            "location": "Gran Via de les Corts Catalanes, 700, 08010 Barcelona"
         },
         {
             "description": "aaa",
-            "name": "La Cava cakery",
+            "name": "La Cava Cakery",
             "tags": [{
                 "tag": "cafe"
             }],
-            "location": "XXX"
+            "location": "Passeig de Sant Joan, 111, 08037 Barcelona"
         },
         {
             "description": "aaa",
@@ -46,15 +45,15 @@
             "tags": [{
                 "tag": "cafe"
             }],
-            "location": "XXX"
+            "location": "Gran Vía de les Corts Catalanes, 403, 08015 Barcelona"
         },
         {
-            "description": "aaa",
-            "name": "Satan’s Coffee Corner",
+            "description": "Grandes ventanales y mesas altas para compartir en local actual especializado en café, con bollería y muesli.",
+            "name": "Satan's Coffee Gótico",
             "tags": [{
                 "tag": "cafe"
             }],
-            "location": "XXX"
+            "location": "Carrer de l'Arc de Sant Ramon del Call, 11, 08002 Barcelona"
         },
         {
             "description": "aaa",

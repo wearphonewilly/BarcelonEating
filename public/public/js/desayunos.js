@@ -106,7 +106,7 @@ function processLocations() {
             comidaBodyObj.appendChild(descComida);
 
             let locationComida = document.createElement("p");
-            locationComida.setAttribute("class", "card-text");
+            locationComida.setAttribute("class", "card-text direction");
             locationComida.innerHTML = "Dirección: " + locationDesayunos;
             comidaBodyObj.appendChild(locationComida);
         }
