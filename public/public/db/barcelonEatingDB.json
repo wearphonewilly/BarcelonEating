@@ -1,0 +1,1859 @@
+{
+    "Locations": [{
+        "id": "04A97NxKf3kUnwLRzhjf",
+        "name": "Sushi Time",
+        "description": "Buffet libre de sushi y sashimi en un restaurante sofisticado que también sirve pinchos y tapas de pescado y marisco.",
+        "tags": ["sushi"],
+        "location": "Carrer de Muntaner, 18, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "0KbBvj0WaVuiA5xuubWm",
+        "name": "Roast Club Cafe",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de València, 190, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "10VGlCSty9YYtLHx4Ywa",
+        "name": "Bar Centro - Burgers & Craft Beer",
+        "description": "Renovado bar de toda la vida que ofrece cervezas artesanas, hamburguesas gourmet y menú del día.",
+        "tags": ["beer", "burger"],
+        "location": "Carrer de Casp, 55, 08010 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "1NAnIcN97pHEUDqIJhs1",
+        "name": "Jardinet d'Aribau",
+        "description": "Tapas y platos principales de todo el mundo, además de cócteles, en un peculiar restaurante con plantas y un pintoresco patio.",
+        "tags": ["cocktails"],
+        "location": "Carrer d'Aribau, 133, 08036 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "1XQ0XC4CjHvFPnBHSvtU",
+        "name": "Carlota Akaneya",
+        "description": " Restaurante de estilo industrial chic, con barbacoas de carbón en las mesas y menús degustación con wagyu y kobe a la brasa.",
+        "tags": ["asiatico"],
+        "location": "Carrer del Pintor Fortuny, 32, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "1nNMgUy01LWNoX4ubUt1",
+        "name": "Alsur Café Llúria",
+        "description": "Desenfadado café actual con brunch, copas y carta variada de platos y dulces de inspiración norteamericana.",
+        "tags": ["brunch", "coffee"],
+        "location": "Carrer de Roger de Llúria, 23, 08010 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "1tuEx6xEHvar4ak8e5BA",
+        "name": "Cremat 11",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer Cremat Gran, 11, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "25AgwLxjAaWTxZRsW0LQ",
+        "name": "La Cava Cakery",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Pg. de Sant Joan, 111, 08037 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "27yUPkfONa1w9W5ZKhrp",
+        "name": "Escalope Armando",
+        "description": "",
+        "tags": ["meat"],
+        "location": "Carrer de Còrsega, 68, 08029 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "2GWzjfAhFOEWtDwDJzSq",
+        "name": "Hidden Café Bcn",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer Constança, Carrer de Déu i Mata, esquina, 08029 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "2goUvhvMWF41LyzktMdM",
+        "name": "Oval",
+        "description": "Restaurante informal de moda, con hamburguesas al estilo americano, pizzas, ensaladas, y algunas mesas en una terraza cubierta.",
+        "tags": ["burger"],
+        "location": "Carrer de València, 199, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "2zuO9HlZrwD35N3j0hgQ",
+        "name": "Tio Bigotes",
+        "description": "",
+        "tags": ["empanadas"],
+        "location": "Carrer de París, 131, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "3U4mwSlvnWJckY7VE24C",
+        "name": "Bar Central Raval",
+        "description": "",
+        "tags": ["bar"],
+        "location": "Carrer d'Elisabets, 6, 08001 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "3p6PpDxA2WhG021dYeZK",
+        "name": "Granja Petitbo",
+        "description": " Desayunos con frutas, brunches con huevo y opciones veganas en un sofisticado gastrobar con terraza",
+        "tags": ["brunch"],
+        "location": "Passeig de Sant Joan, 82, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "49AkjMTXYwKWQU9Yh73y",
+        "name": "Pizzeria Napoletana A33",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer de Manso, 22, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "4DaJd0xNnUoWQezePKMB",
+        "name": "Chico Bar | Vermut, tapas y platillos",
+        "description": "Luminoso bar-restaurante de sencilla decoración actual para tomar vermú, tapas modernas y cocina de mercado.",
+        "tags": ["bravas", "burger"],
+        "location": "Carrer de Mandri, 29, 08022 Barcelona",
+        "type": "tapas",
+        "visitado": false
+    }, {
+        "id": "4S1HFgJtdnEPu4N9utaF",
+        "name": "Sweet Lima",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de la Fusina, 5, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "4SO0LEErc3aC5z0poEYi",
+        "name": "La Malcriada Brunch",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Ronda de Sant Pere, 39, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "4UT1Hb2lcplNugHY3cko",
+        "name": "Pasteleria Hofmann",
+        "description": "Croissant relleno de mascarpone para llevar en pastelería moderna con muebles blancos de estilo rústico.",
+        "tags": ["croissants"],
+        "location": "Carrer dels Flassaders, 44, 08003 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "4hSE9ujflYKXFet99kQQ",
+        "name": "Bow Barcelona",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Roger de Llúria, 46, 08009 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "4rhaxPZMHrfks8cwzbnh",
+        "name": "Restaurant BarcelonaMilano",
+        "description": "Moderno restaurante con cocina abierta, que ofrece tapas y está especializado en cocina y vinos catalanes e italianos.",
+        "tags": ["pasta"],
+        "location": "Carrer de Villarroel, 190, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "52fEEjZejgi79z85pMHG",
+        "name": "La Desayuneria",
+        "description": "",
+        "tags": ["pancakes", "brunch"],
+        "location": "Carrer del Comte d'Urgell, 260, bajo 2, 08036 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "5BizkI3KLW2Sa7KrSbsy",
+        "name": "SPICY - taberna oriental",
+        "description": "",
+        "tags": ["asiatico"],
+        "location": "Carrer del Comte Borrell, 41, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "5T2gJclLOrDNOzpHGxHW",
+        "name": "Merbeyé Cocktail Bar",
+        "description": "Íntima coctelería decorada con telas y palmeras, que dispone de terraza en la planta baja y otra en la azotea.",
+        "tags": ["cocktails"],
+        "location": "Plaça del Doctor Andreu, 2, 08035 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "5dzwgRCW7KRhYG4oY4C9",
+        "name": "The Haissala’s",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Ronda del General Mitre, 220, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "629THKTjkNBkZq7GqymG",
+        "name": "Bella Italia",
+        "description": "",
+        "tags": ["pasta", "pizza"],
+        "location": "Carrer de Roger de Llúria, 87, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "6QY7UVVSuAsDiweebeNI",
+        "name": "L' Empanadité (Empanadas Gourmet)",
+        "description": "",
+        "tags": ["empanadas"],
+        "location": "Carrer de los Castillejos, 263, 08013 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "70GgPMZ9K69R9mwoak4Z",
+        "name": "ByKATE",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Còrsega, 379, 08037 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "72NuBEA9PB5KutXNgD4n",
+        "name": "La Mestressa",
+        "description": "Restaurante especializado en tapas, torradas e ibéricos: su plato estrella son los huevos estrellados.",
+        "tags": ["bravas"],
+        "location": "Plaça d'Osca, 7, 08014 Barcelona",
+        "type": "tapas",
+        "visitado": false
+    }, {
+        "id": "75FgEMg6vxe4Zas5ltn6",
+        "name": "Gelateria Da Gallo",
+        "description": "",
+        "tags": ["icecream", "panettone"],
+        "location": "Carrer de Mallorca, 277, 08037 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "7iRtE9jWAy0AH2P2bTPn",
+        "name": "Flash Flash",
+        "description": "Tortillas españolas dulces y saladas en un restaurante moderno, decorado con imágenes de una fotógrafa en blanco y negro.",
+        "tags": ["tortillas"],
+        "location": "Carrer de la Granada del Penedès, 25, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "7toJRXJzlL1EUznsALxi",
+        "name": "Mimo's Born",
+        "description": "",
+        "tags": ["meat"],
+        "location": "Plaça de Jacint Reventós, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "89aOIv3aCF9Z5j43JFYP",
+        "name": "Les Truites",
+        "description": "Restaurante elegante que está especializado en tortillas españolas con ingredientes como pulpo, trufa y chocolate.",
+        "tags": ["tortillas"],
+        "location": "Carrer d'Arimon, 22, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "8RCaDFUDd33Y47VRCVYX",
+        "name": "Cafe Cometa",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Parlament, 20, 08015 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "8hOfX1Erf7YcApsLI2oI",
+        "name": "Rummas coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer dels Escudellers, 11, 08002 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "8oYa4ao1iMa4Z0jRLv64",
+        "name": "Sweet Gaufre",
+        "description": "Churros, gofres, crêpes y otros dulces en coqueta heladería de estilo parisino moderno que también sirve café.",
+        "tags": ["wagglebuffle", "crepe"],
+        "location": "La Rambla, 83, 08002 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "8rXd8HEeYnVyvKu5lLgv",
+        "name": "Yicha依茶",
+        "description": "",
+        "tags": ["bubbletea"],
+        "location": "Plaça de Tetuan, 32, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "8skZWNks4oPbBvn5z5MW",
+        "name": "Craft Pizza",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Avinguda Diagonal, 353, 08037 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "8tgg8e9BMoAVXfzGmuft",
+        "name": "Gula Pizza Bar",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer del Dr. Rizal, 20, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "8ve1AVXWsGEK34Ph9C90",
+        "name": "OMA Bistró",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Consell de Cent, 227, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "98q3cyfOjj5ZYKvWMSTH",
+        "name": "Coffee Casa",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer dels Carders, 25, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "9MqZIU4BOzeGzn5CkzeS",
+        "name": "Little Fern",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Pere IV, 168, 08005 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "9U3ZiSOD3qBOFyxgATRW",
+        "name": "The 19th Hole - Business Lounge Club",
+        "description": "",
+        "tags": ["cocktails"],
+        "location": "Plaça Urquinaona, 6, planta 19, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "9drJZN1eOvTauI14u18D",
+        "name": "Un Bocado",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer de Viladomat, 259, 08029 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "9sbjV5GRtGuVltU7x5Rl",
+        "name": "D' Street Poke & Bowls - DSTREET",
+        "description": "",
+        "tags": ["poke"],
+        "location": "Carrer de Sabino Arana, 36, 08028 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "9uaVXQdDph6NsiOFrS1J",
+        "name": "Foc i Oli Paris",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de París, 177, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "A4FK8AUEaDcrW3j8qa72",
+        "name": "Cafe Cosmo",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer d'Enric Granados, 3, 08007 Barcelona",
+        "type": "false",
+        "visitado": true
+    }, {
+        "id": "APxrpctQnZU6VUIKTKi5",
+        "name": "Es Bien Coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Gran Via de les Corts Catalanes, 849, 08018 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "AlvIW8qN2xHefXzxv7ZM",
+        "name": "Departure Coffee Co",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de la Verge, 1, 08001 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "BI2BnJqPuHTsTPuiX3si",
+        "name": "Sabio Infante Brunch and coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Torrent de l'Olla, 39, 08012 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "BNq6Nd2XtwJkfZVB8bst",
+        "name": "Camelia Art Cafe",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Padilla, 264, 08025 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "C41z3eZHx8d592OzV8kI",
+        "name": "Pastelería Duval",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer d'Aribau, 263, 08021 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "CVRgaYCqtlW5x9Jiio96",
+        "name": "Boa - Bao",
+        "description": "",
+        "tags": ["baos"],
+        "location": "Plaça del Dr. Letamendi, 1, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "DeyexfqMwrNw9OJ7CUiQ",
+        "name": "Maguro",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Passeig de Lluís Companys, 19, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "DjBreT4dbn0xG1NDn9J2",
+        "name": "Carbo Begur",
+        "description": "",
+        "tags": ["meat", "paella"],
+        "location": "Carrer Ventura Sabater, 1, 17255 Begur, Girona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "DwNwAmdnrUEGgsvtNeOl",
+        "name": "Sartoria Panatieri",
+        "description": "",
+        "tags": ["pasta", "pizza"],
+        "location": "Carrer de Provença, 330, 08037 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "DzPDrX5l3tLOm8NzEGvI",
+        "name": "Demasié",
+        "description": "Chocolate caliente en cafetería especializada en galletas y decorada con pizarras pintadas con tizas de color.",
+        "tags": ["cookies"],
+        "location": "Carrer Princesa 28, Carrer de la Diputació, 207, 08003 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "DzbZiRxr7GrdTVecI1A1",
+        "name": "Cafe Fosc",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Bailèn, 11, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "EEK9RvclNZyPJUmgyRMI",
+        "name": "Rooq",
+        "description": "",
+        "tags": ["chicken"],
+        "location": "Carrer de la Diputació, 349, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "EFJhyolqBEOtsXPA4WoN",
+        "name": "Ombú BCN Café de especialidad",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer d'Àvila, 51, 08005 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "EOpCay3fQ5lppLYMNXLb",
+        "name": "Bonaburger",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de Bigai, 1, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "ETiVoeHmF0MsDxjBBNU0",
+        "name": "Lukumás",
+        "description": "Venta de “lukumás”, o dónuts griegos, y café en un moderno obrador de blancas baldosas y muebles de madera.",
+        "tags": ["donuts"],
+        "location": "Carrer del Torrent de l'Olla, 169, 08012 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "EULVxxYiV5KKI2dtFxrL",
+        "name": "Bobby's Free",
+        "description": "Pub clásico de estilo inglés con cócteles variados, música, dardos y un proyector para ver los deportes.",
+        "tags": ["cocktails"],
+        "location": "Carrer de Pau Claris, 85, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "EcyBdfz7DFdt2warZNk9",
+        "name": "Surf House Barcelona",
+        "description": "Restaurante moderno, con desayunos, hamburguesas, ensaladas, cócteles y una terraza con vistas a la playa de la Barceloneta.",
+        "tags": ["burger"],
+        "location": "Carrer de Emília Llorca Martín, 22, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "EeOd14IyYrB3RIVblKes",
+        "name": "Poke Si",
+        "description": "",
+        "tags": ["poke"],
+        "location": "Carrer d'Aragó, 236, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "EupHOmfdLZIm1Tl3Ixgf",
+        "name": "Suís & Bowls",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Travessera de Gràcia, 151, 08012 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "FGn7VqLBiWwacreQ8cy6",
+        "name": "Da Nanni Pizzería",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer de la Llibreteria, 10, 08002 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "FIyK5FdaIMoIBeQ4IGTm",
+        "name": "SlowMov",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Luis Antúnez, 18, 08006 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "FmV5WMX5rwntRJyeRqY0",
+        "name": "QTea",
+        "description": "",
+        "tags": ["bubbletea"],
+        "location": "Pg. de Sant Joan, 44, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "G9PGN1rbMony1YFx9qfK",
+        "name": "Familia Osorio Puro Café",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Rec, 16, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "GImkD69nEeBLwGJxsfYT",
+        "name": "Casa Taos",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer d'Àlaba, 100, 08018 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "GSM4SQrdLfuzHkCjVSz5",
+        "name": "Particular Gastrobar",
+        "description": "https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814",
+        "tags": ["cocktails"],
+        "location": "Baixada de Sant Miquel, 6, 08002 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "GdLFG0hFyJbj8rLfGVae",
+        "name": "Molika Cafe Eixample",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Casp, 57, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "HQinzwwG6JAbONKVTaAb",
+        "name": "Kibuka Llull",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer de Llull, 155, 08005 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "HbYAmMaANcq0MyqBeblW",
+        "name": "Bonsai Coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Casanova, 146, 08036 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "I1tVQpvdJJk6usLnnn76",
+        "name": "Bar Snack 55",
+        "description": "",
+        "tags": ["cocktails"],
+        "location": "Pg. de Sant Joan, 55, 08009 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "IKZ6qqgvtTvbK3LAfRQe",
+        "name": "Sant Antoni Gloriós",
+        "description": "",
+        "tags": ["bravas"],
+        "location": "Carrer de Manso, 42, 08015 Barcelona",
+        "type": "tapas",
+        "visitado": false
+    }, {
+        "id": "InEvbQ0gRYdn8HKIbbIs",
+        "name": "El Flako Corn Flakes & Co.",
+        "description": "Moderno bar de cereales donde se sirven creativos boles dulces, tortitas con helado y elaborados batidos.",
+        "tags": ["cereals"],
+        "location": "Carrer dels Canvis Nous, 8, 08003 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "Jgeh61QKPqVzCDKG4aj4",
+        "name": "Bow Barcelona",
+        "description": "",
+        "tags": ["coffee", "cakes"],
+        "location": "Carrer de Roger de Llúria, 46, 08009 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "Jm4BBgzH0IsWD0Qdu0JZ",
+        "name": "Espresso Mafia Coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de la Cort Reial, 5, 17004 Girona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "JoDrcbM4GaTphCdkZElS",
+        "name": "Dr. Zhang Dumpling Bar",
+        "description": "",
+        "tags": ["dumplings"],
+        "location": "Carrer de Sepúlveda, 137, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "JoYag5CaUmWVAGElTE9Z",
+        "name": "PIT STOP pizza portafoglio",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer de Sant Antoni Maria Claret, 238, 08025 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "K045aVAiukKXuOD1QfzA",
+        "name": "Selvatica",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Martínez de la Rosa, 65, 08012 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "K3D82ZR2IPsNn5lpfFgM",
+        "name": "Dux Gins & Cocktails Borne",
+        "description": "Coctelería creativa con pared de ladrillo y salón con chimenea y marcos antiguos que sirve ginebra casera.",
+        "tags": ["cocktails"],
+        "location": "Carrer dels Vigatans, 13, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "KDSGLuCZl7zq6GbUKK0l",
+        "name": "Casa Diaz Bcn",
+        "description": "",
+        "tags": ["bravas", "empanadas", "tequeños", "arepas"],
+        "location": "Carrer de los Castillejos, 285, 08025 Barcelona",
+        "type": "tapas",
+        "visitado": false
+    }, {
+        "id": "KIepjXWmTos10bM8Yr8Y",
+        "name": "Tapas 2254",
+        "description": "Versiones innovadoras de platos españoles, vino y tapas con emplatados creativos en un bar original.",
+        "tags": ["bravas"],
+        "location": "Carrer del Consell de Cent, 335, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "L6xys8Sjf6rM4LNKsv5d",
+        "name": "Les Dues Sicílies",
+        "description": "Entrantes, pasta y una amplia variedad de pizzas en un peculiar restaurante con paredes de piedra, que antaño fue una panadería.",
+        "tags": ["pizza"],
+        "location": "Carrer dels Carders, 22, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "LQAFWBuyyuoeLvuN6o67",
+        "name": "Tot 1 Euro Bar",
+        "description": "",
+        "tags": ["bar"],
+        "location": "Carrer d'Aribau, 15, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "LUQyRyvb8iiowDp4NrFW",
+        "name": "Wild Beef Barcelona",
+        "description": " Consistentes hamburguesas, incluidas opciones de halal, en un restaurante vistoso con una terraza informal y comida para llevar.",
+        "tags": ["burger"],
+        "location": "Carrer de la Diputació, 214, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "LcdOlCCQ4vXmQSODgY6S",
+        "name": "Pizzamarket",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer de Muntaner, 91, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "LqMeEJncybBxlds0LXv7",
+        "name": "La Bikineria",
+        "description": "",
+        "tags": ["bikini"],
+        "location": "Carrer de Mallorca, 135 Mercat del Ninot, 08036 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "M908mYRtgH9hEgrXsukD",
+        "name": "Eixampeling Brunch Café & Bar",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer de la Diputació, 158, 08015 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "MEG8hf8FLKlGadwxhdS6",
+        "name": "Monster Sushi Restaurante",
+        "description": "Fusión de recetas japonesas y asiáticas en un acogedor salón con mesas de madera rústica, sushi bar y terraza.",
+        "tags": ["sushi"],
+        "location": "Plaça de Gal·la Placídia, 25, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "MJOlkyL2PEpNhtWG1gdr",
+        "name": "Atabalats Gastrobar",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de la Providència, 99, 08024 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "MzVLxlYgPdc2Z24D4Mb4",
+        "name": "GABBY'S",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer de Ramon Turró, 93, 08005 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "N7kTmds5lo2rTPfzaD7k",
+        "name": "Parking Pizza - Parking Pita",
+        "description": " Ensaladas, recetas con pan de pita y pizzas artesanas en un moderno espacio de sencillo diseño minimalista",
+        "tags": ["pizza"],
+        "location": "Passeig de Sant Joan, 56, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "NM0Nxg1lheGSpMTDQBCw",
+        "name": "Ruta 6 Brewery",
+        "description": "",
+        "tags": ["beer", "burger"],
+        "location": "Carrer de París, 176-178, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "O0hLi29c1bi4ykeCfjTr",
+        "name": "Bubbolitas Barcelona - Bubble Tea Bar",
+        "description": "",
+        "tags": ["bubbletea"],
+        "location": "Plaça del Bonsuccés, 7, 08001 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "OXtBW1DCjKJbqUsF381D",
+        "name": "Sagàs Pagesos i Cuiners",
+        "description": "Bocatas originales elaborados con ingredientes de granja en luminoso e innovador local de aire rústico-chic.",
+        "tags": ["bocadillos"],
+        "location": "Pla de Palau, 13, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "OdAu5oiXpNd2CrtOxm0T",
+        "name": "Timesburg Les Corts",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de Nicaragua, 137, 08029 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "OeilBLem5AzeqDc2CO81",
+        "name": "Alquimia Barcelona",
+        "description": "",
+        "tags": ["bravas"],
+        "location": "Carrer d'Aribau, 77, 08036 Barcelona",
+        "type": "tapas",
+        "visitado": false
+    }, {
+        "id": "Oox1eQC11jGV4ULmdWwx",
+        "name": "Chivuo's",
+        "description": "",
+        "tags": ["beer", "burger", "bocadillos"],
+        "location": "Carrer de València, 204, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "OzKmkXE0hWj8tOfFWYkb",
+        "name": "Croq & Roll Croqueteria",
+        "description": "Quiches, tortillas y especialidad en croquetas más cervezas artesanas en un local de aire industrial chic.",
+        "tags": ["croquetas"],
+        "location": "Travessera de Gràcia, 233, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "P70rJMIfS9CPFA9VP1YG",
+        "name": "Zenzoo",
+        "description": "",
+        "tags": ["bubbletea"],
+        "location": "Carrer del Bonsuccés, 6, 08001 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "PwsBpZVn2iNBrKv9kutn",
+        "name": "Hideout Burger",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer del Consell de Cent, 242, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "QZvaw4xoCfsCBhVC26Xr",
+        "name": "Bullicio",
+        "description": "",
+        "tags": ["bocadillos"],
+        "location": "Carrer de Trafalgar, 39, Local 2, 08010 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "QhfpM4ldAGDTR07o7G14",
+        "name": "Lato Café - Breakfast, Brunch y Ceviches",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer del Bruc, 118, 08009 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "QuWzyJmpM7m7ubk2pvsj",
+        "name": "Bar El Tomàs de Sarrià",
+        "description": "Bar clásico, especializado en patatas fritas al estilo tradicional con salsa picante, donde se sirven tapas y cerveza artesanal.",
+        "tags": ["bravas"],
+        "location": "Carrer Major de Sarrià, 49, 08017 Barcelona",
+        "type": "tapas",
+        "visitado": true
+    }, {
+        "id": "QxQWz8QRKb7BF7LhSQMt",
+        "name": "Lilo Coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de la Diputació, 443, 08013 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "R6Ee6QQsiuEau5x34wCQ",
+        "name": "Petit Pastis",
+        "description": "",
+        "tags": ["cakes"],
+        "location": "Carrer de Còrsega, 494, 08025 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "R8FAtxoutSuzbsZdmVk6",
+        "name": "KOYO sushi",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer de Pau Claris, 139, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "R8sy7pq4megGPDHuU7dM",
+        "name": "Patito Feo",
+        "description": "",
+        "tags": ["bocadillos"],
+        "location": "Carrer de Casanova, 182, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "RDGXK5wnnO6favQtxEIv",
+        "name": "Libreria Byron",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Casanova, 32, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "S1rQyY3T5yw8U9Q6vuML",
+        "name": "Punto y Coma | Enric Granados",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer d'Enric Granados, 52, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "SB8JZvPdznRHiTQRNrtW",
+        "name": "El Mamón",
+        "description": "Pulpo braseado con causa limeña y otros platos fusión en moderno salón industrial diáfano con toques chic.",
+        "tags": ["bravas"],
+        "location": "Passatge de Pere Calders, 2, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "SIFd736GbQ2EaUhBMS0V",
+        "name": "La Porca",
+        "description": "Restaurante pequeño y de estilo desenfadado que sirve hamburguesas, bocadillos de porchetta, aperitivos y copiosos postres.",
+        "tags": ["burger", "bravas"],
+        "location": "Carrer de Mata, 16, 08004 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "SYhg0IrIyE0SCtYUd91l",
+        "name": "TRIKI-TRAC",
+        "description": "",
+        "tags": ["bravas"],
+        "location": "Carrer de Numància, 8, 10, 08029 Barcelona",
+        "type": "tapas",
+        "visitado": false
+    }, {
+        "id": "SagxTmI094YohbVay3Fk",
+        "name": "Mambo Sushi",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer de Montserrat, 13, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "ScheVXFdNi1ftJPw0PHH",
+        "name": "La Uramakeria",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Ronda de Sant Pere, 52, 08010 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "TCRLsEyPrUYeHkwiAP7i",
+        "name": "Hot Boat",
+        "description": "",
+        "tags": ["bocadillos"],
+        "location": "Carrer de Balmes, 388, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "TFcqF6BLMdRiuFyk0Txp",
+        "name": "Fat Barbies",
+        "description": "",
+        "tags": ["meat"],
+        "location": "Carrer de Bailèn, 83, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "THcPYa0pgIET0WuEguuC",
+        "name": "Bodega Santo Porcello",
+        "description": "",
+        "tags": ["bocadillos"],
+        "location": "Carrer de Sepúlveda, 151, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "Tgmjn8tOHNzsb2Wa7LIZ",
+        "name": "Perla Coffee Kisok",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Casanova, 158, 08036 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "Ty8FFqyTTWbBFfCUCei6",
+        "name": "Piel de Gallina",
+        "description": "",
+        "tags": ["chicken"],
+        "location": "Carrer de Magalhães, 35, 08004 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "UDZrMiPc87YZldFJPElw",
+        "name": "Chinese Tofu Magician半仙豆夫",
+        "description": "",
+        "tags": ["bubbletea"],
+        "location": "Carrer del Consell de Cent, 391, 08009 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "UG1177pHkoxwV1axSAuK",
+        "name": "Ramen Bcn",
+        "description": "Elegante local de sencillo diseño actual e iluminación ambiental con especialidad en ramen y cocina nipona.",
+        "tags": ["ramen"],
+        "location": "Carrer de Girona, 108, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "UImiX0Auj0LNhjH34wBo",
+        "name": "Koby Burgers",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de Marià Cubí, 92, 08021 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "UW9w27YYP70C07iEPOv5",
+        "name": "Pescadea - Fresh Fish Panini",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer d'Aribau, 100, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "UX6LttInQXNRMYAS1qXj",
+        "name": "Can Fisher - Restaurante 🐟",
+        "description": "Comedor contemporáneo con amplias cristaleras y plantas para arroces, pescado de lonja o tapas gourmet.",
+        "tags": ["paella"],
+        "location": "Avinguda del Litoral, 64, 08005 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "Ue696ugveCi1QDm8lzQA",
+        "name": "Pudding Coffee Shop Barcelona",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Avinguda Diagonal, 515, 08029 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "VvPaKWhJMYda19LfwSFP",
+        "name": "Pisamorena",
+        "description": "",
+        "tags": ["cocktails"],
+        "location": "Carrer del Consolat de Mar, 37, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "WC7tNbsoUWLuX8qmIUWK",
+        "name": "The Ranch Smokehouse",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Ronda de la Universitat, 20, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "WM058uZqA1bOtThoc2Ut",
+        "name": "La Muriel",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Verntallat, 30, 08024 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "WhBzYhbgIxn3UnFryCWM",
+        "name": "Chalito Via Augusta",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Via Augusta, 65, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "XLDR1K40X8URMb1XML7L",
+        "name": "Super coffee & food store",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Roc Boronat, 102, 08018 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "XMzPKz8eMc6qQVDSiBiA",
+        "name": "Bristol Gastropub",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Roger de Flor, 220, 08013 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "XTwqRXZti2FEqA4P2OOg",
+        "name": "Machaka Burger",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de Balmes, 165, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "XkhLvgPJdV6vPpSIbkMN",
+        "name": "Caravelle",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Pintor Fortuny, 31, 08001 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "Xou8NmwXmhyaikhDhj9x",
+        "name": "Sant Croi by Albert Roca",
+        "description": "Pastelería familiar con croissants y originales creaciones en tartas artesanales y variados canapés salados.",
+        "tags": ["croissants"],
+        "location": "Carrer de Bassegoda, 56, 08028 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "Y5jEcfIKKE7pHaiwOWQm",
+        "name": "Big Al's",
+        "description": "(Reto Hamburguesas) Grandes hamburguesas en pan casero, alitas, patatas fritas rizadas y cerveza artesanal en un restaurante animado.",
+        "tags": ["burger"],
+        "location": "Carrer de Còrsega, 178, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "YNgdolNTRTCboaOUu5bk",
+        "name": "Can Pizza",
+        "description": " Pizzas de estilo napolitano, ensaladas y tiramisú en un espacioso local con techo acristalado en una de sus zonas.",
+        "tags": ["pizza"],
+        "location": "Passatge de Simó, 21, 08025 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "Yhzle4TgqmAhkLCisf1B",
+        "name": "Debutis",
+        "description": "",
+        "tags": ["butifarra"],
+        "location": "Carrer de Balmes, 79, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "ZVB8R8psl4cMxzz2P0Fi",
+        "name": "Cafes El Magnifico",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de l'Argenteria, 64, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "ZVBF8dthTNck1fYTmRql",
+        "name": "Sil's Cakes American Pastry",
+        "description": "",
+        "tags": ["cookies", "cakes"],
+        "location": "Carrer del Torrent de l'Olla, 62, 08012 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "ZfqBTBNBWsTzxp8hx18o",
+        "name": "Acero Street Flavors - Burgers & Sandwiches",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de l'Espaseria, 10, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "aBZLsLNOuuTHod9l7fMO",
+        "name": "Petit Pot",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Bruc, 84, 08009 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "aElvumQlMctwwgQCbMFH",
+        "name": "Asado Hamburguesas",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Passatge de Lluís Pellicer, 12, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "amTTArgohC0vWX9qgk8T",
+        "name": "Orient Express Cocktail Bar",
+        "description": "Te trae los cocktails en un tren",
+        "tags": ["cocktails"],
+        "location": "Carrer del Comte d'Urgell, 134, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "arF8ljvp0bwQ127Nr68a",
+        "name": "Restaurante Vic Braseria, Brasas Catalanas, Especialistas en Carnes y Verduras",
+        "description": "Cocina tradicional catalana de mercado en un local dominado por el blanco de sus elegantes muebles y paneles.",
+        "tags": ["meat"],
+        "location": "Carrer de Sicília, 202, 08013 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "asBFx9dJrNJKB6ejbi4L",
+        "name": "Lara Grill",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de Muntaner, 146, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "blf8i07NYaEPpFLTQ9Lk",
+        "name": "Equilibrium Cafè Brvnch&Coffee",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer de València, 352, 08009 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "cBJ6jwwQOJo4m56yguB5",
+        "name": "Bar del Pla",
+        "description": "Acogedora tasca de techo abovedado que sirve raciones catalanas, vinos y cavas, para tomar de pie o sentado.",
+        "tags": ["bravas"],
+        "location": "Carrer de Montcada, 2, 08003 Barcelona",
+        "type": "tapas",
+        "visitado": false
+    }, {
+        "id": "cVpLiDTH6qddl9QJ3DNN",
+        "name": "Surf House Secret Spot",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer d'Amigó, 53, 08021 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "cfN4AP7eyb8UvaTDbeWE",
+        "name": "Robot House Barcelona",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Provença, 316, 08037 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "ciumPlfha52WAU75V3DS",
+        "name": "Pittier desayunos y meriendas",
+        "description": "",
+        "tags": ["empanadas", "tequeños"],
+        "location": "Carrer de los Castillejos, 252, 08013 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "d5cr9L5mxa4yLjQ4mcTh",
+        "name": "Alquimia Barcelona",
+        "description": "",
+        "tags": ["cocktails"],
+        "location": "Carrer d'Aribau, 77, 08036 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "dWOhxSEJIH0PkCEnsiPv",
+        "name": "Syra Coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de la Diputació, 163, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "dqrXMQCyAQMICe3PiilY",
+        "name": "Macchina Pasta Bar",
+        "description": " Pastas frescas hechas a mano y salsas caseras en un espacio chic de maderas rústicas y pinturas desenfadadas.",
+        "tags": ["pasta"],
+        "location": "Carrer dels Escudellers, 47, 08002 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "dxxTU7e0nUmFocVrdAye",
+        "name": "Restaurante Julieta's",
+        "description": "",
+        "tags": ["paella"],
+        "location": "Passeig del Mare Nostrum, 19, 08039 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "eJi1GeklU6RYbh9oHgsl",
+        "name": "The dog is hot",
+        "description": "Pequeño espacio de tipo industrial con graffitis que sirve originales perritos calientes al gusto para llevar",
+        "tags": ["hotdog"],
+        "location": "Carrer de Joaquín Costa, 47, Local Bj 1, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "f8qtp4MTG8ktbCRvrZ6d",
+        "name": "Hammock Juice Station",
+        "description": "",
+        "tags": ["juice"],
+        "location": "Carrer de Mallorca, 308, 08037 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "fL1y5FEEzlPPcBuFIfGa",
+        "name": "Gringa",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de la Lleialtat, 16, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "fgaZdsXAgbjmKeNhXfDv",
+        "name": "La Real Hamburguesería - Eixample",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de València, 285, Tienda 03, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "g38wazs4LRQG5ZsUbfNo",
+        "name": "Bicioci Bike Cafè",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Venus, 1, 08012 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "gCSrPqXl1FUT87bPdubp",
+        "name": "WaffleBarcelona",
+        "description": "",
+        "tags": ["wagglebuffle"],
+        "location": "Gran Via de les Corts Catalanes, 300, 08004 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "gSEWpbDTEGOzCSwwcWsG",
+        "name": "The Egg Lab - Street",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de la Ciutat de Balaguer, 14, Bajos 3, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "gSGMabL8rI5YdyY4VEkc",
+        "name": "La Texil",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Casp, 33B, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "gYydsGWpIqAM4YLStufG",
+        "name": "Ukai Eixample",
+        "description": "Yakisoba, sushi y gyozas en elegante restaurante japonés con banco corrido y mesas a compartir.",
+        "tags": ["asiatico"],
+        "location": "Carrer del Comte Borrell, 41, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "glICJ9ybHxYhytqKvSRz",
+        "name": "Beirut 37",
+        "description": "",
+        "tags": ["cocktails"],
+        "location": "Carrer de Joaquín Costa, 37, 08001 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "h5HnLzNGjMhqWX2IZdZb",
+        "name": "Pisamorena",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer del Consolat de Mar, 37, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "hATpGj9XTaaWfBwaNWKU",
+        "name": "Satan´s Casa Bonay",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Gran Via de les Corts Catalanes, 700, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "hnda3mKaIH254eO5IAl1",
+        "name": "Espai Joliu",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Badajoz, 95, 08005 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "hrAtQvUIPiDxpteQfK7V",
+        "name": "Little Fern",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer de Pere IV, 168, 08005 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "iRtzaIyuDA39YpBiMsdL",
+        "name": "LomoAlto & LomoBajo",
+        "description": "Moderno y refinado restaurante tipo carnicería de diseño donde sirven cortes gourmet a la parrilla.",
+        "tags": ["meat"],
+        "location": "Carrer d'Aragó, 283, 285, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "iWekAkL2McuNQacXW9Od",
+        "name": "Austral Coffee Bar",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Viladomat, 140, 08015 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "itbxGKmZz0JeY5cHGdZ0",
+        "name": "Brunch Market",
+        "description": "",
+        "tags": ["cereals"],
+        "location": "Carrer de Provença, 213, 08008 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "jlfAKMLxIcm4oBQJLsdp",
+        "name": "Bar Malasang",
+        "description": " Esta acogedora cafetería con cristaleras, decorada con mesas rústicas, sirve platos mediterráneos y cócteles.",
+        "tags": ["meat"],
+        "location": "Carrer del Comte Borrell, 148, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "l8yGkgtLBI7ExiuqGZdB",
+        "name": "Santa Burg",
+        "description": " Innovador concepto de cocina con hamburguesas gourmet elaboradas artesanalmente en casa con singular decorado.",
+        "tags": ["burger"],
+        "location": "Carrer del Vallespir, 51, 08014 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "mOYaLWM8Dn7Lp82WtESI",
+        "name": "Mescladís del Pou",
+        "description": "Comida casera y ecológica, eventos interculturales y talleres infantiles en un patio con muebles eclécticos.",
+        "tags": ["bar"],
+        "location": "Carrer dels Carders, 35, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "mXQsrVbJnu5RFw5TYQKE",
+        "name": "El Mirador de Can Cases",
+        "description": "Restaurante con terraza con vistas a la montaña, donde se sirven tapas, paella y carne a la parrilla al estilo catalán.",
+        "tags": ["meat", "terrazas"],
+        "location": "Camí de Can Cases, 15, 08196 Les Planes, Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "manpPtrhyPdZg55zsBN5",
+        "name": "El Árbol Brunch",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer d'Aribau, 36, 08011 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "mzXbBXOHvJU01xtxZIWL",
+        "name": "La Cala Barceloneta",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer de l'Escar, 18, 08039 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "nCPbhxp0lIsCdsb62ec5",
+        "name": "Lady Dumpling",
+        "description": "",
+        "tags": ["donuts"],
+        "location": "Carrer dels Escudellers, 30, 08002 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "nwdLbTdhg071bb84p58R",
+        "name": "Frenesi Cafe",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Comte d'Urgell, 115, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "nwsBtwXhEElBVQJRaRTT",
+        "name": "Don Kilo Italian Pizza Restaurant",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer de Girona, 133, 08037 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "o8LJVrR1ShfWWa2sz1VB",
+        "name": "Arepa La Perversa",
+        "description": "",
+        "tags": ["arepas"],
+        "location": "Carrer de N'Aglà, 6, 08002 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "oBAG8gm47wJgKxtG20zP",
+        "name": "Hygge Coffee Bcn",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Travessera de Gràcia, 8, 08021 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "oBWf5Ptud83rBSLvDltM",
+        "name": "On y Va Barcelona",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de la Ciutat de Balaguer, 45, 08022 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "oCwv7Y9929flHpXX69I1",
+        "name": "OAKBERRY Açaí Bowls",
+        "description": "",
+        "tags": ["açais"],
+        "location": "Plaça del Sol, 15, 08012 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "oLCAPvXFB3xxrmI9UadS",
+        "name": "NÜA Smart Restaurant",
+        "description": "",
+        "tags": ["poke"],
+        "location": "Carrer Gran de Gràcia, 167, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "ohIAqnESXNhbf1zhp5dV",
+        "name": "La Balmesina",
+        "description": "",
+        "tags": ["pasta", "pizza"],
+        "location": "Carrer de Balmes, 193, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "pD2hmldjtpr9HEQtoFjH",
+        "name": "FAST Kibuka",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer Gran de Gràcia, 153, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "pESm6Mps9j90HItBVEJC",
+        "name": "Passione Napoletana",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer de Villarroel, 247, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "pG3t96odBV7VtSCLdp7C",
+        "name": "INKA BURG HAMBURGUESERIA",
+        "description": " Raciones, hamburguesas, salchichas y comida rápida en un espacioso y concurrido local con copas y cócteles.",
+        "tags": ["burger"],
+        "location": "Avinguda de la República Argentina, 17, 08023 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "pIFyDMMsJbX9hOAHz0BZ",
+        "name": "Morrow Coffee",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "pbNOl0oJPGKLTD5y4tQZ",
+        "name": "Billy Brunch & Garden",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer de Muntaner, 64, 08011 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "pezbcHda82Evk1wwcISL",
+        "name": "Brunells",
+        "description": "Turrones artesanos, cocas y ensaimadas en pastelería casera de toda la vida con servicio de cafetería.",
+        "tags": ["croissants"],
+        "location": "Carrer de la Princesa, 22, 08003 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "pwAgR91VK0gORFF7aP6G",
+        "name": "Spicy Soul Hot Pot",
+        "description": "",
+        "tags": ["hotpot"],
+        "location": "Carrer de Girona, 51, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "q056Fr6V3DoEEwhaKO4Q",
+        "name": "Cereals Addict Cafe",
+        "description": "",
+        "tags": ["cereals"],
+        "location": "Carrer de Bailèn, 154, 08037 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "qHQHbQfwWZomnNj28Mw0",
+        "name": "Crois Croissant Gourmet",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de la Diputació, 317, 08009 Barcelona",
+        "type": "drinks",
+        "visitado": true
+    }, {
+        "id": "qna9n9AxOuKgLfmv7k47",
+        "name": "Chök The Chocolate Kitchen",
+        "description": "",
+        "tags": ["muffins", "cookies"],
+        "location": "Carrer d'Astúries, 93, 08024 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "qwhPADE89ub7ZmFn3Mjr",
+        "name": "MonDoré Cerveseria Gastronòmica - Tapas Restaurant",
+        "description": "Cervezas artesanas y del mundo, gin tonics y cocina de autor en íntimo local de dos plantas y ladrillo visto.",
+        "tags": ["bravas", "cocktails", "beer"],
+        "location": "Carrer de Floridablanca, 3, 08015 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "rF3y5nQM80a87A78gu7a",
+        "name": "JonCake",
+        "description": "",
+        "tags": ["cakes"],
+        "location": "Carrer dels Assaonadors, 29, 08003 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "rJUi2BmFpHQ78KnL50bf",
+        "name": "Le Cucine de Mandarosso",
+        "description": "Platos de pasta clásicos y especialidades y postres italianos de temporada en un restaurante acogedor con azulejos",
+        "tags": ["pasta"],
+        "location": "Carrer de Verdaguer i Callís, 4, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "s3XTXasx6lrIv0TbXxQJ",
+        "name": "Tizana Juice Bar & Açai",
+        "description": "",
+        "tags": ["açais"],
+        "location": "Carrer de la Marina, 187, 08013 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "s5EJLIkVsqNpmcWjI7K0",
+        "name": "Paradiso",
+        "description": "Bar llamativo y suavemente iluminado que ofrece innovadores cócteles y raciones clásicas, además de clases de mixología.",
+        "tags": ["cocktails"],
+        "location": "Carrer de Rera Palau, 4, 08003 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "sB1wdIVTi7TsIDkGVF6b",
+        "name": "La Donuteria",
+        "description": "Acogedor espacio especializado en la elaboración de donuts frescos, con originales sabores dulces y salados.",
+        "tags": ["donuts"],
+        "location": "Carrer del Parlament, 20, 08015 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "sN4feaBMfOtoAOt3XvUY",
+        "name": "The Cream Bcn",
+        "description": "",
+        "tags": ["icecream"],
+        "location": "Carrer de la Princesa, 26, 08003 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "szMGe5Bp2y6K7Y1OTJHd",
+        "name": "SKYE Coffee Co",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Pamplona, 88, 08018 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "tOC502pw84o4SeevPHGM",
+        "name": "Restaurante Murivecchi",
+        "description": "Restaurante acogedor de cocina del sur de Italia, que elabora pizzas en horno de leña y suculentos platos de pasta.",
+        "tags": ["pasta", "pizza"],
+        "location": "Carrer de la Princesa, 59, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "tTWdsd6gRvJd5Ybf4xd3",
+        "name": "New York Burger Pelayo",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Carrer de Pelai, 5, Local izquierdo, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "tgR3CV6PpraFx4O7rhoC",
+        "name": "Cookona",
+        "description": "",
+        "tags": ["cookies"],
+        "location": "Carrer del Rosselló, 160, 08036 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "uo0QkI7Pi3Q1Q55zC15C",
+        "name": "La Papa Barcelona",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer d'Aribau, 92, 08036 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "w0MGrbW8QSM62ht8rpP0",
+        "name": "Es Bien Brunch",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Avinguda Meridiana, 340, 08027 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "wLReEl6A2x5GjZ620Do5",
+        "name": "EatMyTrip Brunch & Bakery",
+        "description": "",
+        "tags": ["brunch"],
+        "location": "Carrer del Consell de Cent, 378, 08009 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "wN3tYveluc2pB20Nhhi2",
+        "name": "Puntaromana Barcelona",
+        "description": "",
+        "tags": ["pizza"],
+        "location": "Carrer d'Enric Granados, 147, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "wjb8mvZE5YeqDJywuerW",
+        "name": "Federal Cafè",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer del Parlament, 39, 08015 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "wv7sebaVtLfNOujj3y0H",
+        "name": "BRO Barceloneta Hamburguesería",
+        "description": " Bocadillos, patatas asadas y hamburguesas a la parrilla en un acogedor local informal con mesas compartidas.",
+        "tags": ["burger"],
+        "location": "Carrer del Baluard, 34, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "wvHaEqCnRxU3hRZf89rQ",
+        "name": "ZIMT ¡La Casa de los Cinnamon Rolls!",
+        "description": "",
+        "tags": ["cinnamonrolls"],
+        "location": "Carrer de Ros de Olano, 4, 08012 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "wzbPEisvQ4o1AZDX6R1g",
+        "name": "PandaCha",
+        "description": "",
+        "tags": ["bubbletea"],
+        "location": "Carrer d'Ausiàs Marc, 2, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "x7Fs04XO53D4R9hXTS3t",
+        "name": "Cañete",
+        "description": "Vinos locales y platos clásicos, como paella de marisco, canelones de pato y almejas, servidos en un restaurante refinado.",
+        "tags": ["tartar"],
+        "location": "Carrer de la Unió, 17, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "xBiHkxfJUSRbWNheBtFj",
+        "name": "BYKYNY Bcn",
+        "description": "",
+        "tags": ["bikini"],
+        "location": "Carrer de Mandri, 24, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "xaM9VQ4pAQE2HaQCZN0X",
+        "name": "Manolo Bakes",
+        "description": "",
+        "tags": ["croissants"],
+        "location": "Avenida Diagonal 208 C.C. Glories, planta 0 Local 13, 08018 Barcelona",
+        "type": "bakery",
+        "visitado": true
+    }, {
+        "id": "xoq5QDPfmxepBXZLI3Xj",
+        "name": "L' Atelier Barcelona Escuela y pastelería",
+        "description": "",
+        "tags": ["cakes"],
+        "location": "Carrer de Viladomat, 140 bis, 08015 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "yI7v7tz4eagUrQsjyXbt",
+        "name": "Croqueteca - Tapería & Coctelería",
+        "description": "",
+        "tags": ["croquetas"],
+        "location": "Carrer d'Aragó, 551, 08026 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "yVt1mE7cAIrlIotSlX8E",
+        "name": "Restaurante LURI",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer de Balmes, 203, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "id": "yiKxeZ3UuQAGWnO5HvCX",
+        "name": "Cata Born by Catacroquet",
+        "description": "",
+        "tags": ["croquetas"],
+        "location": "Carrer de la Pescateria, 6, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "yq7oO0I5QeU1zwQnLOL6",
+        "name": "Atabalats Gastrobar",
+        "description": "",
+        "tags": ["burger", "bravas"],
+        "location": "Carrer de la Providència, 99, 08024 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "zUDvocAmXPJ9JjAPD16y",
+        "name": "Nomad Coffee Roaster's Home",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Pujades, 95, 08005 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "id": "zUtJqq44z0ZklpDnoPLr",
+        "name": "Forn la Cantonada",
+        "description": "Croissant Louts",
+        "tags": ["croissants"],
+        "location": "Carrer del Dos de Maig, 314, 08025 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "id": "zcFz6TtoUwMhi4bjtK70",
+        "name": "Bohl",
+        "description": "",
+        "tags": ["coffee", "poke"],
+        "location": "Carrer de Trafalgar, 47, 08010 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "id": "zy1V99Re20zIF642PUNj",
+        "name": "Melosa Hamburgueseria",
+        "description": "",
+        "tags": ["bravas", "burger"],
+        "location": "Carrer del Clot, 163, 08026 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }]
+}

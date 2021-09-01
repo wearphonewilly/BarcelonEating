@@ -52,7 +52,7 @@ function processLocations() {
 function loadLocations() {
     let xmlhttp = new XMLHttpRequest();
     xmlhttp.overrideMimeType("application/json");
-    xmlhttp.open("GET", "../db/BebidasBBDD.json", true);
+    xmlhttp.open("GET", "../db/barcelonEatingDB.json", true);
     xmlhttp.onreadystatechange = processLocations;
     xmlhttp.send(null);
 }
@@ -62,7 +62,7 @@ function processLocations() {
         let locations = JSON.parse(this.responseText);
         console.log(locations);
 
-        for (let i = 0; i < locations.Bebidas.length; i++) {
+        for (let i = 0; i < locations.Locations.length; i++) {
 
             /*let bebidaObj = document.createElement("div");
 
@@ -77,16 +77,23 @@ function processLocations() {
             bebidaObj.appendChild(descBebida);*/
 
             // console.log(locations.Desayunos[i].name);
-            console.log(locations.Bebidas[i].name);
+            console.log(locations.Locations[i].tags);
 
-            let nameDesayunos = locations.Bebidas[i].name;
-            let locationDesayunos = locations.Bebidas[i].location;
-            let descriptionDesayunos = locations.Bebidas[i].description;
-            let tagsDesayunos = locations.Bebidas[i].tags[0];
+            let nameDesayunos = locations.Locations[i].name;
+            let locationDesayunos = locations.Locations[i].location;
+            let descriptionDesayunos = locations.Locations[i].description;
+            let tagsDesayunos = locations.Locations[i].tags;
             let tagDesayunos = JSON.stringify(tagsDesayunos);
-            tagDesayunos.replace(' " ', " ");
-            let tag = tagsDesayunos.tag;
+            let tag = tagDesayunos.replace('["', '');
+            tag = tag.replace('"]', '');
+            console.log(tag);
+            if (tag.includes('","')) {
+                tag = tag.replace('","', '');
+            }
             
+            let visitado = locations.Locations[i].visitado
+            console.log(visitado);
+
             let comida = document.createElement("div");
             comida.setAttribute("class", tag + " card filterDiv col-xl-3 ml-3 mb-1 mt-2 show ");
             document.getElementById("content").appendChild(comida);
@@ -109,6 +116,11 @@ function processLocations() {
             locationComida.setAttribute("class", "card-text direction");
             locationComida.innerHTML = "Dirección: " + locationDesayunos;
             comidaBodyObj.appendChild(locationComida);
+
+            let visitadoPlace = document.createElement("p");
+            visitadoPlace.setAttribute("class", "card-text");
+            visitadoPlace.innerHTML =  "Visitado: " + visitado;
+            comidaBodyObj.appendChild(visitadoPlace);
         }
     }
 }
