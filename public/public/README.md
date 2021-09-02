@@ -243,23 +243,18 @@
    - [x] Xino Mandarino
    - [ ] Kasa Ramen
    - [ ] Ramen-ya Hiro
-   - [ ] Fukuya Restaurante Japonés
    - [ ] Melo-Jia (Pato Pekines)
    - [ ] Shanghai
    - [ ] Bangkok Cafe
    - [ ] Xoxo Barcelona
    - [ ] Out of China
    - [ ] Kao Dim Sum
-   - [ ] Restaurante chino China city
-   - [ ] Teikit
-   - [ ] Omu BCN
+   - [ ] Omu - Onigiri Shop
    - [x] La Vietnamita
    - [ ] Parco
-   - [ ] Tuk Tuk Asian Street Food
    - [ ] Grasshopper Ramen Bar
    - [ ] Asagumo
    - [ ] La Coco Barcelona
-   - [ ] KimchiMama casual
    - [ ] Hanki Restaurante Coreano
    - [ ] Oishii Ramen Street
    - [ ] Mutenroshi Ramen
@@ -411,7 +406,7 @@
    - [ ] CaféCosmo
    - [ ] Ombú Bcn
    - [ ] Black Remedy
-   - [ ] Es Bien Coffee
+   - [x] Es Bien Coffee
    - [ ] Onna Coffee
    - [ ] SlowMov
    - [x] Robot House Barcelona
@@ -506,7 +501,7 @@
    - [ ] Iberostar Sky Bar
    - [ ] Cap Sa Sal (Begur)
    - [ ] Casa Museu Ametller
-   - [ ] H10 Casa Mimosa 
+   - [x] H10 Casa Mimosa 
    - [ ] Go Beach Club
    - [ ] Velissima
    - [ ] Bus Terraza

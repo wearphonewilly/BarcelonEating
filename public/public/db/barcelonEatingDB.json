@@ -208,6 +208,14 @@
         "type": "lunch",
         "visitado": false
     }, {
+        "id": "629THKTjkNBkZq7GqymG",
+        "name": "Piazze d'Italia",
+        "description": "Linguini negros con bogavante y otros cuidados platos italianos en acogedor salón con manteles de cuadros.",
+        "tags": ["pasta", "pizza"],
+        "location": "Carrer de Casanova, 94, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
         "id": "6QY7UVVSuAsDiweebeNI",
         "name": "L' Empanadité (Empanadas Gourmet)",
         "description": "",
@@ -1780,7 +1788,7 @@
         "name": "Manolo Bakes",
         "description": "",
         "tags": ["croissants"],
-        "location": "Avenida Diagonal 208 C.C. Glories, planta 0 Local 13, 08018 Barcelona",
+        "location": "Avinguda Diagonal 208 C.C. Glories, planta 0 Local 13, 08018 Barcelona",
         "type": "bakery",
         "visitado": true
     }, {
@@ -1855,5 +1863,251 @@
         "location": "Carrer del Clot, 163, 08026 Barcelona",
         "type": "lunch",
         "visitado": false
-    }]
+    }, {
+        "name": "Clubhaus",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Avinguda del Marquès de l'Argentera, 13, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Clubhaus",
+        "description": "",
+        "tags": ["burger"],
+        "location": "Avinguda del Marquès de l'Argentera, 13, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Telemaki",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer de Balmes, 248, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Nomo",
+        "description": "",
+        "tags": ["sushi"],
+        "location": "Carrer Gran de Gràcia, 13, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Hawker 45",
+        "description": "Platos creativos inspirados en la comida callejera, además de menú degustación, en un restaurante de estilo industrial con murales.",
+        "tags": ["asiatico", "sushi"],
+        "location": "Carrer de Casp, 45, 08010 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Koh-ndal Thai Bistro",
+        "description": "",
+        "tags": ["thai", "asiatico"],
+        "location": "Passeig de Sant Gervasi, 57B, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Kiu Nam",
+        "description": "Cuidado local minimalista con bambú y plantas en restaurante de platos clásicos vietnamitas.",
+        "tags": ["viet", "internacional"],
+        "location": "Carrer de Villarroel, 199, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Món Việt - Restaurant Vietnamita Barcelona",
+        "description": "Pho picante, rollitos con arroz y fideos en un moderno restaurante con muebles de colores y paredes de ladrillo visto.",
+        "tags": ["viet", "internacional"],
+        "location": "Carrer de Sepúlveda, 94, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "All Day Wok",
+        "description": "",
+        "tags": ["asiatico"],
+        "location": "Carrer de Santa Fe de Nou Mèxic, 4, 08017 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "L'Ós Panda",
+        "description": "Paredes de ladrillo y lámparas de sombrillas chinas en local especializado en fideos y cocina china de Yunan.",
+        "tags": ["asiatico"],
+        "location": "Carrer de Verdi, 56, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Xino Mandarino",
+        "description": "",
+        "tags": ["asiatico"],
+        "location": "Carrer de la Diputació, 167, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Kasa Ramen",
+        "description": "Desenfadado local diáfano y moderno con carta de platos asiáticos y variedad de ramen, el plato estrella.",
+        "tags": ["asiatico", "ramen"],
+        "location": "Ronda de la Universitat, 4, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Ramen-ya Hiro",
+        "description": "Restaurante sencillo, con boles de arroz, empanadillas y ramen con ingredientes al gusto.",
+        "tags": ["asiatico", "ramen"],
+        "location": "Carrer de Girona, 164, 08037 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Melo-Jia",
+        "description": "Sencillo comedor en blanco y negro donde degustar gastronomía china tradicional como dim sum y pato pekinés.",
+        "tags": ["asiatico"],
+        "location": "Carrer de Còrsega, 250, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Shanghai",
+        "description": "Íntimo y elegante restaurante de iluminación tenue que sirve cocina tradicional china y vinos internacionales.",
+        "tags": ["asiatico"],
+        "location": "Carrer del Bisbe Sivilla, 48, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Bangkok Cafe",
+        "description": "Restaurante de cocina tailandesa que sirve platos de curri picante de ternera y tofu, rollitos de primavera y sopas pho con fideos.",
+        "tags": ["asiatico", "thai"],
+        "location": "Carrer d'Evarist Arnús, 65, 08014 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Xoxo Barcelona",
+        "description": "",
+        "tags": ["asiatico", "japo"],
+        "location": "Carrer de la Riera de Sant Miquel, 69, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Out of China",
+        "description": "Restaurante de iluminación tenue, con cocina china típica, como pato a la pekinesa, dumplings, noodles, pescado y marisco.",
+        "tags": ["asiatico", "china"],
+        "location": "Carrer d'Aribau, 112, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Kao Dim Sum",
+        "description": "Moderno y sencillo local de comida china, especializado en dim sum y otros platos orientales.",
+        "tags": ["asiatico", "china"],
+        "location": "Carrer del Bisbe Sivilla, 48, 08022 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Omu - Onigiri Shop",
+        "description": "",
+        "tags": ["asiatico", "china"],
+        "location": "Carrer de Biada, 1, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "La Vietnamita",
+        "description": "Autoservicio de comida rápida con platos de Vietnam en un local de blanco ladrillo visto y mesas de madera.",
+        "tags": ["asiatico", "viet"],
+        "location": "Carrer del Torrent de l'Olla, 78, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Restaurant Parco",
+        "description": "Sushi, tartares de pescado y postres de fondue de chocolate en un restaurante moderno.",
+        "tags": ["asiatico", "japo"],
+        "location": "Passeig de Gràcia, 119, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Grasshopper Ramen Bar",
+        "description": "Restaurante moderno, con sillas en la barra, que sirve ramen de miso, gyozas y cervezas artesanales de la zona.",
+        "tags": ["asiatico", "japo", "ramen"],
+        "location": "Plaça de la Llana, 9, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Asagumo",
+        "description": "",
+        "tags": ["asiatico", "japo"],
+        "location": "Carrer de Saragossa, 42-44, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "La Coco",
+        "description": "",
+        "tags": ["asiatico", "japo"],
+        "location": "Carrer d'Aulèstia i Pijoan, 6, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Oishii Ramen Street",
+        "description": "",
+        "tags": ["asiatico", "japo", "ramen"],
+        "location": "Carrer de Pau Claris, 112, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "description": "",
+        "tags": ["asiatico", "corea"],
+        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }
+    ]
 }
