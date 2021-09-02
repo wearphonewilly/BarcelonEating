@@ -251,34 +251,32 @@
    - [ ] Kao Dim Sum
    - [ ] Omu - Onigiri Shop
    - [x] La Vietnamita
-   - [ ] Parco
    - [ ] Grasshopper Ramen Bar
    - [ ] Asagumo
    - [ ] La Coco Barcelona
-   - [ ] Hanki Restaurante Coreano
+   - [ ] Hanki Restaurante Coreano (Japones terraza muy bueno)
    - [ ] Oishii Ramen Street
    - [ ] Mutenroshi Ramen
    - [ ] Pa Finolis
-   - [ ] Shanghai Stories
    - [ ] Lucky Road Street Food (neones)
    - [ ] Takashi Ochiai Pastisseria (Pastelería japonesa y especialidades locales)
-   - [ ] Takumi Sapporo Ramen
    - [ ] Takumi Ramen Barcelona
    - [ ] Bouzu Barcelona
    - [ ] Parco (Niguiris de pez mantequilla, saquitos de postre)
    - [ ] Robata
    - [ ] Mosquito Tapas
    - [ ] Ramen Shifu
-   - [ ] Hanki (Japones terraza muy bueno)
-   - [ ] Crepería Xian Hui Jie (Crepes Chinas (Jianbing))
+   - [x] Crepería Xian Hui Jie (Crepes Chinas (Jianbing))
    - [ ] Ichiban
    - [ ] Kitsuné
-   - [ ] Ramen Kagura
+   - [ ] POCHA asian dining & bar
+   - [ ] Baozi Bar
 
 ### HOTPOTS
    - [ ] Sabor Sichua
    - [ ] Spicy Soul Hot Pot
    - [ ] HotPot Yuanlaosi
+   - [ ] La Olla de Si Chuan (by grupo LEE) 四川火锅
 
 ### Mediterranea
    - [ ] Bicnic

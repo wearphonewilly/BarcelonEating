@@ -22,6 +22,14 @@
 - [ ] Cheesecake Avenue 
 - [ ] Amargo Place To Be
 - [ ] Naked & Sated
+- [ ] Panda Pastisserie
+- [ ] Claroscuro
+- [ ] Pan Delirio
+- [ ] La Tia Juana
+- [ ] Vila Capri
+- [ ] Sal Mestiza
+- [ ] Ojalá
+- [ ] MO de Movimiento
 
 ## HELADOS
 - [ ] N2LAB (Helados de nitrogeno)

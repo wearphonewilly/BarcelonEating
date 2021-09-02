@@ -2012,7 +2012,7 @@
         "visitado": true
     }, {
         "name": "Restaurant Parco",
-        "description": "Sushi, tartares de pescado y postres de fondue de chocolate en un restaurante moderno.",
+        "description": "Sushi, tartares de pescado y postres de fondue de chocolate en un restaurante moderno (Niguiris de pez mantequilla, saquitos de postre).",
         "tags": ["asiatico", "japo"],
         "location": "Passeig de Gràcia, 119, 08008 Barcelona",
         "type": "lunch",
@@ -2053,45 +2053,129 @@
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
-        "description": "",
-        "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "name": "Mutenroshi Ramen",
+        "description": "Pequeño café-bar, ambientado en un famoso cómic japonés, que sirve cuencos de fideos y gyozas.",
+        "tags": ["asiatico", "japo", "ramen"],
+        "location": "Carrer de Sant Agustí, 10, 08012 Barcelona",
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "name": "Pa Finolis",
         "description": "",
-        "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "tags": ["asiatico", "japo"],
+        "location": "Avinguda de la Riera de Cassoles, 34, 08012 Barcelona",
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "name": "Lucky Road Street Food",
         "description": "",
-        "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "tags": ["asiatico"],
+        "location": "Carrer de Simó Oller, 2, 08002 Barcelona",
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
-        "description": "",
-        "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "name": "Pastisseria Takashi Ochiai",
+        "description": "Pastelería japonesa que sirve mochis, pan de jengibre y tartas con sabor a té matcha.",
+        "tags": ["asiatico", "japo"],
+        "location": "Carrer del Comte d'Urgell, 110, 08011 Barcelona",
+        "type": "bakery",
+        "visitado": false
+    }, {
+        "name": "Takumi Ramen Barcelona",
+        "description": "Platos de ramen, empanadillas y postres en un restaurante informal de cocina japonesa con decoración llamativa.",
+        "tags": ["asiatico", "japo", "ramen"],
+        "location": "Carrer de Balmes, 59, 08007 Barcelona",
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "name": "BOUZU",
         "description": "",
-        "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "tags": ["asiatico", "japo"],
+        "location": "Ronda de Sant Antoni, 26, 08001 Barcelona",
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "name": "Robata Restaurant Japonés",
+        "description": "Sushi, marisco y platos de carne japonesa en un sencillo y moderno local con iluminación suave.",
+        "tags": ["asiatico", "japo"],
+        "location": "Carrer d'Enric Granados, 55, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Mosquito",
+        "description": "Bar de tapas informal que sirve raciones de inspiración asiática, dumplings, noodles y cervezas artesanales.",
+        "tags": ["asiatico"],
+        "location": "Carrer dels Carders, 46, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Ramen Shifu",
+        "description": "",
+        "tags": ["asiatico", "japo"],
+        "location": "Carrer del Consell de Cent, 323, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Bar Crepería Xian Hui Jie",
+        "description": "Crepes Chinas (Jianbing)",
+        "tags": ["asiatico", "chi"],
+        "location": "Gran Via de les Corts Catalanes, 480, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Ichiban Ramen & Street food",
+        "description": "",
+        "tags": ["asiatico", "ramen"],
+        "location": "Carrer Gran de Gràcia, 44, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "KITSUnē Sushi Bar こんにちは BCN",
+        "description": "Aperitivos y el clásico sushi en un restaurante informal de estilo izakaya, con una decoración acogedora con elementos en madera.",
+        "tags": ["asiatico", "japo"],
+        "location": "Carrer del Montseny, 11, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Sabor Sichuan",
+        "description": "",
+        "tags": ["asiatico", "hotpot"],
+        "location": "Gran Via de les Corts Catalanes, 646, 08007 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Spicy Soul Hot Pot",
+        "description": "",
+        "tags": ["asiatico", "hotpot"],
+        "location": "Carrer de Girona, 51, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "YUANLAOSI Hotpot",
+        "description": "",
+        "tags": ["asiatico", "hotpot"],
+        "location": "Carrer de la Diputació, 304, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "La Olla de Si Chuan (by grupo LEE) 四川火锅",
+        "description": "Restaurante acogedor, con plantas colgantes y de bambú, donde se sirven empanadillas y especialidades de Sichuán, como hotpot.",
+        "tags": ["asiatico", "hotpot"],
+        "location": "Carrer Aragó, 224, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "POCHA asian dining & bar",
         "description": "",
         "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "location": "Carrer de Provença, 224, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Baozi Bar",
+        "description": "gyozas",
+        "tags": ["asiatico", "japo"],
+        "location": "Ronda de Sant Pere, 60, 08010 Barcelona",
         "type": "lunch",
         "visitado": false
     }, {
