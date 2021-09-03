@@ -3,6 +3,7 @@ function loadEvents() {
     db = firebase.firestore();
 
     document.getElementById("submitButton").addEventListener("click", addLocation);
+    document.getElementById("downloadBD").addEventListener("click", downloadObjectAsJson);
     //document.getElementById("searchButton").addEventListener("click", searchLocation);
     //document.getElementById("recalculate").addEventListener("click", recalculateTags);
 }
@@ -117,4 +118,48 @@ function getSelectValues(select) {
     return result;
 }
 
+function downloadObjectAsJson(){
 
+    let objs = [];
+
+    db.collection("Locales").get().then((querySnapshot) => {
+        querySnapshot.forEach((doc) => {
+
+            let id = doc.id;
+            id = JSON.stringify(id);
+
+            let name = doc.data().name;
+            name = JSON.stringify(name);
+
+            let description = doc.data().description;
+            description = JSON.stringify(description);
+
+            let tags = doc.data().tags;
+            tags = JSON.stringify(tags);
+
+            let location = doc.data().location;
+            location = JSON.stringify(location);
+
+            let type = doc.data().type;
+            type = JSON.stringify(type);
+
+            let obj = "{" + "\"id\" : " + id  + ", " + "\"name\" : " + name  + ", " + "\"description\" : " + description  
+                + ", " + "\"tags\" : " + tags  + ", " + "\"location\" : " + location  + ", " + "\"type\" : " + type + "}";
+
+            objs.push(obj);
+            console.log(obj);
+
+        });
+        let exportObj = "{\"Locations\": [" + objs + "]}";
+
+        let dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(JSON.parse(exportObj)));
+        let downloadAnchorNode = document.createElement('a');
+        downloadAnchorNode.setAttribute("href",     dataStr);
+        downloadAnchorNode.setAttribute("download", "barcelonEatingDB" + ".json");
+        document.body.appendChild(downloadAnchorNode); // required for firefox
+        downloadAnchorNode.click();
+        downloadAnchorNode.remove();
+
+    });
+    
+}
