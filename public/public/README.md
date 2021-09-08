@@ -281,15 +281,11 @@
 ### Mediterranea
    - [ ] Bicnic
    - [ ] Tibu-Ron Beach Club
-   - [ ] Reñé • RestoBar (Modernista)
    - [ ] Chiringuito Chalito
-   - [ ] Restaurant La Venta
    - [ ] Bodega Granados
    - [ ] Restaurant B-ONE Palau del Mar
    - [ ] Auto Rosellon
-   - [ ] Gut restaurant (Gluten Free)
    - [x] Mordisco
-   - [ ] La Venta Restaurante
    - [ ] El Jardí (Terraza bonita)
    - [ ] Ginette (pulpo, boniato con burrata, croquetas)
    - [x] Cal Boter (Calçots)
@@ -300,18 +296,13 @@
    - [ ] La Cova Fumada
    - [ ] Bistrot Levantes
    - [ ] Restaurante Antunez
-   - [ ] El Mirador de Can Cases
    - [ ] Borobar
    - [ ] Cacho (Brunch con fiesta findes)
    - [ ] Baldomero
    - [ ] Bodega La Peninsular (La Bomba)
    - [ ] Alba Granados Restaurant
-   - [ ] Restaurante Salero
    - [ ] Bar Mono
-   - [ ] Carbo Begur Restaurant (Begur)
-   - [ ] Santa Fe Lobster Roll Bar
    - [ ] Benzina
-   - [ ] Baldomero
    - [ ] Feroz
    - [ ] El Mamón
    - [x] Tierra (música en directo)
@@ -319,7 +310,6 @@
    - [ ] CheChe Restaurant (cono de ensaladilla rusa de ventresca con caviar)
 
 ### Internacional
-   - [ ] La Caleta de Sants (Latinoamericano)
    - [ ] Toma Ya Street Food (Peruano)
    - [ ] The Fish & Chips Shop
    - [ ] Ruta40food (Argentino)
@@ -328,12 +318,9 @@
    - [ ] Donde Siempre (Venezuela)
    - [ ] La Chula Cervecería Mexicana (Mexico)
    - [ ] Anormal BCN (Mexico)
-   - [ ] Taquiza Sixtina (Mexico)
    - [ ] Gonzalez and Co
    - [ ] Baby jalebi (PUNJABI STREET FOOD)
    - [ ] Leche de Tige (Perú)
-   - [ ] Araki Internacional
-   - [ ] Mechita Sour - Resto Bar Bcn (Perú)
    - [x] TheQuickGreek (Griego)
    - [ ] Tio Papelón (Venezolano)
    - [ ] El Maracucho Grill House (Venezolano)
@@ -344,15 +331,12 @@
    - [ ] Fishpac (Cocina asiatica - caribeña)
    - [ ] Hummus & Company
    - [x] La Taqueria BCN
-   - [ ] FOC (patacones de atún, ceviche y entraña)
    - [ ] MAJO'S FOOD (Arepa de pulpo Fusión italo-colombiana)
    - [ ] Street Tacos
    - [ ] Warike Project
    - [ ] Maro Azul
    - [ ] Burritos
    - [ ] Addis Abeba (Cocina etiope)
-   - [ ] Foc
-   - [ ] Ginette
 
 ### VEGETARIANO
    - [x] Fat Veggies
@@ -367,6 +351,7 @@
    - [ ] Te Quiero Verde
    - [ ] La Papa Barcelona
    - [ ] Almalibre Açaí House Barcelona (Veganas)
+   - [ ] Gut restaurant (Gluten Free)
 
 
 ## BEBIDAS
@@ -375,7 +360,6 @@
    - [ ] On y Va Barcelona
    - [ ] Camelia Art Café
    - [ ] Bykate bcn
-   - [x] Casa Bonay
    - [ ] La Cava cakery
    - [ ] Morrow Coffee
    - [x] Satan’s Coffee Corner
@@ -395,7 +379,6 @@
    - [ ] Bow Barcelona
    - [ ] Petit Pot
    - [ ] Hygge Coffee Bcn (Gracia)
-   - [ ] Heladeria Barcelona
    - [x] Bicioci Bike Cafè
    - [ ] Cafè Cometa
    - [ ] PERLA COFFEE KIOSK
@@ -413,7 +396,7 @@
    - [x] Syra Coffee
    - [ ] Selvática
    - [x] Austral Coffee Bar 
-   - [ ] Rummas coffee
+   - [x] Rummas coffee
    - [x] La Muriel
    - [ ] Mala Llet Coffee Bar
    - [ ] Librería Byron (Libreria con cafeteria, muy chula)
@@ -504,6 +487,7 @@
    - [ ] Velissima
    - [ ] Bus Terraza
    - [ ] Cotton House
+   - [ ] El Mirador de Can Cases
 
 ### CERVECERÍA:
    - [x] Super Sol
@@ -554,3 +538,4 @@
 ## COSTA BRAVA
    - [ ] Nonnapaquita
    - [ ] Cal Tuset Peratallada (Magdalenas)
+   - [ ] Carbo Begur Restaurant (Begur)

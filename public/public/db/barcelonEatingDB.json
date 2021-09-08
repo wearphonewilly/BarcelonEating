@@ -139,7 +139,7 @@
         "id": "4SO0LEErc3aC5z0poEYi",
         "name": "La Malcriada Brunch",
         "description": "",
-        "tags": ["coffee"],
+        "tags": ["coffee", "brunch"],
         "location": "Ronda de Sant Pere, 39, 08010 Barcelona",
         "type": "drinks",
         "visitado": false
@@ -286,7 +286,7 @@
         "tags": ["coffee"],
         "location": "Carrer dels Escudellers, 11, 08002 Barcelona",
         "type": "drinks",
-        "visitado": false
+        "visitado": true
     }, {
         "id": "8oYa4ao1iMa4Z0jRLv64",
         "name": "Sweet Gaufre",
@@ -403,7 +403,7 @@
         "id": "BI2BnJqPuHTsTPuiX3si",
         "name": "Sabio Infante Brunch and coffee",
         "description": "",
-        "tags": ["coffee"],
+        "tags": ["coffee", "brunch"],
         "location": "Carrer del Torrent de l'Olla, 39, 08012 Barcelona",
         "type": "drinks",
         "visitado": false
@@ -1411,7 +1411,7 @@
         "id": "itbxGKmZz0JeY5cHGdZ0",
         "name": "Brunch Market",
         "description": "",
-        "tags": ["cereals"],
+        "tags": ["cereals", "brunch"],
         "location": "Carrer de Provença, 213, 08008 Barcelona",
         "type": "bakery",
         "visitado": false
@@ -1474,8 +1474,8 @@
     }, {
         "id": "nwdLbTdhg071bb84p58R",
         "name": "Frenesi Cafe",
-        "description": "",
-        "tags": ["coffee"],
+        "description": "Cafés gourmet, tartas caseras, tortitas y otras opciones dulces en recogida y coqueta cafetería con brunch.",
+        "tags": ["coffee", "brunch"],
         "location": "Carrer del Comte d'Urgell, 115, 08011 Barcelona",
         "type": "drinks",
         "visitado": false
@@ -1505,7 +1505,7 @@
         "visitado": false
     }, {
         "id": "oBWf5Ptud83rBSLvDltM",
-        "name": "On y Va Barcelona",
+        "name": "On y Va Coffee",
         "description": "",
         "tags": ["coffee"],
         "location": "Carrer de la Ciutat de Balaguer, 45, 08022 Barcelona",
@@ -1703,14 +1703,6 @@
         "location": "Carrer del Rosselló, 160, 08036 Barcelona",
         "type": "bakery",
         "visitado": true
-    }, {
-        "id": "uo0QkI7Pi3Q1Q55zC15C",
-        "name": "La Papa Barcelona",
-        "description": "",
-        "tags": ["coffee"],
-        "location": "Carrer d'Aribau, 92, 08036 Barcelona",
-        "type": "drinks",
-        "visitado": false
     }, {
         "id": "w0MGrbW8QSM62ht8rpP0",
         "name": "Es Bien Brunch",
@@ -2179,19 +2171,523 @@
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
-        "description": "",
-        "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "name": "Tibu-Ron Beach Club",
+        "description": "Combinados, recetas mediterráneas y fiestas en un refinado club en tonos blancos, con terraza frente al mar.",
+        "tags": ["mediterraneo"],
+        "location": "Carrer Ribera de Sant Pere, 15, 08860 Castelldefels, Barcelona",
         "type": "lunch",
         "visitado": false
     }, {
-        "name": "HANKI 한끼 (바르셀로나 한식당)",
+        "name": "Chiringuito Chalito",
         "description": "",
-        "tags": ["asiatico", "corea"],
-        "location": "Carrer de Guillem Tell, 23, 08006 Barcelona",
+        "tags": ["mediterraneo"],
+        "location": "Passeig Marítim, 45, 08860 Castelldefels, Barcelona",
         "type": "lunch",
         "visitado": false
+    }, {
+        "name": "La Moderna Bodega",
+        "description": "",
+        "tags": ["mediterraneo", "tapas"],
+        "location": "Carrer d'Enric Granados, 110, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "B-ONE Palau de Mar",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Plaça de Pau Vila, 1, 08039 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Auto Rosellon",
+        "description": "Bar moderno, con una terraza informal, que sirve brunches creativos y sánwiches calientes para llevar.",
+        "tags": ["mediterraneo"],
+        "location": "Carrer del Rosselló, 182, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Restaurante Mordisco",
+        "description": "Restaurante de larga trayectoria que sirve platos de temporada, con un comedor lleno de plantas y un luminoso patio cerrado.",
+        "tags": ["mediterraneo"],
+        "location": "Passatge de la Concepció, 10, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "El Jardí",
+        "description": "Raciones con productos de mercado entre los muros de piedra de un antiguo hospital, con servicio de catering.",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de l'Hospital, 56, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Restaurant Cal Boter",
+        "description": "Restaurante acogedor de cocina catalana, con carnes asadas, platos de marisco y de caracoles, y un menú de almuerzo de precio fijo y CALÇOTS.",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de Tordera, 62, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Fismuler",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Carrer del Rec Comtal, 17, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "RESTAURANTE SALERO",
+        "description": "Restaurante moderno que ofrece brunch, platos vegetarianos creativos, ensaladas y cocina fusión asiática.",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de Tordera, 10, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Tasta Gràcia",
+        "description": "Gastronomia Made In Gràcia",
+        "tags": ["mediterraneo"],
+        "location": "Carrer del Torrent de l'Olla, 155, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Denassus",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de Blai, 53, 08004 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Restaurante La Cova Fumada",
+        "description": "Bar de 1944, ubicado en una antigua bodega y regentado por una familia, que ofrece tapas tradicionales.",
+        "tags": ["mediterraneo", "tapas"],
+        "location": "Carrer del Baluard, 56, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Bistrot Levante",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Placeta de Manuel Ribé, 1, 08002 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Antúnez",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de Neptú, 18, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "BORO Bar",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de la Diputació, 286, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "CACHO 22@",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de Fluvià, 58, 08019 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Baldomero",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Passatge de Mercader, 16, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Bodega La Peninsular",
+        "description": "Tapas y bocados marineros en una tasca clásica con barra de mármol más taburetes coloridos y juke box.",
+        "tags": ["mediterraneo", "tapas"],
+        "location": "Carrer del Mar, 29, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Alba Granados",
+        "description": "Tapas catalanas, paella y carnes y pescados a la parrilla de carbón en un restaurante refinado con sofás de piel.",
+        "tags": ["mediterraneo"],
+        "location": "Carrer d'Enric Granados, 34, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Bar Mono",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Plaça de Sant Josep Oriol, 4, 08002 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "BENZiNA",
+        "description": "Restaurante de cocina italiana de estilo industrial, con pasta, marisco, platos de carne, cócteles y vinos.",
+        "tags": ["mediterraneo"],
+        "location": "Passatge de Pere Calders, 6, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Restaurante Feroz",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de Tuset, 27, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "El Mamón",
+        "description": "Pulpo braseado con causa limeña y otros platos fusión en moderno salón industrial diáfano con toques chic.",
+        "tags": ["mediterraneo"],
+        "location": "Passatge de Pere Calders, 2, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Restaurante Tierra",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Carrer de Casanova, 133, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Les Filles Cafè",
+        "description": "",
+        "tags": ["mediterraneo"],
+        "location": "Plaça de Pau Vila, 1, 08039 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "CheChe Restaurant",
+        "description": "Pescado, arroz y marisco en un elegante comedor en tonos blancos, con una terraza cubierta con vistas al mar.",
+        "tags": ["mediterraneo"],
+        "location": "Passeig Marítim, 280, 08860 Castelldefels, Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Toma Ya Street Food",
+        "description": "",
+        "tags": ["peruano"],
+        "location": "Carrer de Nil Fabra, 34, 36, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "The Fish & Chips Shop",
+        "description": "Reinterpretación del clásico plato inglés, además de otras tapas de raíces internacionales, en local moderno.",
+        "tags": ["ingles"],
+        "location": "Carrer de Balmes, 240, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Ruta 40 - tapas & bocatas argentinos",
+        "description": "",
+        "tags": ["argentino"],
+        "location": "Carrer de Nàpols, 314, 08025 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Kinza",
+        "description": "",
+        "tags": ["georgiano"],
+        "location": "Carrer dels Banys Vells, 15, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "El Argentino",
+        "description": "Cocina argentina a la brasa y vinos de la zona en un restaurante moderno con terraza.",
+        "tags": ["argentino"],
+        "location": "Carrer d'Aragó, 224, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Donde Siempre Diagonal",
+        "description": "",
+        "tags": ["venezolano"],
+        "location": "Avinguda Diagonal, 229, 08013 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "La Chula Cervecería Mexicana",
+        "description": "",
+        "tags": ["mexicano"],
+        "location": "Carrer del Rosselló, 483, 08025 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Anormal Food | Cocina Latinoamericana | Delivery & Para llevar",
+        "description": "",
+        "tags": ["mexicano"],
+        "location": "Carrer de Bertran, 28, 08023 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Gonzalez & Co",
+        "description": "Cálido espacio con pared de ladrillo visto y mesas de madera donde degustar burritos y otras recetas tex-mex.",
+        "tags": ["mexicano"],
+        "location": "Carrer de Còrsega, 391, 08037 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Baby Jalebi",
+        "description": "",
+        "tags": ["paquistani"],
+        "location": "Gran Via de les Corts Catalanes, 452, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Leche de Tigre",
+        "description": "",
+        "tags": ["peruano"],
+        "location": "Carrer de Martínez de la Rosa, 10, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "The Quick Greek Gracia",
+        "description": "",
+        "tags": ["griego"],
+        "location": "Carrer d'Astúries, Plaça del Diamant, 67, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Tío papelón",
+        "description": "",
+        "tags": ["venezolano"],
+        "location": "Carrer de Sicília, 247, 08025 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "El Maracucho Grill House",
+        "description": "Restaurante sin pretensiones, con platos venezolanos, como tequeños, arepas, hamburguesas y carne a la parrilla.",
+        "tags": ["venezolano"],
+        "location": "Carrer dels Enamorats, 112, 08026 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Masala73 Curry Bar",
+        "description": "Cocina india tradicional de temporada en moderno local con cestas como lámparas y sillas industriales.",
+        "tags": ["india"],
+        "location": "Carrer de Muntaner, 152, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Bērytī",
+        "description": "",
+        "tags": ["libanes"],
+        "location": "Travessera de Gràcia, 228, 08024 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Quiote Mezcalería - Restaurante Mexicano Barcelona",
+        "description": "",
+        "tags": ["mexicano"],
+        "location": "Carrer de Calàbria, 98, 08015 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Taco Alto",
+        "description": "Totopos con guacamole, cervezas mexicanas y tacos típicos con sus salsas en un moderno y desenfadado local.",
+        "tags": ["mexicano"],
+        "location": "Carrer del Portal Nou, 62, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Fishpac",
+        "description": "",
+        "tags": ["caribe"],
+        "location": "Carrer de Laforja, 95, 08021 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Hummus and Company",
+        "description": "",
+        "tags": ["hummmus"],
+        "location": "La Rambla, 67, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "La Taqueria",
+        "description": "",
+        "tags": ["mexicano"],
+        "location": "Carrer de Sardenya, 304, 08013 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Street Tacos",
+        "description": "",
+        "tags": ["mexicano"],
+        "location": "Carrer de Pepe Rubianes, 37, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Warike Project",
+        "description": "",
+        "tags": ["peruano"],
+        "location": "Carrer de Pujades, 74, Bajos Local 2, 08005 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Maro Azul",
+        "description": "",
+        "tags": ["mexicano"],
+        "location": "Carrer de Roger de Flor, 218, 08013 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "BURRITOS",
+        "description": "",
+        "tags": ["mexicano"],
+        "location": "Ronda de Sant Pere, 16, 08010 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Addis Abeba",
+        "description": "Restaurante agradable que sirve platos etíopes tradicionales en grandes raciones, con decoración de inspiración africana.",
+        "tags": ["etiope"],
+        "location": "Carrer del Vallespir, 44, 08014 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Fat Veggies",
+        "description": "",
+        "tags": ["vegetariano"],
+        "location": "Carrer de París, 168, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Sésamo",
+        "description": "Restaurante acogedor, de estilo rústico chic, que ofrece tablas degustación y platos principales vegetarianos y veganos",
+        "tags": ["vegetariano"],
+        "location": "Carrer de Sant Antoni Abat, 52, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Quinoa Aragó Vegetarià",
+        "description": "",
+        "tags": ["vegetariano"],
+        "location": "Carrer d'Aragó, 209, 08011 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Honest Greens Tuset",
+        "description": "",
+        "tags": ["vegetariano"],
+        "location": "Carrer de Tuset, 4, 08006 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "La Trocadero",
+        "description": "Hamburguesas, perritos calientes y entrantes veganos creativos en un restaurante vistoso con televisiones y radios retro",
+        "tags": ["vegetariano"],
+        "location": "Carrer de la Marina, 269, 08025 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Flax & Kale",
+        "description": "Ensaladas creativas y postres sin gluten en un restaurante moderno con terraza en la azotea y un jardín de especias.",
+        "tags": ["vegetariano"],
+        "location": "Carrer dels Tallers, 74b, 08001 Barcelona",
+        "type": "lunch",
+        "visitado": true
+    }, {
+        "name": "Bar Botánico - La Suegra del Jardinero",
+        "description": "",
+        "tags": ["vegetariano"],
+        "location": "Carrer de Provença, 125, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "The Green Spot",
+        "description": "Especialidades vegetarianas y cócteles en un luminoso espacio con maderas y muebles de línea escandinava.",
+        "tags": ["vegetariano"],
+        "location": "Carrer de la Reina Cristina, 12, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Vegan Junk Food Bar",
+        "description": "",
+        "tags": ["vegetariano"],
+        "location": "Carrer de Manresa, 4, 08003 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Te Quiero Verde",
+        "description": "",
+        "tags": ["vegetariano"],
+        "location": "Carrer del Rosselló, 235, 08008 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "La Papa Barcelona",
+        "description": "",
+        "tags": ["vegetariano", "coffee"],
+        "location": "Carrer d'Aribau, 92, 08036 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Almalibre Açaí House Barcelona",
+        "description": "Hamburguesas veganas, cuencos de açaí y ensaladas y zumos naturales en un restaurante moderno de estilo rústico chic.",
+        "tags": ["vegetariano"],
+        "location": "Carrer de Girona, 118, 08009 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Restaurant gut",
+        "description": "Comida sin gluten",
+        "tags": ["mediterraneo"],
+        "location": "Carrer del Perill, 13, 08012 Barcelona",
+        "type": "lunch",
+        "visitado": false
+    }, {
+        "name": "Orval Barcelona",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Buenaventura Muñoz, 31, 08018 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "name": "Black Remedy",
+        "description": "Bocadillos italianos y variedad de huevos en sencillo local de toques industriales con cafés gourmet.",
+        "tags": ["coffee"],
+        "location": "Carrer de la Ciutat, 5, 08002 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "name": "Onna Coffee",
+        "description": "Paredes de madera y sofás en cafetería gourmet con quiches, pan de plátano o cruasánes integrales.",
+        "tags": ["coffee"],
+        "location": "Carrer de Santa Teresa, 1, 08012 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "name": "Mala Llet Coffee Bar",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Girona, 60, 08010 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "name": "Librería Byron",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Casanova, 32, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "name": "People Coffee shop ☕",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Gran Via de les Corts Catalanes, 511, 08015 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "name": "Bristol Gastropub",
+        "description": "Opciones de brunch, como tostadas de aguacate, tortillas y cuencos con granola, en un restaurante clásico con suelo ajedrezado.",
+        "tags": ["brunch"],
+        "location": "Carrer de Roger de Flor, 220, 08013 Barcelona",
+        "type": "drinks",
+        "visitado": false
+    }, {
+        "name": "Librería Byron",
+        "description": "",
+        "tags": ["coffee"],
+        "location": "Carrer de Casanova, 32, 08011 Barcelona",
+        "type": "drinks",
+        "visitado": false
     }
-    ]
+   ]
 }
