@@ -32,7 +32,7 @@
    - [x] Gelateria Da Gallo
    - [x] Petit Pastis
    - [ ] B Sandwiches
-   - [ ] La Cantonada (Croissant Lotus)
+   - [x] La Cantonada (Croissant Lotus)
    - [x] Petit Pastis
    - [x] JonCake
    - [ ] EspressoMafia
@@ -55,7 +55,7 @@
 ### AGUACATE:
    - [ ] L’avocaterie
    - [ ] Costa Barcelona Sitges
-   - [ ] Avocados
+   - [x] Avocados
 
 
 ## TAPAS
@@ -396,7 +396,6 @@
    - [x] Syra Coffee
    - [ ] Selvática
    - [x] Austral Coffee Bar 
-   - [x] Rummas coffee
    - [x] La Muriel
    - [ ] Mala Llet Coffee Bar
    - [ ] Librería Byron (Libreria con cafeteria, muy chula)
@@ -418,6 +417,7 @@
    - [ ] La Texil
    - [ ] La Malcriada
    - [ ] Duval Buns & Coffee
+   - [x] Garage Coffe Bcn
 
 
 
@@ -434,7 +434,7 @@
 
 ### COCKTAILS:
    - [ ] Orient Express Cocktail Bar (Te trae los cocktails en un tren)
-   - [ ] El Jardinet d’Aribau
+   - [ ] Jardinet d’Aribau
    - [ ] Merbeyé Cocktail Bar
    - [ ] Pisa Morena
    - [ ] Alquimia
@@ -462,7 +462,7 @@
    - [ ] Hotel America Barcelona
    - [ ] Hotel Ohla Barcelona
    - [x] Hotel Casa Bonay
-   - [ ] Kimpton Vividora Hotel
+   - [x] Kimpton Vividora Hotel
    - [ ] The Pulitzer Terrace at Hotel Pulitzer
    - [ ] Ohla Chillout Terrace at Ohla Barcelona
    - [ ] La Terraza del Claris at Claris Hotel 
@@ -472,7 +472,6 @@
    - [ ] Sky Bar at Grand Hotel Central
    - [ ] La Isabela at Hotel 1898
    - [ ] La Terraza at Villa Emilia
-   - [ ] Tibu-Ron Beach Club 
    - [ ] Soho House Barcelona
    - [ ] The Rooftop at Sir Victor Hotel
    - [ ] Alaire Terrace Bar
@@ -488,6 +487,7 @@
    - [ ] Bus Terraza
    - [ ] Cotton House
    - [ ] El Mirador de Can Cases
+   - [ ] Gallery Hotel
 
 ### CERVECERÍA:
    - [x] Super Sol

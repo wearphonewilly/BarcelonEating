@@ -2173,7 +2173,7 @@
     }, {
         "name": "Tibu-Ron Beach Club",
         "description": "Combinados, recetas mediterráneas y fiestas en un refinado club en tonos blancos, con terraza frente al mar.",
-        "tags": ["mediterraneo"],
+        "tags": ["mediterraneo", "terrazas"],
         "location": "Carrer Ribera de Sant Pere, 15, 08860 Castelldefels, Barcelona",
         "type": "lunch",
         "visitado": false
