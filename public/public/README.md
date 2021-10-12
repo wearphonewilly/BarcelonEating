@@ -336,7 +336,8 @@
    - [ ] Warike Project
    - [ ] Maro Azul
    - [ ] Burritos
-   - [ ] Addis Abeba (Cocina etiope)
+   - [ ] Addis Abeba (Etiopia)
+   - [ ] Ugarit (Siria)
 
 ### VEGETARIANO
    - [x] Fat Veggies
