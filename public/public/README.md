@@ -38,6 +38,10 @@
    - [ ] EspressoMafia
    - [ ] La bikineria
    - [ ] Pastelería Hofmann
+   - [x] Dou Barcelona (Croissants)
+   - [ ] El Desvan Bakery
+   - [ ] Nijis Mochis
+   - [ ] La Dramerie
 
 ### BRUNCH
    - [ ] Billy Brunch & Garden
@@ -161,11 +165,13 @@
    - [ ] BRO Barcelona
    - [x] Asado Hamburguesas
    - [ ] Clubhaus (tiene dj)
+   - [ ] La Sagrada BCN (Hamburguesas cocinadas sobre piedras volcánicas)
 
 ### PASTA
    - [ ] Macchina (Pasta rapida)
    - [ ] Bella Italia
    - [ ] Le Cucine Mandarosso
+   - [ ] La Patsa Lab
 
 
 ### PIZZA:
@@ -271,6 +277,7 @@
    - [ ] Kitsuné
    - [ ] POCHA asian dining & bar
    - [ ] Baozi Bar
+   - [ ] El Japonés Escondido
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -308,6 +315,7 @@
    - [x] Tierra (música en directo)
    - [ ] Les Files Cafe
    - [ ] CheChe Restaurant (cono de ensaladilla rusa de ventresca con caviar)
+   - [x] Saona
 
 ### Internacional
    - [ ] Toma Ya Street Food (Peruano)
@@ -338,6 +346,9 @@
    - [ ] Burritos
    - [ ] Addis Abeba (Etiopia)
    - [ ] Ugarit (Siria)
+   - [ ] Tandoor (India)
+   - [ ] Albé Barcelona (Libano)
+   - [ ] Chaka Khan (Marruecos)
 
 ### VEGETARIANO
    - [x] Fat Veggies
@@ -419,6 +430,10 @@
    - [ ] La Malcriada
    - [ ] Duval Buns & Coffee
    - [x] Garage Coffe Bcn
+   - [ ] Acid House Barcelona
+   - [ ] Origo bakery
+   - [ ] El Noa Noa
+   - [ ] Café del Mono
 
 
 
@@ -482,13 +497,15 @@
    - [ ] Iberostar Sky Bar
    - [ ] Cap Sa Sal (Begur)
    - [ ] Casa Museu Ametller
-   - [x] H10 Casa Mimosa 
+   - [x] H10 Casa Mimosa
+   - [ ] H10 Madison 
    - [ ] Go Beach Club
    - [ ] Velissima
    - [ ] Bus Terraza
    - [ ] Cotton House
    - [ ] El Mirador de Can Cases
    - [ ] Gallery Hotel
+   - [ ] Duquesa de Cardona
 
 ### CERVECERÍA:
    - [x] Super Sol
@@ -534,6 +551,7 @@
    - [ ] Patapollo restaurants
    - [ ] The Paella Club (Haces tu la paella)
    - [ ] Macao Home Sushi (Hacer sushi en casa)
+   - [x] Toke Si
 
 
 ## COSTA BRAVA
