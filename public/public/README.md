@@ -21,7 +21,7 @@
    - [x] Chök The Chocolate Kitchen
    - [ ] Bow Barcelona
    - [ ] El Born Pasteleria
-   - [ ] La Donutería
+   - [ ] La Donutería (La Do)
    - [ ] Lukumás
    - [ ] ZIMT • Cinnamon Rolls
    - [ ] La Cala Barceloneta
@@ -42,6 +42,9 @@
    - [ ] El Desvan Bakery
    - [ ] Nijis Mochis
    - [ ] La Dramerie
+   - [ ] Don Cuernitos
+   - [ ] Tiramisu House BCN
+   - [ ] Savta BCN (Sandwiches)
 
 ### BRUNCH
    - [ ] Billy Brunch & Garden
@@ -166,12 +169,14 @@
    - [x] Asado Hamburguesas
    - [ ] Clubhaus (tiene dj)
    - [ ] La Sagrada BCN (Hamburguesas cocinadas sobre piedras volcánicas)
+   - [ ] Tio Joe Restaurante
 
 ### PASTA
    - [ ] Macchina (Pasta rapida)
    - [ ] Bella Italia
    - [ ] Le Cucine Mandarosso
    - [ ] La Patsa Lab
+   - [ ] Eroica Caffè Barcelona
 
 
 ### PIZZA:
@@ -227,6 +232,8 @@
    - [ ] Un Bocado
    - [ ] Restaurante Maguro (Pides pantalla)
    - [ ] Kibuka (Kibuka Llull)
+   - [ ] Cotton Fish Sushi
+   - [ ] Zabu Sushi 
 
 
  ### JAPÓN / RAMEN / ASIATICO:
@@ -278,6 +285,8 @@
    - [ ] POCHA asian dining & bar
    - [ ] Baozi Bar
    - [ ] El Japonés Escondido
+   - [ ] Asian Ways Barcelona
+   - [ ] Restaurante Mian
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -349,6 +358,10 @@
    - [ ] Tandoor (India)
    - [ ] Albé Barcelona (Libano)
    - [ ] Chaka Khan (Marruecos)
+   - [ ] Good Shit (Vegan Kebabs)
+   - [ ] Chennai Masala Dosa (India)
+   - [ ] La Turuleca Barcelona (Peru)
+   - [ ] La Antigua de Mexico
 
 ### VEGETARIANO
    - [x] Fat Veggies
@@ -364,6 +377,9 @@
    - [ ] La Papa Barcelona
    - [ ] Almalibre Açaí House Barcelona (Veganas)
    - [ ] Gut restaurant (Gluten Free)
+   - [ ] Itacate Barcelona
+   - [ ] Tulsi Restaurante Vegano
+   - [ ] L’Encant Vegetarià
 
 
 ## BEBIDAS
@@ -390,7 +406,7 @@
    - [ ] Sabio Infante Brunch and coffee
    - [ ] Bow Barcelona
    - [ ] Petit Pot
-   - [ ] Hygge Coffee Bcn (Gracia)
+   - [x] Hygge Coffee Bcn
    - [x] Bicioci Bike Cafè
    - [ ] Cafè Cometa
    - [ ] PERLA COFFEE KIOSK
@@ -424,7 +440,7 @@
    - [ ] Federal Cafe
    - [ ] Suis Gracia
    - [ ] Little Fern
-   - [ ] PuroCafé (Born)
+   - [ ] Puro Café (Born)
    - [ ] Sweet Lima
    - [ ] La Texil
    - [ ] La Malcriada
@@ -434,6 +450,15 @@
    - [ ] Origo bakery
    - [ ] El Noa Noa
    - [ ] Café del Mono
+   - [ ] The Coffee
+   - [ ] Manso's Cafe
+   - [ ] Black Bird Coffee Corner
+   - [ ] Dalson Coffee
+   - [ ] The Rocks Kiosk
+   - [ ] Le Tigre Cakes
+   - [ ] Neo Coffee House
+   - [ ] Eroicca Caffè Barcelona
+   - [ ] Brew Coffee
 
 
 
@@ -459,13 +484,21 @@
    - [ ] DUX
    - [ ] Beriut 37
    - [ ] Paradiso cocktails espectaculares (Sitio oculto pastrami)
-   - [ ] Particular Gastrobar https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814 
+   - [ ] Particular Gastrobar https://www.tiktok.com/@imartatravels/video/6980425189716823302?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814
+   - [ ] Dry Martini
+   - [ ] Dr. Stravinsky
+   - [ ] Boadas
+   - [ ] Solanges
+   - [ ] Especiarium
+   - [ ] Negresco Cocktail Bar
+   - [ ] Bobby Gin
 
 ### BARES TOMAR ALGO
    - [ ] Bar Central Raval (terraza chula)
    - [ ] Snack 55
    - [ ] Tot 1 Euro Bar
    - [ ] Mescladis del Pou
+   - [ ] La Pecera del Pool
 
 
 ### TERRAZAS:
@@ -495,7 +528,6 @@
    - [ ] 1881 per Segardi
    - [ ] The Wetdeck en el W Hotel
    - [ ] Iberostar Sky Bar
-   - [ ] Cap Sa Sal (Begur)
    - [ ] Casa Museu Ametller
    - [x] H10 Casa Mimosa
    - [ ] H10 Madison 
@@ -506,6 +538,7 @@
    - [ ] El Mirador de Can Cases
    - [ ] Gallery Hotel
    - [ ] Duquesa de Cardona
+   - [ ] The Barcelona Edition
 
 ### CERVECERÍA:
    - [x] Super Sol
@@ -558,3 +591,6 @@
    - [ ] Nonnapaquita
    - [ ] Cal Tuset Peratallada (Magdalenas)
    - [ ] Carbo Begur Restaurant (Begur)
+   - [x] Jofre Xurreria
+   - [ ] Can Pujol
+   - [ ] Cap Sa Sal (Begur)
