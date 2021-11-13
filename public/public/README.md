@@ -39,7 +39,7 @@
    - [ ] La bikineria
    - [ ] Pastelería Hofmann
    - [x] Dou Barcelona (Croissants)
-   - [ ] El Desvan Bakery
+   - [x] El Desvan Bakery
    - [ ] Nijis Mochis
    - [ ] La Dramerie
    - [ ] Don Cuernitos
@@ -177,6 +177,7 @@
    - [ ] Le Cucine Mandarosso
    - [ ] La Patsa Lab
    - [ ] Eroica Caffè Barcelona
+   - [x] F.I.S.H (Fresh Italian Sea Harvest)
 
 
 ### PIZZA:
@@ -287,6 +288,7 @@
    - [ ] El Japonés Escondido
    - [ ] Asian Ways Barcelona
    - [ ] Restaurante Mian
+   - [x] Suto Restaurante
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -325,6 +327,7 @@
    - [ ] Les Files Cafe
    - [ ] CheChe Restaurant (cono de ensaladilla rusa de ventresca con caviar)
    - [x] Saona
+   - [x] Calabrasa
 
 ### Internacional
    - [ ] Toma Ya Street Food (Peruano)
@@ -362,6 +365,7 @@
    - [ ] Chennai Masala Dosa (India)
    - [ ] La Turuleca Barcelona (Peru)
    - [ ] La Antigua de Mexico
+   - [x] Terminal 42 Barcelona
 
 ### VEGETARIANO
    - [x] Fat Veggies
@@ -455,7 +459,7 @@
    - [ ] Black Bird Coffee Corner
    - [ ] Dalson Coffee
    - [ ] The Rocks Kiosk
-   - [ ] Le Tigre Cakes
+   - [x] Le Tigre Cakes
    - [ ] Neo Coffee House
    - [ ] Eroicca Caffè Barcelona
    - [ ] Brew Coffee
@@ -539,6 +543,7 @@
    - [ ] Gallery Hotel
    - [ ] Duquesa de Cardona
    - [ ] The Barcelona Edition
+   - [ ] Hotel Colón
 
 ### CERVECERÍA:
    - [x] Super Sol
