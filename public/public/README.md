@@ -178,6 +178,7 @@
    - [ ] La Patsa Lab
    - [ ] Eroica Caffè Barcelona
    - [x] F.I.S.H (Fresh Italian Sea Harvest)
+   - [ ] Ostaia Barcelona
 
 
 ### PIZZA:
@@ -235,6 +236,7 @@
    - [ ] Kibuka (Kibuka Llull)
    - [ ] Cotton Fish Sushi
    - [ ] Zabu Sushi 
+   - [x] Más que Sushi
 
 
  ### JAPÓN / RAMEN / ASIATICO:
@@ -289,6 +291,7 @@
    - [ ] Asian Ways Barcelona
    - [ ] Restaurante Mian
    - [x] Suto Restaurante
+   - [ ] Dip Dumpling
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -307,6 +310,7 @@
    - [ ] El Jardí (Terraza bonita)
    - [ ] Ginette (pulpo, boniato con burrata, croquetas)
    - [x] Cal Boter (Calçots)
+   - [ ] Taberna El Glop (Calçots)
    - [ ] Fismuler
    - [ ] Restaurante Salero
    - [ ] Tasta Gràcia (Gastronomia Made In Gràcia)
@@ -328,6 +332,7 @@
    - [ ] CheChe Restaurant (cono de ensaladilla rusa de ventresca con caviar)
    - [x] Saona
    - [x] Calabrasa
+   - [ ] Inquiet
 
 ### Internacional
    - [ ] Toma Ya Street Food (Peruano)
