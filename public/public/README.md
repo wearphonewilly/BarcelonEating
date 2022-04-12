@@ -57,6 +57,7 @@
    - [ ] EqvilibrivmCafe
    - [ ] Simple Brunch
    - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
+   - [ ] Hardware Société
 
 
 ### AGUACATE:
@@ -173,6 +174,9 @@
    - [x] Burguesa
    - [x] PataPollo (buffet ilimitado de pollo los martes)
    - [x] Bungr
+   - [ ] Chivuos
+   - [ ] Soda Bus (comes dentro de un autobus inglés)
+   - [ ] La Sagrada 
 
 ### PASTA
    - [ ] Macchina (Pasta rapida)
@@ -475,6 +479,7 @@
    - [x] Brew Coffee
    - [x] Funky Bakers
    - [x] Crumb
+   - [ ] Xioleta Coffee + Botiga
 
 
 ### BUBBLE TEA & ZUMITOS
