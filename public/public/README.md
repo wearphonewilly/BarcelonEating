@@ -21,7 +21,7 @@
    - [x] Chök The Chocolate Kitchen
    - [ ] Bow Barcelona
    - [ ] El Born Pasteleria
-   - [ ] La Donutería (La Do)
+   - [x] La Donutería (La Do)
    - [ ] Lukumás
    - [ ] ZIMT • Cinnamon Rolls
    - [ ] La Cala Barceloneta
@@ -128,7 +128,7 @@
 
 
 ### HAMBURGUESAS / FRANKFURT / POLLO:
-   - [ ] Hideout Burger
+   - [x] Hideout Burger
    - [x] Santa Burg
    - [x] Timesburg 
    - [x] NYB - New York Burger
@@ -170,6 +170,9 @@
    - [ ] Clubhaus (tiene dj)
    - [ ] La Sagrada BCN (Hamburguesas cocinadas sobre piedras volcánicas)
    - [ ] Tio Joe Restaurante
+   - [x] Burguesa
+   - [x] PataPollo (buffet ilimitado de pollo los martes)
+   - [x] Bungr
 
 ### PASTA
    - [ ] Macchina (Pasta rapida)
@@ -197,9 +200,10 @@
    - [ ] The Haissala’s Pizza
    - [x] Pizza Markets
    - [x] Passione Napolitana
-   - [ ] Don Kilo (Calzone de chocolate)
+   - [x] Don Kilo (Calzone de chocolate)
    - [x] Sartoria Panatieri - Pizzería en Eixample
-   - [ ] La balmesina
+   - [ ] La Balmesina
+   - [x] Traficantes de Harina
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
@@ -245,7 +249,7 @@
    - [ ] Spicy VOLX (Taberna Oriental MUY CHULA NEON)
    - [ ] Ukai Eixample
    - [ ] Ramen Bcn
-   - [ ] Carlota Akaneya (Barbacoa Coreana)
+   - [x] Carlota Akaneya (Barbacoa Coreana)
    - [x] Dr. Zhang, dumplings de Barcelona
    - [ ] Lady Dumpling
    - [ ] Telemaki
@@ -257,7 +261,7 @@
    - [ ] All Day Wok
    - [ ] L'Ós Panda (Especialidad Fideos Mi Xian)
    - [x] Xino Mandarino
-   - [ ] Kasa Ramen
+   - [x] Kasa Ramen
    - [ ] Ramen-ya Hiro
    - [ ] Melo-Jia (Pato Pekines)
    - [ ] Shanghai
@@ -276,7 +280,7 @@
    - [ ] Pa Finolis
    - [ ] Lucky Road Street Food (neones)
    - [ ] Takashi Ochiai Pastisseria (Pastelería japonesa y especialidades locales)
-   - [ ] Takumi Ramen Barcelona
+   - [x] Takumi Ramen Barcelona
    - [ ] Bouzu Barcelona
    - [ ] Parco (Niguiris de pez mantequilla, saquitos de postre)
    - [ ] Robata
@@ -292,6 +296,7 @@
    - [ ] Restaurante Mian
    - [x] Suto Restaurante
    - [ ] Dip Dumpling
+   - [x] Taiyaki Born (dulce pescado parecido gofre/crep)
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -366,7 +371,6 @@
    - [ ] Tandoor (India)
    - [ ] Albé Barcelona (Libano)
    - [ ] Chaka Khan (Marruecos)
-   - [ ] Good Shit (Vegan Kebabs)
    - [ ] Chennai Masala Dosa (India)
    - [ ] La Turuleca Barcelona (Peru)
    - [ ] La Antigua de Mexico
@@ -389,7 +393,7 @@
    - [ ] Itacate Barcelona
    - [ ] Tulsi Restaurante Vegano
    - [ ] L’Encant Vegetarià
-
+   - [ ] Good Shit (Vegan Kebabs)
 
 ## BEBIDAS
 
@@ -398,7 +402,8 @@
    - [ ] Camelia Art Café
    - [ ] Bykate bcn
    - [ ] La Cava cakery
-   - [ ] Morrow Coffee
+   - [ ] The Good Coffee
+   - [x] Morrow Coffee
    - [x] Satan’s Coffee Corner
    - [ ] Brunchef
    - [ ] Molika Cafe Eixample
@@ -421,14 +426,14 @@
    - [ ] PERLA COFFEE KIOSK
    - [ ] Lilo Coffee
    - [ ] Caravelle
-   - [ ] CaféCosmo
+   - [x] CaféCosmo
    - [ ] Ombú Bcn
    - [ ] Black Remedy
    - [x] Es Bien Coffee
    - [ ] Onna Coffee
    - [ ] SlowMov
    - [x] Robot House Barcelona
-   - [ ] Nomad Coffee Roaster's Home
+   - [x] Nomad Coffee Roaster's Home
    - [ ] Cafés El Magnífico
    - [x] Syra Coffee
    - [ ] Selvática
@@ -467,8 +472,9 @@
    - [x] Le Tigre Cakes
    - [ ] Neo Coffee House
    - [ ] Eroicca Caffè Barcelona
-   - [ ] Brew Coffee
-
+   - [x] Brew Coffee
+   - [x] Funky Bakers
+   - [x] Crumb
 
 
 ### BUBBLE TEA & ZUMITOS
@@ -591,7 +597,6 @@
    - [ ] The Oven Witch
    - [ ] Sweet Munchies Bcn
    - [ ] Al Grano (Paellas)
-   - [ ] Patapollo restaurants
    - [ ] The Paella Club (Haces tu la paella)
    - [ ] Macao Home Sushi (Hacer sushi en casa)
    - [x] Toke Si
