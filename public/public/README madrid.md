@@ -30,6 +30,7 @@
 - [ ] Sal Mestiza
 - [ ] Ojalá
 - [ ] MO de Movimiento
+- [ ] Frankie Burger
 
 ## HELADOS
 - [ ] N2LAB (Helados de nitrogeno)
