@@ -45,6 +45,7 @@
    - [ ] Don Cuernitos
    - [ ] Tiramisu House BCN
    - [ ] Savta BCN (Sandwiches)
+   - [ ] Bodegas Santo Porcello (Panini,tigelle)
 
 ### BRUNCH
    - [ ] Billy Brunch & Garden
@@ -58,6 +59,7 @@
    - [ ] Simple Brunch
    - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
    - [ ] Hardware Société
+   - [ ] Pan y Pan (Venezuela)
 
 
 ### AGUACATE:
@@ -99,7 +101,6 @@
    - [ ] Flash Flash (Tortilla)
    - [ ] Mantequerias Pirenaicas (Tortilla y Croquetas)
    - [ ] Les Truites
-   - [ ] La bodegueta de Sant Andreu (bona pinta pero si se puede el resto)
    - [ ] Reñé • RestoBar (Modernista)
    - [ ] Tapas 2254 https://www.tiktok.com/@caketina_/video/6979215152176549126?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6984803251309495814 + tartar roll
    - [ ] Lokal
@@ -111,7 +112,6 @@
 
 ### TARTAR:
    - [ ] Bar Cañete 
-   - [ ] Coroto
    - [ ] Mimo’s Born
 
 
@@ -128,7 +128,7 @@
    - [ ] Can Xurrades
 
 
-### HAMBURGUESAS / FRANKFURT / POLLO:
+### HAMBURGUESAS / FRANKFURT:
    - [x] Hideout Burger
    - [x] Santa Burg
    - [x] Timesburg 
@@ -154,7 +154,6 @@
    - [ ] Altaburg (hamburguesa con donut)
    - [ ] Bar Torpedo (de todo, pedir hamburguesa)
    - [ ] Big Al's Barcelona Eixample (Reto hamburguesa)
-   - [ ] Rooq Chicken (Pollo)
    - [ ] Wild Beef Barcelona (Hamburguesas 200g 4$)
    - [x] Koby Burgers
    - [ ] El Pibe
@@ -162,7 +161,6 @@
    - [ ] Surf House Secret Spot
    - [ ] Gringa
    - [ ] Foc i Oli
-   - [ ] Piel de Gallina (Pollo)
    - [ ] The Egg Lab Street
    - [ ] Machaka Burger
    - [ ] BonaBurger
@@ -172,11 +170,19 @@
    - [ ] La Sagrada BCN (Hamburguesas cocinadas sobre piedras volcánicas)
    - [ ] Tio Joe Restaurante
    - [x] Burguesa
-   - [x] PataPollo (buffet ilimitado de pollo los martes)
    - [x] Bungr
    - [ ] Chivuos
    - [ ] Soda Bus (comes dentro de un autobus inglés)
-   - [ ] La Sagrada 
+   - [ ] Trash Talk
+   - [ ] Smash House Burger
+
+### POLLO
+   - [ ] Kiki&Riki 
+   - [ ] Dr. Beer & Mr. Fried (Alitas de pollo ilimitado martes y miércoles)
+   - [x] PataPollo (buffet ilimitado de pollo los martes)
+   - [ ] Piel de Gallina 
+   - [ ] Rooq Chicken
+   - [ ] The Yard Gallito
 
 ### PASTA
    - [ ] Macchina (Pasta rapida)
@@ -208,6 +214,7 @@
    - [x] Sartoria Panatieri - Pizzería en Eixample
    - [ ] La Balmesina
    - [x] Traficantes de Harina
+   - [ ] Luigi Ristorante (Pizza d'Oro con Ferrero Rocher)
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
@@ -221,7 +228,8 @@
    - [ ] Hot Boat (pan & queso)
    - [ ] BYKYNY Bcn (Aparte bocadillo jamón)
    - [ ] Patito Feo (Bocadillo + cerveza)
-   - [ ] Bullicio 
+   - [ ] Bullicio
+   - [ ] Emapanda Club
 
 ### POKEBOWLS:
    - [ ] D’Street Poke & Bowls
@@ -245,6 +253,7 @@
    - [ ] Cotton Fish Sushi
    - [ ] Zabu Sushi 
    - [x] Más que Sushi
+   - [ ] Kuzu (Fusión Asiatica, sushi creativo)
 
 
  ### JAPÓN / RAMEN / ASIATICO:
@@ -281,7 +290,6 @@
    - [ ] Hanki Restaurante Coreano (Japones terraza muy bueno)
    - [ ] Oishii Ramen Street
    - [ ] Mutenroshi Ramen
-   - [ ] Pa Finolis
    - [ ] Lucky Road Street Food (neones)
    - [ ] Takashi Ochiai Pastisseria (Pastelería japonesa y especialidades locales)
    - [x] Takumi Ramen Barcelona
@@ -301,6 +309,10 @@
    - [x] Suto Restaurante
    - [ ] Dip Dumpling
    - [x] Taiyaki Born (dulce pescado parecido gofre/crep)
+   - [ ] China Crown (Pato imperial Beijing)
+   - [ ] Koryo (Cocina tradicional coreana)
+   - [ ] He Cheng (Platos típicos de Qingtian)
+   - [ ] Ikoya Izakaya 
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -314,7 +326,7 @@
    - [ ] Chiringuito Chalito
    - [ ] Bodega Granados
    - [ ] Restaurant B-ONE Palau del Mar
-   - [ ] Auto Rosellon
+   - [x] Auto Rosellon
    - [x] Mordisco
    - [ ] El Jardí (Terraza bonita)
    - [ ] Ginette (pulpo, boniato con burrata, croquetas)
@@ -342,26 +354,31 @@
    - [x] Saona
    - [x] Calabrasa
    - [ ] Inquiet
+   - [ ] Teoric Taverna Gastronomica
+   - [ ] La Tere Gastrobar (Bun roll de dados de solomillo con foie porcini)
+   - [ ] Lluritu
+   - [ ] Finolis
 
 ### Internacional
-   - [ ] Toma Ya Street Food (Peruano)
+   - [ ] Toma Ya Street Food (Peru)
    - [ ] The Fish & Chips Shop
-   - [ ] Ruta40food (Argentino)
-   - [ ] Kinza BCN (Georgiana)
+   - [ ] Ruta40food (Argentina)
+   - [ ] Kinza BCN (Georgia)
    - [ ] El Argentino
+   - [x] Arepamundi (Venezuela)
    - [ ] Donde Siempre (Venezuela)
    - [ ] La Chula Cervecería Mexicana (Mexico)
    - [ ] Anormal BCN (Mexico)
    - [ ] Gonzalez and Co
    - [ ] Baby jalebi (PUNJABI STREET FOOD)
    - [ ] Leche de Tige (Perú)
-   - [x] TheQuickGreek (Griego)
-   - [ ] Tio Papelón (Venezolano)
-   - [ ] El Maracucho Grill House (Venezolano)
-   - [ ] Masala'73 Curry Bar (Indio)
-   - [ ] Beryti Bistro (Libanes)
+   - [x] TheQuickGreek (Grecia)
+   - [ ] Tio Papelón (Venezuela)
+   - [ ] El Maracucho Grill House (Venezuela)
+   - [ ] Masala'73 Curry Bar (India)
+   - [ ] Beryti Bistro (Libano)
    - [ ] Quiote (Cocina Mexicana/Mezcalería)
-   - [ ] Taco Alto (Mexicano, sitio chulo)
+   - [ ] Taco Alto (Mexico, sitio chulo)
    - [ ] Fishpac (Cocina asiatica - caribeña)
    - [ ] Hummus & Company
    - [x] La Taqueria BCN
@@ -379,6 +396,8 @@
    - [ ] La Turuleca Barcelona (Peru)
    - [ ] La Antigua de Mexico
    - [x] Terminal 42 Barcelona
+   - [ ] Coroto (Caribe - Asia)
+
 
 ### VEGETARIANO
    - [x] Fat Veggies
@@ -480,7 +499,11 @@
    - [x] Funky Bakers
    - [x] Crumb
    - [ ] Xioleta Coffee + Botiga
-
+   - [ ] Perfumería de Cafe
+   - [ ] Boutique du Cafe
+   - [ ] All Day Cafe
+   - [ ] Café Pendiente
+   - [ ] Paradero.Eu
 
 ### BUBBLE TEA & ZUMITOS
    - [ ] Tymless Tea
@@ -555,7 +578,7 @@
    - [ ] Velissima
    - [ ] Bus Terraza
    - [ ] Cotton House
-   - [ ] El Mirador de Can Cases
+   - [x] El Mirador de Can Cases
    - [ ] Gallery Hotel
    - [ ] Duquesa de Cardona
    - [ ] The Barcelona Edition
@@ -605,6 +628,7 @@
    - [ ] The Paella Club (Haces tu la paella)
    - [ ] Macao Home Sushi (Hacer sushi en casa)
    - [x] Toke Si
+
 
 
 ## COSTA BRAVA
