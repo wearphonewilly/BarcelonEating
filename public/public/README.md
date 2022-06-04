@@ -254,6 +254,7 @@
    - [ ] Zabu Sushi 
    - [x] Más que Sushi
    - [ ] Kuzu (Fusión Asiatica, sushi creativo)
+   - [ ] 4 makis
 
 
  ### JAPÓN / RAMEN / ASIATICO:
@@ -298,7 +299,7 @@
    - [ ] Robata
    - [ ] Mosquito Tapas
    - [ ] Ramen Shifu
-   - [x] Crepería Xian Hui Jie (Crepes Chinas (Jianbing))
+   - [x] Crepería Xian Hui Jie (Crepes Chinas (Jianbing)
    - [ ] Ichiban
    - [ ] Kitsuné
    - [ ] POCHA asian dining & bar
@@ -504,6 +505,8 @@
    - [ ] All Day Cafe
    - [ ] Café Pendiente
    - [ ] Paradero.Eu
+   - [ ] Solo Coffee Bar
+   - [ ] La Cherry
 
 ### BUBBLE TEA & ZUMITOS
    - [ ] Tymless Tea
@@ -638,3 +641,4 @@
    - [x] Jofre Xurreria
    - [ ] Can Pujol
    - [ ] Cap Sa Sal (Begur)
+   - [ ] Funky Pizza
