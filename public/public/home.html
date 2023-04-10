@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BarcelonEating</title>
+    <link rel="stylesheet" href="./css/home.css">
+</head>
+
+<body>
+    <header>
+        <h1>BarcelonEating</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Sobre nosotros</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Encuentra los mejores restaurantes en Barcelona</h2>
+        <form>
+            <label for="search">Buscar:</label>
+            <input type="text" id="search" name="search">
+            <label for="type">Tipo de comida:</label>
+            <select id="type" name="type">
+                <option value="mediterranea">Cocina mediterránea</option>
+                <option value="tapas">Tapas</option>
+                <option value="sushi">Sushi</option>
+                <option value="hamburguesas">Hamburguesas</option>
+            </select>
+            <label for="price">Precio:</label>
+            <select id="price" name="price">
+                <option value="1">€</option>
+                <option value="2">€€</option>
+                <option value="3">€€€</option>
+            </select>
+            <button type="submit">Buscar</button>
+        </form>
+        <section id="restaurantes">
+            <!-- Aquí se mostrarán los resultados de la búsqueda -->
+        </section>
+    </main>
+    <footer>
+        <p>Derechos reservados BarcelonEating &copy; 2023</p>
+    </footer>
+    <script src="jquery.min.js"></script>
+    <script src="./js/home.js"></script>
+</body>
+
+</html>

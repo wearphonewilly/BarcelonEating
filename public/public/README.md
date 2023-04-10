@@ -17,7 +17,6 @@
    - [ ] L’Atelier Barcelona
    - [ ] The Cream BCN (Waggle Buffle)
    - [ ] La Desayuneria
-   - [ ] El Brunch Market
    - [x] Chök The Chocolate Kitchen
    - [ ] Bow Barcelona
    - [ ] El Born Pasteleria
@@ -45,6 +44,8 @@
    - [ ] Don Cuernitos
    - [ ] Tiramisu House BCN
    - [ ] Savta BCN (Sandwiches)
+   - [ ] Tartisse
+   - [ ] Zandaka
 
 ### BRUNCH
    - [ ] Billy Brunch & Garden
@@ -57,6 +58,8 @@
    - [ ] EqvilibrivmCafe
    - [ ] Simple Brunch
    - [ ] Es Bien brunch (Mejillón Bouchot sin trabajo con "rossinyols" y salsa thai)
+   - [ ] Bendito Brunch Barcelona
+   - [ ] El Brunch Market
 
 
 ### AGUACATE:
@@ -82,6 +85,7 @@
    - [ ] Sant Antoni Glorios
    - [ ] El Mamón
    - [ ] La esquinica
+   - [ ] My Fucking Restaurant
 
 ## COMIDAS
 
@@ -162,14 +166,17 @@
    - [ ] Gringa
    - [ ] Foc i Oli
    - [ ] Piel de Gallina (Pollo)
+   - [ ] The Yard Gallito (Gallo a la brasa)
    - [ ] The Egg Lab Street
    - [ ] Machaka Burger
    - [ ] BonaBurger
    - [ ] BRO Barcelona
    - [x] Asado Hamburguesas
    - [ ] Clubhaus (tiene dj)
-   - [ ] La Sagrada BCN (Hamburguesas cocinadas sobre piedras volcánicas)
-   - [ ] Tio Joe Restaurante
+   - [x] La Sagrada BCN
+   - [x] Tio Joe Restaurante
+   - [ ] Frankfurt Hora Punta
+   - [ ] Sumac & Mambo
 
 ### PASTA
    - [ ] Macchina (Pasta rapida)
@@ -179,6 +186,7 @@
    - [ ] Eroica Caffè Barcelona
    - [x] F.I.S.H (Fresh Italian Sea Harvest)
    - [ ] Ostaia Barcelona
+   - [ ] Bacaro Barcelona
 
 
 ### PIZZA:
@@ -197,9 +205,10 @@
    - [ ] The Haissala’s Pizza
    - [x] Pizza Markets
    - [x] Passione Napolitana
-   - [ ] Don Kilo (Calzone de chocolate)
+   - [x] Don Kilo (Calzone de chocolate)
    - [x] Sartoria Panatieri - Pizzería en Eixample
    - [ ] La balmesina
+   - [ ] Grosso Napoletano
 
 ### EMPANADILLAS:
    - [ ] L’empanadité
@@ -208,7 +217,7 @@
    - [ ] Casa Diaz BCN (Arepas)
    - [ ] Sagàs Pagesos i Cuiners (Bocadillos)
    - [ ] Bodega Santo Porcello
-   - [ ] Chivuo's (Bocadillos)
+   - [x] Chivuo's (Bocadillos)
    - [ ] Casa Díaz Bcn
    - [ ] Hot Boat (pan & queso)
    - [ ] BYKYNY Bcn (Aparte bocadillo jamón)
@@ -221,6 +230,7 @@
    - [ ] Poke Si
    - [ ] Bohl
    - [x] Nua Smart Restaurant
+   - [x] Poke Bowl Barcelona 
 
 
 ### SUSHI:
@@ -292,6 +302,8 @@
    - [ ] Restaurante Mian
    - [x] Suto Restaurante
    - [ ] Dip Dumpling
+   - [ ] Yuanlaosi Hotpot Barcelona
+   - [ ] Last Monjey Bcn
 
 ### HOTPOTS
    - [ ] Sabor Sichua
@@ -305,7 +317,7 @@
    - [ ] Chiringuito Chalito
    - [ ] Bodega Granados
    - [ ] Restaurant B-ONE Palau del Mar
-   - [ ] Auto Rosellon
+   - [X] Auto Rosellon
    - [x] Mordisco
    - [ ] El Jardí (Terraza bonita)
    - [ ] Ginette (pulpo, boniato con burrata, croquetas)
@@ -333,6 +345,9 @@
    - [x] Saona
    - [x] Calabrasa
    - [ ] Inquiet
+   - [ ] Espai Puntual
+   - [ ] Tortuga
+   - [ ] Camino Bites
 
 ### Internacional
    - [ ] Toma Ya Street Food (Peruano)
@@ -353,6 +368,7 @@
    - [ ] Beryti Bistro (Libanes)
    - [ ] Quiote (Cocina Mexicana/Mezcalería)
    - [ ] Taco Alto (Mexicano, sitio chulo)
+   - [ ] El Tacos 16 (Mexicano)
    - [ ] Fishpac (Cocina asiatica - caribeña)
    - [ ] Hummus & Company
    - [x] La Taqueria BCN
@@ -364,13 +380,15 @@
    - [ ] Addis Abeba (Etiopia)
    - [ ] Ugarit (Siria)
    - [ ] Tandoor (India)
-   - [ ] Albé Barcelona (Libano)
+   - [ ] Albé Barcelona (Libanes)
    - [ ] Chaka Khan (Marruecos)
    - [ ] Good Shit (Vegan Kebabs)
    - [ ] Chennai Masala Dosa (India)
    - [ ] La Turuleca Barcelona (Peru)
    - [ ] La Antigua de Mexico
    - [x] Terminal 42 Barcelona
+   - [ ] Simsim (Medio Oriente)
+   - [ ] Al Jaima De Abou Khalil (Libanes)
 
 ### VEGETARIANO
    - [x] Fat Veggies
@@ -419,7 +437,7 @@
    - [x] Bicioci Bike Cafè
    - [ ] Cafè Cometa
    - [ ] PERLA COFFEE KIOSK
-   - [ ] Lilo Coffee
+   - [x] Lilo Coffee
    - [ ] Caravelle
    - [ ] CaféCosmo
    - [ ] Ombú Bcn
@@ -428,7 +446,7 @@
    - [ ] Onna Coffee
    - [ ] SlowMov
    - [x] Robot House Barcelona
-   - [ ] Nomad Coffee Roaster's Home
+   - [x] Nomad Coffee Roaster's Home
    - [ ] Cafés El Magnífico
    - [x] Syra Coffee
    - [ ] Selvática
@@ -468,6 +486,11 @@
    - [ ] Neo Coffee House
    - [ ] Eroicca Caffè Barcelona
    - [ ] Brew Coffee
+   - [ ] GoodMo 
+   - [ ] Crumb BCN
+   - [ ] Onia Cafe
+   - [ ] Lekker Café
+   - [ ] Lulu Barcelona
 
 
 
@@ -507,7 +530,8 @@
    - [ ] Snack 55
    - [ ] Tot 1 Euro Bar
    - [ ] Mescladis del Pou
-   - [ ] La Pecera del Pool
+   - [x] La Pecera del Pool
+   - [ ] Bar Ancestral
 
 
 ### TERRAZAS:
@@ -549,6 +573,7 @@
    - [ ] Duquesa de Cardona
    - [ ] The Barcelona Edition
    - [ ] Hotel Colón
+   - [ ] Hotel Casa Camper
 
 ### CERVECERÍA:
    - [x] Super Sol
@@ -556,7 +581,7 @@
    - [ ] Bar Torpedo
    - [ ] La Menuda - Craft Beer & Crazy Food
    - [x] Bar Centro - Burgers & Craft Beer
-   - [ ] Chivuo's
+   - [x] Chivuo's
    - [ ] CocoVail Beer Hall Barcelona
    - [ ] Gula PIZZA Bar 
    - [x] Garage Beer Co (OBSCENE : TIPA 10%)
@@ -584,7 +609,7 @@
    - [ ] Mordisco Mania
    - [ ] Alfaluquis.bcn (Alfajores Argentinos)
    - [ ] Xoco Break (_xoco)
-   - [ ] Sushi venezolano en bcn (sushilatino16
+   - [ ] Sushi venezolano en bcn (sushilatino16)
    - [ ] Sugar Pastry Company
    - [ ] Wonder Cookies
    - [x] Mando Huevos ⚡️🥚 by Els Pinxus
@@ -595,6 +620,7 @@
    - [ ] The Paella Club (Haces tu la paella)
    - [ ] Macao Home Sushi (Hacer sushi en casa)
    - [x] Toke Si
+   - [ ] TAMAE BAR
 
 
 ## COSTA BRAVA
@@ -604,3 +630,4 @@
    - [x] Jofre Xurreria
    - [ ] Can Pujol
    - [ ] Cap Sa Sal (Begur)
+   - [ ] Kumo Calella
