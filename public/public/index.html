@@ -2,12 +2,36 @@
 <html lang="es">
 
 <head>
-    <title> Comiendo en Barcelona</title>
+    <title>Comiendo en Barcelona | Guía de Restaurantes y Bares</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Pagina Web de Comidas y Bebidas en Barcelona" />
-    <meta name="keywords" content="" />
+    <meta name="description" content="Guía de restaurantes, bares, desayunos, tapas y terrazas en Barcelona. Descubre los mejores lugares para comer y beber en la ciudad." />
+    <meta name="keywords" content="Barcelona, restaurantes, bares, tapas, desayunos, terrazas, comida, bebida, guía gastronómica" />
     <meta name="author" content="Comiendo en Barcelona" />
+    <link rel="canonical" href="https://wearphonewilly.github.io/barceloneating/" />
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <!-- Open Graph -->
+    <meta property="og:title" content="Comiendo en Barcelona | Guía de Restaurantes y Bares" />
+    <meta property="og:description" content="Guía de restaurantes, bares, desayunos, tapas y terrazas en Barcelona. Descubre los mejores lugares para comer y beber en la ciudad." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://wearphonewilly.github.io/barceloneating/" />
+    <meta property="og:image" content="img/Desayuno/rachel-park-hrlvr2ZlUNk-unsplash.jpg" />
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Comiendo en Barcelona | Guía de Restaurantes y Bares" />
+    <meta name="twitter:description" content="Guía de restaurantes, bares, desayunos, tapas y terrazas en Barcelona. Descubre los mejores lugares para comer y beber en la ciudad." />
+    <meta name="twitter:image" content="img/Desayuno/rachel-park-hrlvr2ZlUNk-unsplash.jpg" />
+    <!-- Datos estructurados JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Comiendo en Barcelona",
+      "url": "https://wearphonewilly.github.io/barceloneating/",
+      "description": "Guía de restaurantes, bares, desayunos, tapas y terrazas en Barcelona. Descubre los mejores lugares para comer y beber en la ciudad.",
+      "inLanguage": "es"
+    }
+    </script>
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:300,400,700,800|Open+Sans:300,400,700"
         rel="stylesheet">
@@ -77,8 +101,12 @@
 </head>
 
 <body>
-
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a href="#main-content" class="skip-link" style="position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:1000;">Saltar al contenido principal</a>
+    <header>
+        <h1>Comiendo en Barcelona</h1>
+        <p>Descubre los mejores restaurantes, bares, desayunos, tapas y terrazas de Barcelona. Una guía gastronómica para foodies y amantes de la buena mesa.</p>
+    </header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" role="navigation" aria-label="Menú principal">
         <a class="navbar-brand" href="index.html">BarcelonEating</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
             aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -86,56 +114,86 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-item nav-link active" href="index.html">Inicio <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="html/desayunos.html">Desayunos</a>
-                <a class="nav-item nav-link" href="html/tapas.html">Tapas</a>
-                <a class="nav-item nav-link" href="html/comidas.html">Comidas</a>
-                <a class="nav-item nav-link" href="html/bebidas.html">Bebidas</a>
-                <a class="nav-item nav-link disabled" href="html/insert.html">Insert</a>
+                <a class="nav-item nav-link active" href="index.html">Inicio <span class="sr-only">(página actual)</span></a>
+                <a class="nav-item nav-link" href="html/desayunos.html">Desayunos - Ir a la sección de desayunos</a>
+                <a class="nav-item nav-link" href="html/tapas.html">Tapas - Ir a la sección de tapas</a>
+                <a class="nav-item nav-link" href="html/comidas.html">Comidas - Ir a la sección de comidas</a>
+                <a class="nav-item nav-link" href="html/bebidas.html">Bebidas - Ir a la sección de bebidas</a>
+                <a class="nav-item nav-link disabled" href="html/insert.html" aria-disabled="true">Insertar restaurante (solo admins)</a>
             </div>
         </div>
     </nav>
-
-    <div class="cards-list">
-
-        <div class="card 1">
-            <div class="card_image">
-                <img src="img/Desayuno/rachel-park-hrlvr2ZlUNk-unsplash.jpg" />
+    <main id="main-content" tabindex="-1">
+        <section aria-labelledby="desayunos-section">
+            <h2 id="desayunos-section">Desayunos</h2>
+            <div class="cards-list">
+                <div class="card 1">
+                    <div class="card_image">
+                        <img src="img/Desayuno/rachel-park-hrlvr2ZlUNk-unsplash.jpg" alt="Desayunos en Barcelona" loading="lazy" />
+                    </div>
+                    <div class="card_title title-black">
+                        <a href="html/desayunos.html">Ver todos los desayunos</a>
+                    </div>
+                </div>
             </div>
-            <div class="card_title title-black">
-                <a href="html/desayunos.html">Desayunos</a>
+        </section>
+        <section aria-labelledby="tapas-section">
+            <h2 id="tapas-section">Tapas</h2>
+            <div class="cards-list">
+                <div class="card 2">
+                    <div class="card_image">
+                        <img src="img/Tapas/alexandre-trouve-IiMdHQa1HXI-unsplash.jpg" alt="Tapas en Barcelona" loading="lazy" />
+                    </div>
+                    <div class="card_title title-white">
+                        <a href="html/tapas.html">Ver todas las tapas</a>
+                    </div>
+                </div>
             </div>
-        </div>
-
-        <div class="card 2">
-            <div class="card_image">
-                <img src="img/Tapas/alexandre-trouve-IiMdHQa1HXI-unsplash.jpg" />
+        </section>
+        <section aria-labelledby="comidas-section">
+            <h2 id="comidas-section">Comidas</h2>
+            <div class="cards-list">
+                <div class="card 3">
+                    <div class="card_image">
+                        <img src="img/Comidas/spencer-davis-mM7PZdI8Zjo-unsplash.jpg" alt="Comidas en Barcelona" loading="lazy" />
+                    </div>
+                    <div class="card_title">
+                        <a href="html/comidas.html">Ver todas las comidas</a>
+                    </div>
+                </div>
             </div>
-            <div class="card_title title-white">
-                <a href="html/tapas.html">Tapas</a>
+        </section>
+        <section aria-labelledby="bebidas-section">
+            <h2 id="bebidas-section">Bebidas</h2>
+            <div class="cards-list">
+                <div class="card 4">
+                    <div class="card_image">
+                        <img src="img/Bebidas/fred-moon-0yqa0rMCsYk-unsplash.jpg" alt="Bebidas en Barcelona" loading="lazy" />
+                    </div>
+                    <div class="card_title title-white">
+                        <a href="html/bebidas.html">Ver todas las bebidas</a>
+                    </div>
+                </div>
             </div>
-        </div>
-
-        <div class="card 3">
-            <div class="card_image">
-                <img src="img/Comidas/spencer-davis-mM7PZdI8Zjo-unsplash.jpg" />
-            </div>
-            <div class="card_title">
-                <a href="html/comidas.html">Comidas</a>
-            </div>
-        </div>
-
-        <div class="card 4">
-            <div class="card_image">
-                <img src="img/Bebidas/fred-moon-0yqa0rMCsYk-unsplash.jpg" />
-            </div>
-            <div class="card_title title-white">
-                <a href="html/bebidas.html">Bebidas</a>
-            </div>
-        </div>
-
-    </div>
-
+        </section>
+    </main>
+    <footer role="contentinfo">
+        <p>&copy; 2024 Comiendo en Barcelona. Todos los derechos reservados.</p>
+    </footer>
+    <style>
+    .skip-link:focus {
+        position: static !important;
+        width: auto !important;
+        height: auto !important;
+        left: 0 !important;
+        top: 0 !important;
+        background: #fff;
+        color: #000;
+        padding: 8px 16px;
+        z-index: 10000;
+        outline: 2px solid #000;
+    }
+    </style>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
     <script src="https://www.gstatic.com/firebasejs/8.1.2/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.1.2/firebase-database.js"></script>
